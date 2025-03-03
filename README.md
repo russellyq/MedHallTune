@@ -1,16 +1,17 @@
 # MedHallTune
 
-**MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** [[Paper]()][[Huaggingface](https://huggingface.co/datasets/russellyq/MedHallTune)]
+**MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** [[Paper](https://arxiv.org/abs/2502.20780)][[Huaggingface](https://huggingface.co/datasets/russellyq/MedHallTune)]
 
 [Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
 
 
 
 ## Release
+- Both trainig and evaluation of MedHallTune, and model weights will be released soon. 
 - MedHallTune is available on [[arXiv](https://arxiv.org/abs/2502.20780)]. 
 
 
-## Model Download
+<!-- ## Model Download
 
 We provide finetuned LLaVA-Med v1.5 model on MedHallTune.
 
@@ -18,7 +19,13 @@ We provide finetuned LLaVA-Med v1.5 model on MedHallTune.
 | --- | ---: |
 | LLaVA-Med v1.5 | [LLaVA-Med-MedHallTune](https://huggingface.co/russellyq/LLaVA-Med-MedHallTune) |
 
+## Dataset Download
 
+We provide both training and evaluation dataset of MedHallTune for public.
+
+ Dataset Descriptions | 🤗 Huggingface Hub | 
+| --- | ---: |
+| MedHallTune | [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune) | -->
 
 
 [![Code License](https://img.shields.io/badge/Code%20License-Microsoft%20Research-red)](Research%20License.docx)
