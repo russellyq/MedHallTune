@@ -7,7 +7,7 @@
 
 
 ## Release
-- [] MedHallTune is available on [[arXiv]()]. 
+- MedHallTune is available on [[arXiv](https://arxiv.org/abs/2502.20780)]. 
 
 
 ## Model Download
