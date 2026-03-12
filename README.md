@@ -1,14 +1,18 @@
 # MedHallTune
 
-**MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** [[Paper](https://arxiv.org/abs/2502.20780)][[Huaggingface](https://huggingface.co/datasets/russellyq/MedHallTune)]
+**MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** 
+
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/russellyq/MedHallTune)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv)](https://arxiv.org/abs/2502.20780)
+
 
 [Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
 
 
-
 ## Release
-- Evaluation data is available at [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune). 
-- MedHallTune is available on [[arXiv](https://arxiv.org/abs/2502.20780)]. 
+
+- Evaluation data is now available at **HuggingFace**.
+- MedHallTune is now available on **arXiv**.
 
 ## Usage
 
