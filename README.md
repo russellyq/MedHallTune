@@ -2,7 +2,7 @@
 
 **MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** [[Paper](https://arxiv.org/abs/2502.20780)][[Huaggingface](https://huggingface.co/datasets/russellyq/MedHallTune)]
 
-[Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), Xiwen Wu, [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
+[Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
 
 
 
