@@ -2,36 +2,34 @@
 
 **MedHallTune: A Benchmark and Instruction Tuning Dataset for Mitigating Medical Hallucination in Vision-Language Models** [[Paper](https://arxiv.org/abs/2502.20780)][[Huaggingface](https://huggingface.co/datasets/russellyq/MedHallTune)]
 
-[Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
+[Qiao Yan](https://github.com/russellyq), [Yuchen Yuan](https://scholar.google.com/citations?user=UzPuPRIAAAAJ&hl=en),[Xiaowei Hu](https://xw-hu.github.io/), [Yihan Wang](https://github.com/yiyihan), [Jiaqi Xu](https://jiaqixuac.github.io/), Xiwen Wu, [Jinpeng Li](https://scholar.google.com/citations?user=gnkdhZ0AAAAJ&hl=en), [Chi Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/)
 
 
 
 ## Release
-- Both trainig and evaluation of MedHallTune, and model weights will be released soon. 
+- Evaluation data is available at [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune). 
 - MedHallTune is available on [[arXiv](https://arxiv.org/abs/2502.20780)]. 
 
+## Usage
 
-<!-- ## Model Download
+1. Download the dataset from [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune).
 
-We provide finetuned LLaVA-Med v1.5 model on MedHallTune.
+2. Run inference with your own model to generate a result file in JSONL format.
 
- Model Descriptions | 🤗 Huggingface Hub | 
-| --- | ---: |
-| LLaVA-Med v1.5 | [LLaVA-Med-MedHallTune](https://huggingface.co/russellyq/LLaVA-Med-MedHallTune) |
+3. Run the evaluation.
 
-## Dataset Download
+   3.1 Set your OpenAI API key in `agent.py`.
 
-We provide both training and evaluation dataset of MedHallTune for public.
+   3.2 Run the evaluation script:
 
- Dataset Descriptions | 🤗 Huggingface Hub | 
-| --- | ---: |
-| MedHallTune | [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune) | -->
+   ```bash
+   python eval.py \
+       --input_path "path_to_your_results.jsonl" \
+       --output_path "path_to_save_evaluation_results"
 
-
-<!-- [![Code License](https://img.shields.io/badge/Code%20License-Microsoft%20Research-red)](Research%20License.docx)
-[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
-**Usage and License Notices**: The data, code, and model checkpoints are intended and licensed for research use only. They are also subject to additional restrictions dictated by the Terms of Use: LLaMA, Vicuna and GPT-4 respectively. The data is made available under CC BY NC 4.0. The data, code, and model checkpoints may be used for non-commercial purposes and any models trained using the dataset should be used only for research purposes. It is expressly prohibited for models trained on this data to be used in clinical care or for any clinical decision making purposes. -->
-
+```markdown
+> **Note:** You may need to slightly modify `eval.py` to adapt it to your own result format.
+```
 
 ## Citation
 
