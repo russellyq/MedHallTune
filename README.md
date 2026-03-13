@@ -11,8 +11,15 @@
 
 ## Release
 - Automatic evaluation platform is available at [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval).
-- Evaluation data is now available at **HuggingFace**.
-- MedHallTune is now available on **arXiv**.
+- Dataset is available at [**OpenCompass**](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
+- Evaluation data is now available at [**HuggingFace**](https://huggingface.co/datasets/russellyq/MedHallTune).
+- MedHallTune is now available on [**arXiv**](https://arxiv.org/abs/2502.20780).
+
+## Release
+- Automatic evaluation platform is available at [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval).
+- Dataset is available at [**OpenCompass**](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
+- Evaluation data is available at [**HuggingFace**](https://huggingface.co/datasets/russellyq/MedHallTune).
+- MedHallTune is available on [**arXiv**](https://arxiv.org/abs/2502.20780).
 
 ## Usage
 
@@ -20,9 +27,62 @@
 
 2. The validation split annotations are provided under `/results_save_dir/`.
 
-3. Run **inference with your own model** to generate a result file in **JSONL format**.
+3. Run **inference with your own model** to generate a prediction file in **JSONL format**.
 
-4. Upload your prediction file to the evaluation space: [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval)
+4. Go to the automatic evaluation platform: [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval)
+
+5. On the evaluation page:
+   - Select the task type (**positive** or **negative**).
+   - Upload your prediction file in **JSONL** format.
+   - Provide your own API key (and base URL if needed).
+   - Run the automatic evaluation and obtain the final evaluation summary.
+
+6. After obtaining the evaluation results, please send the results to us by email for leaderboard submission.
+
+<!-- ---
+
+### Why do results need to be submitted by email?
+
+Leaderboard results are **not updated automatically**.  
+Please send your evaluation results to us by email so that we can **manually review** each submission before updating the public leaderboard on [OpenCompass](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
+
+This manual review step is necessary to:
+
+- avoid incorrect evaluations caused by invalid prediction formats or mismatched settings,
+- avoid duplicate submissions of the same method,
+- ensure the fairness and reliability of the public leaderboard.
+
+--- -->
+
+### Submission Email
+
+If you would like your method to be included in the public leaderboard, please send us:
+
+- your model name,
+- a short description of the method,
+- the evaluation summary from [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval),
+- and optionally the prediction file for verification.
+
+Please send your submission to: [Qiao Yan](mailto:qiao.yan@link.cuhk.edu.hk)
+
+---
+
+### Detailed Evaluation Procedure
+
+The evaluation platform [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval) supports automatic scoring for user-submitted predictions.
+
+To evaluate your method:
+
+1. Prepare a prediction file in **JSONL** format.
+2. Make sure each line corresponds to one sample in the validation set.
+3. Open the evaluation page and choose the correct task split:
+   - **positive**
+   - **negative**
+4. Upload your JSONL file.
+5. Enter your API key required by the evaluator.
+6. Click **Run Evaluation**.
+7. Wait until the evaluation finishes and the summary is displayed on the page.
+8. Save the evaluation summary and email it to us if you would like to request leaderboard inclusion.
 
 ---
 
