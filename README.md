@@ -10,7 +10,7 @@
 
 
 ## Release
-
+- Automatic evaluation platform is available at [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval).
 - Evaluation data is now available at **HuggingFace**.
 - MedHallTune is now available on **arXiv**.
 
@@ -18,25 +18,32 @@
 
 1. Download the image data from [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune).
 
-2. Validation splirt data annotation is under `/results_save_dir/`.
+2. The validation split annotations are provided under `/results_save_dir/`.
 
-3. Run **inference with your own model** to generate a result file in JSONL format.
+3. Run **inference with your own model** to generate a result file in **JSONL format**.
 
-4. Run the evaluation.
+4. Upload your prediction file to the evaluation space: [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval)
 
-   4.1 Set your OpenAI API key in `agent.py`.
+---
 
-   4.2 Run the evaluation script:
+### Example Prediction Format
 
-   ```bash
-   python eval.py \
-       --input_path "path_to_your_results.jsonl" \
-       --output_path "path_to_save_evaluation_results"
+Each line in the JSONL file should follow the format below:
 
-```markdown
-> **Note:** You may need to slightly modify `eval.py` to adapt it to your own result format.
+```json
+{
+  "question_id": "xxx",
+  "image": "xxx",
+  "question": "xxx",
+  "answer": "Your model answer"
+}
 ```
 
+### Notes
+- Please ensure the `question_id` matches the official validation split.
+- The uploaded JSONL file should contain one prediction per line.
+- If you encounter any problems during the evaluation process, please feel free to contact us: <qiao.yan@link.cuhk.edu.hk>.
+- We are happy to help with the evaluation.
 
 ## MedHallTune Benchmark Results
 

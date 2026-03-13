@@ -1,0 +1,1110 @@
+{"question_id": 0, "image": "34760421_FIG1.jpg", "question": "What does the chest x-ray reveal about the left midlung?\n<image>"}
+{"question_id": 2, "image": "34760421_FIG1.jpg", "question": "Are the biapical reticular opacities more pronounced on the left side?\n<image>"}
+{"question_id": 3, "image": "34760421_FIG1.jpg", "question": "Does the presence of reticular opacities suggest a specific disease?\n<image>"}
+{"question_id": 4, "image": "34760421_FIG1.jpg", "question": "Can the findings in the chest x-ray help in diagnosing tuberculosis?\n<image>"}
+{"question_id": 5, "image": "34760421_FIG1.jpg", "question": "Is it important to follow up with further imaging or tests after this x-ray?\n<image>"}
+{"question_id": 7, "image": "35453606_biomedicines-10-00856-f006.jpg", "question": "Does the image indicate that resiquimod affects immune cell infiltration?\n<image>"}
+{"question_id": 8, "image": "35453606_biomedicines-10-00856-f006.jpg", "question": "Are there any notable changes in plasma cells or eosinophils in the image?\n<image>"}
+{"question_id": 9, "image": "35453606_biomedicines-10-00856-f006.jpg", "question": "Is the increase in immune cells statistically significant according to the image?\n<image>"}
+{"question_id": 10, "image": "35453606_biomedicines-10-00856-f006.jpg", "question": "Can we conclude that resiquimod enhances the immune response in wounds based on the image?\n<image>"}
+{"question_id": 11, "image": "35453606_biomedicines-10-00856-f006.jpg", "question": "Does the image suggest that the immune response is more robust in resiquimod-induced wounds compared to controls?\n<image>"}
+{"question_id": 12, "image": "27733801_F16.jpg", "question": "Looking at the graph, would you say that the histopathology score and immunohistochemistry score are positively correlated?\n<image>"}
+{"question_id": 13, "image": "27733801_F16.jpg", "question": "Is it possible that higher histopathology scores reflect more severe disease in Pasteurellosis?\n<image>"}
+{"question_id": 14, "image": "27733801_F16.jpg", "question": "Can we conclude that immunohistochemistry is a reliable method for assessing disease severity in this context?\n<image>"}
+{"question_id": 15, "image": "27733801_F16.jpg", "question": "Does the graph suggest that there are any outliers in the data?\n<image>"}
+{"question_id": 16, "image": "27733801_F16.jpg", "question": "Is it likely that the trends observed in the graph are statistically significant?\n<image>"}
+{"question_id": 17, "image": "27733801_F16.jpg", "question": "Would you say that this graph provides valuable insights for future research on Pasteurellosis?\n<image>"}
+{"question_id": 18, "image": "29264321_F4.jpg", "question": "Can you identify the structure marked with the long arrow?\n<image>"}
+{"question_id": 19, "image": "29264321_F4.jpg", "question": "Does the short arrow highlight a distension in the digestive system?\n<image>"}
+{"question_id": 20, "image": "29264321_F4.jpg", "question": "Is the distance between the SMA and the aorta abnormal in this scan?\n<image>"}
+{"question_id": 21, "image": "29264321_F4.jpg", "question": "Does the image suggest any proximal intestinal obstruction?\n<image>"}
+{"question_id": 22, "image": "29264321_F4.jpg", "question": "Is the aorta labeled in the image?\n<image>"}
+{"question_id": 23, "image": "33182544_diagnostics-10-00923-f003.jpg", "question": "Is this image related to pancreatic cancer?\n<image>"}
+{"question_id": 24, "image": "33182544_diagnostics-10-00923-f003.jpg", "question": "Does the staining technique enhance the visualization of tissue structures?\n<image>"}
+{"question_id": 25, "image": "33182544_diagnostics-10-00923-f003.jpg", "question": "Can we see irregular shapes in the cancerous tissue?\n<image>"}
+{"question_id": 26, "image": "33182544_diagnostics-10-00923-f003.jpg", "question": "Are the changes in morphology significant for diagnosis?\n<image>"}
+{"question_id": 27, "image": "pmc_530949_0.jpg", "question": "What does the zone of clearing in the well suggest about the activity occurring in the assay?\n<image>"}
+{"question_id": 28, "image": "pmc_530949_0.jpg", "question": "Is it possible that the clearing is due to a viral infection affecting the cells in the well?\n<image>"}
+{"question_id": 29, "image": "pmc_530949_0.jpg", "question": "Could the clearing also indicate the presence of an enzyme that is degrading the medium?\n<image>"}
+{"question_id": 30, "image": "pmc_530949_0.jpg", "question": "Is the uniform gray background significant in interpreting the results of the assay?\n<image>"}
+{"question_id": 31, "image": "pmc_530949_0.jpg", "question": "Does the presence of grid lines in the image help in quantifying the results of the assay?\n<image>"}
+{"question_id": 32, "image": "pmc_530949_0.jpg", "question": "Can the results from this assay be used to evaluate the effectiveness of a treatment applied to the sample?\n<image>"}
+{"question_id": 33, "image": "30151290_fig1.jpg", "question": "Does the image show an injury to the patellar tendon?\n<image>"}
+{"question_id": 34, "image": "30151290_fig1.jpg", "question": "Can this image help identify abnormalities in patella positioning?\n<image>"}
+{"question_id": 36, "image": "30151290_fig1.jpg", "question": "Can the Insall-Salvati Index of 1.4 indicate a normal knee position?\n<image>"}
+{"question_id": 37, "image": "30151290_fig1.jpg", "question": "Was the Insall-Salvati Index corrected later?\n<image>"}
+{"question_id": 38, "image": "30151290_fig1.jpg", "question": "Is the patient's condition linked to their previous injury?\n<image>"}
+{"question_id": 45, "image": "pmc_436720_0.jpg", "question": "Is there any indication of significant deformities in the vertebrae?\n<image>"}
+{"question_id": 46, "image": "pmc_436720_0.jpg", "question": "Does the spinal cord show any abnormalities?\n<image>"}
+{"question_id": 47, "image": "pmc_436720_0.jpg", "question": "Can we conclude that there are no pathological enhancements in the image?\n<image>"}
+{"question_id": 48, "image": "pmc_436720_0.jpg", "question": "Is the small volume of the cyst a reason for its absence in this view?\n<image>"}
+{"question_id": 49, "image": "pmc_436720_0.jpg", "question": "Should further imaging be considered to assess the spinal anatomy better?\n<image>"}
+{"question_id": 50, "image": "pmc_436720_0.jpg", "question": "Is the mild dilatation of the central canal a cause for concern?\n<image>"}
+{"question_id": 52, "image": "pmc_27251_0.jpg", "question": "Is the stent correctly positioned within the esophagus?\n<image>"}
+{"question_id": 54, "image": "pmc_27251_0.jpg", "question": "Why are the stent's markers important in this X-ray?\n<image>"}
+{"question_id": 55, "image": "pmc_27251_0.jpg", "question": "Are there signs of complications from the stent placement?\n<image>"}
+{"question_id": 56, "image": "pmc_27251_0.jpg", "question": "Is the esophageal tumor mentioned causing an obstruction to the esophageal lumen?\n<image>"}
+{"question_id": 57, "image": "34430785_hep41723-fig-0003.jpg", "question": "What do the different colors in the graph indicate?\n<image>"}
+{"question_id": 58, "image": "34430785_hep41723-fig-0003.jpg", "question": "Are liver triglycerides (TGs) one of the markers being measured?\n<image>"}
+{"question_id": 59, "image": "34430785_hep41723-fig-0003.jpg", "question": "Did PXL065 show a significant effect on the markers of NASH progression?\n<image>"}
+{"question_id": 60, "image": "34430785_hep41723-fig-0003.jpg", "question": "Is d-S-pio effective in treating NASH according to the graph?\n<image>"}
+{"question_id": 61, "image": "34430785_hep41723-fig-0003.jpg", "question": "Are the histopathological measures included in the analysis?\n<image>"}
+{"question_id": 62, "image": "34430785_hep41723-fig-0003.jpg", "question": "Is there a significant difference between the treatment groups and the normal chow group?\n<image>"}
+{"question_id": 63, "image": "pmc_539450_0.jpg", "question": "Doctor, do the strong brown stains in sections A and D indicate aggressive tumor behavior?\n<image>"}
+{"question_id": 64, "image": "pmc_539450_0.jpg", "question": "Are the moderate stains in sections B and E a sign of tumor cell proliferation?\n<image>"}
+{"question_id": 65, "image": "pmc_539450_0.jpg", "question": "Do the sparse brown stains in sections C and F mean my tumor is less aggressive?\n<image>"}
+{"question_id": 66, "image": "pmc_539450_0.jpg", "question": "Is it possible that the different staining patterns help in determining the best treatment for my cancer?\n<image>"}
+{"question_id": 67, "image": "pmc_539450_0.jpg", "question": "Can the presence of certain proteins in the tumor indicate how it might respond to treatment?\n<image>"}
+{"question_id": 68, "image": "pmc_539450_0.jpg", "question": "Should I be concerned about the variations in staining across the different sections?\n<image>"}
+{"question_id": 69, "image": "pmc_51574_0.jpg", "question": "Can you tell me if the image shows evidence of calcification in the carotid plaque?\n<image>"}
+{"question_id": 70, "image": "pmc_51574_0.jpg", "question": "Are the calcified regions more pronounced than the surrounding tissue in this microCT image?\n<image>"}
+{"question_id": 71, "image": "pmc_51574_0.jpg", "question": "Based on the image, can you confirm if the method used is suitable for detecting smaller calcifications?\n<image>"}
+{"question_id": 73, "image": "pmc_51574_0.jpg", "question": "Is the absence of brightness in some regions indicative of non-calcified plaque tissue?\n<image>"}
+{"question_id": 74, "image": "pmc_51574_0.jpg", "question": "Would you say that the image successfully emphasizes the regions of interest for studying carotid plaque pathology?\n<image>"}
+{"question_id": 75, "image": "pmc_65976_0.jpg", "question": "What can you tell me about the mass in the scan?\n<image>"}
+{"question_id": 76, "image": "pmc_65976_0.jpg", "question": "Does the surrounding tissue look affected by the mass?\n<image>"}
+{"question_id": 77, "image": "pmc_65976_0.jpg", "question": "Is this type of imaging useful for diagnosing abdominal conditions?\n<image>"}
+{"question_id": 78, "image": "pmc_65976_0.jpg", "question": "Could this mass represent a serious health issue?\n<image>"}
+{"question_id": 79, "image": "pmc_65976_0.jpg", "question": "Is it possible to determine the exact nature of the mass from this scan alone?\n<image>"}
+{"question_id": 80, "image": "pmc_65976_0.jpg", "question": "Should further tests be conducted to understand this mass better?\n<image>"}
+{"question_id": 81, "image": "33722840_F2.jpg", "question": "What histological type has the highest representation in the image?\n<image>"}
+{"question_id": 82, "image": "33722840_F2.jpg", "question": "Is squamous cell carcinoma the second most common type shown?\n<image>"}
+{"question_id": 83, "image": "33722840_F2.jpg", "question": "Does the image include any cases of large cell neuroendocrine carcinoma?\n<image>"}
+{"question_id": 84, "image": "33722840_F2.jpg", "question": "Is non-small cell lung cancer\u2013not otherwise specified (NSCLC-NOS) represented in the image?\n<image>"}
+{"question_id": 85, "image": "33722840_F2.jpg", "question": "Is large cell carcinoma the least common type in the image?\n<image>"}
+{"question_id": 86, "image": "33722840_F2.jpg", "question": "Are all histological types represented in the image?\n<image>"}
+{"question_id": 87, "image": "31114735_FIG1.jpg", "question": "Does the image suggest any abnormalities in the chest scan?\n<image>"}
+{"question_id": 88, "image": "31114735_FIG1.jpg", "question": "Can you describe the visual characteristics of the nodule observed in the image?\n<image>"}
+{"question_id": 89, "image": "31114735_FIG1.jpg", "question": "Does the image point to any specific concern related to the nodule's location?\n<image>"}
+{"question_id": 90, "image": "31114735_FIG1.jpg", "question": "Is the size of the nodule below one centimeter?\n<image>"}
+{"question_id": 91, "image": "31114735_FIG1.jpg", "question": "Should the spiculated appearance raise a clinical suspicion for malignancy?\n<image>"}
+{"question_id": 92, "image": "31114735_FIG1.jpg", "question": "Can the location and features of this nodule inform a differential diagnosis?\n<image>"}
+{"question_id": 93, "image": "27601933_f2-imcrj-9-253.jpg", "question": "Is the ureteric stent visible in the CT image?\n<image>"}
+{"question_id": 94, "image": "27601933_f2-imcrj-9-253.jpg", "question": "Does the image show any abnormalities in the urinary tract?\n<image>"}
+{"question_id": 95, "image": "27601933_f2-imcrj-9-253.jpg", "question": "Is the dilatation occurring despite the presence of the ureteric stent?\n<image>"}
+{"question_id": 96, "image": "27601933_f2-imcrj-9-253.jpg", "question": "Is the CT scan performed after a ureteroscopy?\n<image>"}
+{"question_id": 97, "image": "27601933_f2-imcrj-9-253.jpg", "question": "Is the upper pole pelvicalyceal system the part of the kidney that collects urine?\n<image>"}
+{"question_id": 98, "image": "25834681_f2-wjem-16-321.jpg", "question": "What do the arrows in the chest radiograph indicate?\n<image>"}
+{"question_id": 99, "image": "25834681_f2-wjem-16-321.jpg", "question": "Is the air also extending into the neck region?\n<image>"}
+{"question_id": 100, "image": "25834681_f2-wjem-16-321.jpg", "question": "Was the patient's condition serious enough to require surgery?\n<image>"}
+{"question_id": 101, "image": "25834681_f2-wjem-16-321.jpg", "question": "Did the patient experience any complications during their hospital stay?\n<image>"}
+{"question_id": 102, "image": "25834681_f2-wjem-16-321.jpg", "question": "Can pneumomediastinum resolve on its own?\n<image>"}
+{"question_id": 103, "image": "pmc_167294_0.jpg", "question": "Can you explain what constitutes 'No Under-nutrition' as indicated in the image?\n<image>"}
+{"question_id": 104, "image": "pmc_167294_0.jpg", "question": "Is it correct that oral intakes are monitored for patients with moderate under-nutrition?\n<image>"}
+{"question_id": 105, "image": "pmc_167294_0.jpg", "question": "Are there specific thresholds for BMI and Albumin levels in severe under-nutrition?\n<image>"}
+{"question_id": 106, "image": "pmc_167294_0.jpg", "question": "Does the flowchart suggest the use of immunomodulating supplements for all under-nourished patients before surgery?\n<image>"}
+{"question_id": 107, "image": "pmc_167294_0.jpg", "question": "Are weight loss percentages important for evaluating moderate under-nutrition?\n<image>"}
+{"question_id": 108, "image": "pmc_167294_0.jpg", "question": "Is there any connection between BMI and the nutritional assessment levels shown in the flowchart?\n<image>"}
+{"question_id": 109, "image": "33799971_ijms-22-02685-f005.jpg", "question": "Can you explain what the MRI is visualizing in the AAA model?\n<image>"}
+{"question_id": 110, "image": "33799971_ijms-22-02685-f005.jpg", "question": "Does the anti-inflammatory treatment seem effective in preventing aortic wall remodeling?\n<image>"}
+{"question_id": 111, "image": "33799971_ijms-22-02685-f005.jpg", "question": "What do the histological images reveal about elastic fiber preservation?\n<image>"}
+{"question_id": 112, "image": "33799971_ijms-22-02685-f005.jpg", "question": "Is there a correlation between the MRI signal increase and the elastin content?\n<image>"}
+{"question_id": 113, "image": "33799971_ijms-22-02685-f005.jpg", "question": "Can the MRI differentiate between treated and untreated groups?\n<image>"}
+{"question_id": 114, "image": "33799971_ijms-22-02685-f005.jpg", "question": "Are the CNR values statistically significant across the groups?\n<image>"}
+{"question_id": 115, "image": "pmc_3358_0.jpg", "question": "Can you tell me if the spinal canal is open after the surgery?\n<image>"}
+{"question_id": 116, "image": "pmc_3358_0.jpg", "question": "Are the implants positioned correctly according to the CT scan?\n<image>"}
+{"question_id": 117, "image": "pmc_3358_0.jpg", "question": "Was the surgery performed to address spinal stenosis?\n<image>"}
+{"question_id": 118, "image": "pmc_276270_0.jpg", "question": "Can you identify if the cells in the image are adherent to the scaffold surface?\n<image>"}
+{"question_id": 119, "image": "pmc_276270_0.jpg", "question": "Is the surface of the scaffold irregular in shape?\n<image>"}
+{"question_id": 120, "image": "pmc_276270_0.jpg", "question": "Can you confirm if some cells are transitioning from a spherical shape to a spreading morphology?\n<image>"}
+{"question_id": 121, "image": "pmc_276270_0.jpg", "question": "Are the sizes and shapes of the cells heterogeneous?\n<image>"}
+{"question_id": 122, "image": "pmc_276270_0.jpg", "question": "Does the scaffold's surface morphology potentially influence cell adhesion?\n<image>"}
+{"question_id": 123, "image": "27957004_F1.jpg", "question": "What type of specimen is depicted in the image?\n<image>"}
+{"question_id": 124, "image": "27957004_F1.jpg", "question": "Is the jejunum the only part of the small intestine shown?\n<image>"}
+{"question_id": 125, "image": "27957004_F1.jpg", "question": "Does the image show any signs of disease?\n<image>"}
+{"question_id": 126, "image": "27957004_F1.jpg", "question": "Is the resection of the small intestine a common procedure?\n<image>"}
+{"question_id": 127, "image": "27957004_F1.jpg", "question": "Can the condition shown in the image lead to complications?\n<image>"}
+{"question_id": 128, "image": "27957004_F1.jpg", "question": "Is the ligament of Treitz an important landmark in this context?\n<image>"}
+{"question_id": 129, "image": "pmc_416780_0.jpg", "question": "Can you confirm if the heart size appears normal in this image?\n<image>"}
+{"question_id": 130, "image": "pmc_416780_0.jpg", "question": "Does the CT scan reveal any abnormalities in the surrounding lung fields?\n<image>"}
+{"question_id": 131, "image": "pmc_416780_0.jpg", "question": "Are the bones, such as the ribs and spine, clearly visible and undamaged?\n<image>"}
+{"question_id": 132, "image": "pmc_416780_0.jpg", "question": "Could the absence of contrast enhancement affect the ability to detect certain cardiac conditions in this scan?\n<image>"}
+{"question_id": 133, "image": "pmc_416780_0.jpg", "question": "Does the right ventricle appear prominently due to its anterior location in the chest?\n<image>"}
+{"question_id": 134, "image": "pmc_416780_0.jpg", "question": "Is there evidence of gross pathology in this single CT slice?\n<image>"}
+{"question_id": 135, "image": "pmc_545169_0.jpg", "question": "Can you tell me if the red areas in the brain image indicate any recent bleeding?\n<image>"}
+{"question_id": 136, "image": "pmc_545169_0.jpg", "question": "Are the blue areas associated with any specific neurological conditions?\n<image>"}
+{"question_id": 137, "image": "pmc_545169_0.jpg", "question": "Do the lesions affect both sides of the brain?\n<image>"}
+{"question_id": 138, "image": "pmc_545169_0.jpg", "question": "Is it possible that the abnormalities in the frontal lobes could affect cognitive function?\n<image>"}
+{"question_id": 139, "image": "pmc_545169_0.jpg", "question": "Could the presence of these lesions suggest a history of trauma?\n<image>"}
+{"question_id": 140, "image": "pmc_630688_0.jpg", "question": "Could you confirm if the tissue in this image exhibits features of a benign lesion?\n<image>"}
+{"question_id": 141, "image": "pmc_630688_0.jpg", "question": "Is there any indication that the epithelium in this sample is disordered or poorly differentiated?\n<image>"}
+{"question_id": 142, "image": "pmc_630688_0.jpg", "question": "Can you describe the stroma beneath the epithelial layer?\n<image>"}
+{"question_id": 143, "image": "pmc_630688_0.jpg", "question": "Does this histological section exhibit any signs of malignancy?\n<image>"}
+{"question_id": 144, "image": "pmc_630688_0.jpg", "question": "Would this type of lesion be typically found in the urinary system?\n<image>"}
+{"question_id": 145, "image": "pmc_630688_0.jpg", "question": "Are fibroepithelial polyps usually non-cancerous?\n<image>"}
+{"question_id": 146, "image": "pmc_316622_0.jpg", "question": "Can you tell me if the red areas in the CAMs are always indicative of significant findings in the CT scans?\n<image>"}
+{"question_id": 147, "image": "pmc_316622_0.jpg", "question": "Is it possible that the central lung scan shows signs of pneumothorax based on the CT image?\n<image>"}
+{"question_id": 148, "image": "pmc_316622_0.jpg", "question": "Do the CAMs help in identifying areas of concern in the lung scans?\n<image>"}
+{"question_id": 149, "image": "pmc_316622_0.jpg", "question": "Can the presence of fibrous strands in the first CT scan indicate a serious condition?\n<image>"}
+{"question_id": 150, "image": "pmc_316622_0.jpg", "question": "Is it true that the third CT scan appears relatively normal compared to the others?\n<image>"}
+{"question_id": 151, "image": "pmc_316622_0.jpg", "question": "Are the class activation maps useful for guiding further diagnostic evaluations?\n<image>"}
+{"question_id": 152, "image": "31930164_F2.jpg", "question": "What does the figure illustrate regarding patients with hematuria?\n<image>"}
+{"question_id": 153, "image": "31930164_F2.jpg", "question": "Are multiple imaging modalities used for the same patient?\n<image>"}
+{"question_id": 154, "image": "31930164_F2.jpg", "question": "Is computed tomography one of the imaging techniques shown?\n<image>"}
+{"question_id": 155, "image": "31930164_F2.jpg", "question": "Does the figure include information about urinalysis?\n<image>"}
+{"question_id": 156, "image": "31930164_F2.jpg", "question": "Is magnetic resonance imaging also listed in the figure?\n<image>"}
+{"question_id": 157, "image": "31930164_F2.jpg", "question": "Does the figure focus solely on patients with urinary tract infections?\n<image>"}
+{"question_id": 158, "image": "pmc_178405_0.jpg", "question": "Does the H&E staining show any differences in synovial structure among the treatment groups?\n<image>"}
+{"question_id": 159, "image": "pmc_178405_0.jpg", "question": "Can we conclude that the presence of F4/80 staining indicates macrophage activity in the treated groups?\n<image>"}
+{"question_id": 160, "image": "pmc_178405_0.jpg", "question": "Is there a significant difference in the iNOS staining between the Sham and OA groups?\n<image>"}
+{"question_id": 161, "image": "pmc_178405_0.jpg", "question": "Does the CD206 staining suggest a shift towards a more reparative environment in the MET+ADSCs group?\n<image>"}
+{"question_id": 162, "image": "pmc_178405_0.jpg", "question": "Are the bar charts adjacent to the staining panels useful for quantifying the differences observed?\n<image>"}
+{"question_id": 163, "image": "pmc_178405_0.jpg", "question": "Can we infer that the treatments have a potential impact on inflammatory processes in the synovial tissue?\n<image>"}
+{"question_id": 164, "image": "29805438_fig3.jpg", "question": "What can you tell me about the quality of the registration in the lungs?\n<image>"}
+{"question_id": 165, "image": "29805438_fig3.jpg", "question": "Are the registration experiments focused on a specific type of imaging?\n<image>"}
+{"question_id": 166, "image": "29805438_fig3.jpg", "question": "Did the researchers use any specific techniques for the registration?\n<image>"}
+{"question_id": 167, "image": "29805438_fig3.jpg", "question": "How many different weights were tested in the experiments?\n<image>"}
+{"question_id": 168, "image": "29805438_fig3.jpg", "question": "Is the registration quality important for the study's outcomes?\n<image>"}
+{"question_id": 169, "image": "29805438_fig3.jpg", "question": "Were the lungs interactively segmented for the analysis?\n<image>"}
+{"question_id": 170, "image": "pmc_636071_0.jpg", "question": "Looking at the PET/CT scans, do the areas marked by the arrows indicate any potential health issues?\n<image>"}
+{"question_id": 171, "image": "pmc_636071_0.jpg", "question": "Is the increased uptake in the upper abdominal region more concerning than in the lower abdomen?\n<image>"}
+{"question_id": 172, "image": "pmc_636071_0.jpg", "question": "Could the findings in the lower abdomen also suggest something serious?\n<image>"}
+{"question_id": 173, "image": "pmc_636071_0.jpg", "question": "Should further imaging be considered based on these findings?\n<image>"}
+{"question_id": 174, "image": "pmc_636071_0.jpg", "question": "Is it possible that these findings are just a result of normal metabolic activity?\n<image>"}
+{"question_id": 175, "image": "pmc_636071_0.jpg", "question": "Would a biopsy be necessary to confirm any suspected conditions?\n<image>"}
+{"question_id": 176, "image": "24876335_RJT134F1.jpg", "question": "What does the image show?\n<image>"}
+{"question_id": 177, "image": "24876335_RJT134F1.jpg", "question": "Is the mass located in the tongue base?\n<image>"}
+{"question_id": 178, "image": "24876335_RJT134F1.jpg", "question": "Does the image suggest any progression of symptoms?\n<image>"}
+{"question_id": 179, "image": "24876335_RJT134F1.jpg", "question": "Is the imaging technique used here MRI?\n<image>"}
+{"question_id": 180, "image": "24876335_RJT134F1.jpg", "question": "Can the mass be considered benign?\n<image>"}
+{"question_id": 181, "image": "24876335_RJT134F1.jpg", "question": "Does the image provide sufficient detail for diagnosis?\n<image>"}
+{"question_id": 182, "image": "26409803_f3-asm-3-260.jpg", "question": "What does the image show regarding the cyst?\n<image>"}
+{"question_id": 183, "image": "26409803_f3-asm-3-260.jpg", "question": "Is there any free gas present in the cyst?\n<image>"}
+{"question_id": 184, "image": "26409803_f3-asm-3-260.jpg", "question": "Can we identify the location of the cyst in relation to the gastrocnemius muscle?\n<image>"}
+{"question_id": 185, "image": "26409803_f3-asm-3-260.jpg", "question": "Is this imaging technique commonly used for soft tissue evaluation?\n<image>"}
+{"question_id": 186, "image": "26409803_f3-asm-3-260.jpg", "question": "Does the image provide clear visualization of the cyst's characteristics?\n<image>"}
+{"question_id": 187, "image": "26409803_f3-asm-3-260.jpg", "question": "Is the cyst likely to be associated with any symptoms?\n<image>"}
+{"question_id": 188, "image": "33112900_pone.0240979.g001.jpg", "question": "What specific lengths are being measured in this image?\n<image>"}
+{"question_id": 189, "image": "33112900_pone.0240979.g001.jpg", "question": "Are the schematic landmarks important for accurate measurements?\n<image>"}
+{"question_id": 190, "image": "33112900_pone.0240979.g001.jpg", "question": "Does the clinical crown extend above the gumline?\n<image>"}
+{"question_id": 191, "image": "33112900_pone.0240979.g001.jpg", "question": "Is the non-carious cervical lesion visible in the image?\n<image>"}
+{"question_id": 192, "image": "33112900_pone.0240979.g001.jpg", "question": "Are these measurements relevant for dental treatments?\n<image>"}
+{"question_id": 193, "image": "33112900_pone.0240979.g001.jpg", "question": "Can the level of the gingival margin affect the clinical crown length?\n<image>"}
+{"question_id": 194, "image": "30581598_F6.jpg", "question": "What area of the brain does the MRI focus on?\n<image>"}
+{"question_id": 195, "image": "30581598_F6.jpg", "question": "Is there a nodular lesion present in the image?\n<image>"}
+{"question_id": 196, "image": "30581598_F6.jpg", "question": "Does the lesion affect the optical chiasm?\n<image>"}
+{"question_id": 197, "image": "30581598_F6.jpg", "question": "Is the hypothalamic infundibulum involved in this case?\n<image>"}
+{"question_id": 198, "image": "30581598_F6.jpg", "question": "Could this lesion lead to neurological symptoms?\n<image>"}
+{"question_id": 199, "image": "30581598_F6.jpg", "question": "Is further evaluation necessary for this finding?\n<image>"}
+{"question_id": 200, "image": "24574966_F1.jpg", "question": "What does the figure suggest about the relationship between insulin dysfunction and Alzheimer's disease?\n<image>"}
+{"question_id": 201, "image": "24574966_F1.jpg", "question": "Are there specific enzymes mentioned that are involved in Tau phosphorylation?\n<image>"}
+{"question_id": 202, "image": "24574966_F1.jpg", "question": "Does the figure indicate that inflammation is a factor in this relationship?\n<image>"}
+{"question_id": 203, "image": "24574966_F1.jpg", "question": "Can hypothermia influence the mechanisms discussed in the figure?\n<image>"}
+{"question_id": 204, "image": "24574966_F1.jpg", "question": "Is there a distinction made between the types of diabetes in the figure?\n<image>"}
+{"question_id": 205, "image": "24574966_F1.jpg", "question": "Does the figure imply that both types of diabetes can lead to similar outcomes in terms of Alzheimer's disease?\n<image>"}
+{"question_id": 206, "image": "pmc_57229_0.jpg", "question": "Is the mass in the image likely to be a trichobezoar?\n<image>"}
+{"question_id": 207, "image": "pmc_57229_0.jpg", "question": "Does the presence of surgical instruments indicate that the mass was surgically removed?\n<image>"}
+{"question_id": 208, "image": "pmc_57229_0.jpg", "question": "Could this mass cause digestive issues for the patient?\n<image>"}
+{"question_id": 209, "image": "pmc_57229_0.jpg", "question": "Is the image presented in a clinical setting?\n<image>"}
+{"question_id": 210, "image": "pmc_57229_0.jpg", "question": "Is the mass irregularly shaped?\n<image>"}
+{"question_id": 211, "image": "pmc_57229_0.jpg", "question": "Does the image provide a clear view of the mass's texture?\n<image>"}
+{"question_id": 212, "image": "pmc_588493_0.jpg", "question": "What can we infer about the thymus condition in chickens infected with MDV at 35 days post-infection?\n<image>"}
+{"question_id": 213, "image": "pmc_588493_0.jpg", "question": "Is there a noticeable difference in thymus weight between the infected and uninfected groups at 42 days post-infection?\n<image>"}
+{"question_id": 214, "image": "pmc_588493_0.jpg", "question": "Can we conclude that the MDV infection leads to permanent damage in the thymus?\n<image>"}
+{"question_id": 215, "image": "pmc_588493_0.jpg", "question": "Is the morphological change in the thymus due to MDV infection reversible?\n<image>"}
+{"question_id": 216, "image": "pmc_588493_0.jpg", "question": "Does the bar graph in section B support the idea of thymus recovery over time?\n<image>"}
+{"question_id": 217, "image": "pmc_588493_0.jpg", "question": "Are the changes in thymus size and weight significant at the peak infection times?\n<image>"}
+{"question_id": 218, "image": "18226232_F1.jpg", "question": "Does the MRI image indicate inflammation in the optic nerves?\n<image>"}
+{"question_id": 219, "image": "18226232_F1.jpg", "question": "Is the infundibulum also affected in the MRI image?\n<image>"}
+{"question_id": 220, "image": "18226232_F1.jpg", "question": "Can the worsening MRI findings suggest disease progression?\n<image>"}
+{"question_id": 221, "image": "18226232_F1.jpg", "question": "Does the image suggest that the optic nerves are symmetrically affected?\n<image>"}
+{"question_id": 222, "image": "18226232_F1.jpg", "question": "Could the lack of response to steroids indicate a need for alternative treatments?\n<image>"}
+{"question_id": 223, "image": "18226232_F1.jpg", "question": "Is the enhancement of the optic nerves significant enough to warrant further investigation?\n<image>"}
+{"question_id": 224, "image": "34563033_gels-07-00147-f010.jpg", "question": "What type of staining is shown in the myocardial sections?\n<image>"}
+{"question_id": 225, "image": "34563033_gels-07-00147-f010.jpg", "question": "Does the Masson's trichrome staining help in identifying fibrosis in the tissue?\n<image>"}
+{"question_id": 226, "image": "34563033_gels-07-00147-f010.jpg", "question": "Is there a noticeable difference in fibrosis levels at 7 days post-myocardial infarction?\n<image>"}
+{"question_id": 227, "image": "34563033_gels-07-00147-f010.jpg", "question": "Can we conclude that IGF-1 loaded systems improve cardiac function based on the staining results?\n<image>"}
+{"question_id": 228, "image": "34563033_gels-07-00147-f010.jpg", "question": "Does the figure show any long-term effects of the treatment after 16 weeks?\n<image>"}
+{"question_id": 229, "image": "24570695_F0001.jpg", "question": "What does the image show regarding the left circumflex artery?\n<image>"}
+{"question_id": 230, "image": "24570695_F0001.jpg", "question": "Is this condition visible through computed tomography?\n<image>"}
+{"question_id": 231, "image": "24570695_F0001.jpg", "question": "Can we confirm the presence of multiple orifices in the artery from this image?\n<image>"}
+{"question_id": 232, "image": "24570695_F0001.jpg", "question": "Is the fistula located on the left side of the heart?\n<image>"}
+{"question_id": 233, "image": "24570695_F0001.jpg", "question": "Does this imaging technique provide a clear view of the heart's anatomy?\n<image>"}
+{"question_id": 234, "image": "24570695_F0001.jpg", "question": "Is this type of fistula a rare condition?\n<image>"}
+{"question_id": 235, "image": "pmc_413189_0.jpg", "question": "Could this MRI image suggest spinal involvement because of the mass near the cranial base?\n<image>"}
+{"question_id": 236, "image": "pmc_413189_0.jpg", "question": "Does the mass appear to infiltrate structures surrounding the clivus?\n<image>"}
+{"question_id": 237, "image": "pmc_413189_0.jpg", "question": "Is the spheno-occipital synchondrosis affected by the pathology in this MRI?\n<image>"}
+{"question_id": 238, "image": "pmc_413189_0.jpg", "question": "Can the erosion of bony structures, such as the odontoid process, be observed in this scan?\n<image>"}
+{"question_id": 239, "image": "pmc_413189_0.jpg", "question": "Would this mass's location and characteristics support a diagnosis of a clival lesion?\n<image>"}
+{"question_id": 240, "image": "pmc_413189_0.jpg", "question": "Could the observed hyperintensity in the spinal cord imply secondary effects from the mass?\n<image>"}
+{"question_id": 241, "image": "29527519_F3.jpg", "question": "What is the main focus of the image?\n<image>"}
+{"question_id": 242, "image": "29527519_F3.jpg", "question": "Is the ONSD measurement taken at a specific location?\n<image>"}
+{"question_id": 243, "image": "29527519_F3.jpg", "question": "Does the ONSD measurement relate to intracranial pressure?\n<image>"}
+{"question_id": 244, "image": "29527519_F3.jpg", "question": "Can the ONSD measurement be used in pediatric patients?\n<image>"}
+{"question_id": 245, "image": "29527519_F3.jpg", "question": "Is the measurement taken perpendicular to the optic nerve?\n<image>"}
+{"question_id": 246, "image": "29527519_F3.jpg", "question": "Is the optic nerve sheath connected to the meninges?\n<image>"}
+{"question_id": 247, "image": "34454214_f0015.jpg", "question": "Is this MRI image taken from a side view?\n<image>"}
+{"question_id": 248, "image": "34454214_f0015.jpg", "question": "Are the white arrows marking the tumor's boundaries?\n<image>"}
+{"question_id": 249, "image": "34454214_f0015.jpg", "question": "Does the tumor appear to be large in size?\n<image>"}
+{"question_id": 250, "image": "34454214_f0015.jpg", "question": "Can the tumor's location be identified in this image?\n<image>"}
+{"question_id": 251, "image": "34454214_f0015.jpg", "question": "Is the tumor's spread limited to one plane in this image?\n<image>"}
+{"question_id": 252, "image": "34454214_f0015.jpg", "question": "Does the image provide enough detail to assess the tumor's extent?\n<image>"}
+{"question_id": 253, "image": "31621785_f1.jpg", "question": "What do you see in the chest X-ray regarding the lung condition?\n<image>"}
+{"question_id": 254, "image": "31621785_f1.jpg", "question": "Does the image show any signs of heart enlargement?\n<image>"}
+{"question_id": 255, "image": "31621785_f1.jpg", "question": "Are both lungs equally affected in the image?\n<image>"}
+{"question_id": 256, "image": "31621785_f1.jpg", "question": "Is there a possibility that this X-ray indicates pneumonia?\n<image>"}
+{"question_id": 257, "image": "31621785_f1.jpg", "question": "Can the increased cardiothoracic ratio be a sign of heart failure?\n<image>"}
+{"question_id": 258, "image": "31621785_f1.jpg", "question": "Is it important to follow up with further imaging or tests based on this X-ray?\n<image>"}
+{"question_id": 259, "image": "pmc_15635_0.jpg", "question": "Can you tell me if the lesion is well-defined in the MRI image?\n<image>"}
+{"question_id": 260, "image": "pmc_15635_0.jpg", "question": "Is the lesion located near the cauda equina structures?\n<image>"}
+{"question_id": 261, "image": "pmc_15635_0.jpg", "question": "Does the lesion show homogeneous signal intensity on the MRI?\n<image>"}
+{"question_id": 262, "image": "pmc_15635_0.jpg", "question": "Could the lesion enhance after contrast material is administered?\n<image>"}
+{"question_id": 263, "image": "pmc_15635_0.jpg", "question": "Are the surrounding vertebral bodies showing normal signal intensity?\n<image>"}
+{"question_id": 264, "image": "pmc_15635_0.jpg", "question": "Is the alignment of the vertebral bodies intact in the MRI image?\n<image>"}
+{"question_id": 265, "image": "pmc_333775_0.jpg", "question": "Could this image be showing evidence of a nasopharyngeal tumor with invasive characteristics?\n<image>"}
+{"question_id": 266, "image": "pmc_333775_0.jpg", "question": "Does the image suggest involvement of cervical lymph nodes, possibly indicating metastasis?\n<image>"}
+{"question_id": 267, "image": "pmc_333775_0.jpg", "question": "Is there any sign of complication related to the auditory system in this image?\n<image>"}
+{"question_id": 268, "image": "pmc_333775_0.jpg", "question": "Are critical cranial structures such as the clivus implicated in the mass's invasive growth?\n<image>"}
+{"question_id": 269, "image": "pmc_333775_0.jpg", "question": "Can the destruction of the body of the sphenoid bone be identified in this image?\n<image>"}
+{"question_id": 270, "image": "pmc_333775_0.jpg", "question": "Does this image indicate an advanced stage of disease requiring complex management?\n<image>"}
+{"question_id": 271, "image": "pmc_392132_0.jpg", "question": "Since the axial and coronal images reveal a hypodense mass in the appendix, does this suggest an appendiceal tumor?\n<image>"}
+{"question_id": 272, "image": "pmc_392132_0.jpg", "question": "Could this abnormal finding also represent appendicitis rather than a tumor?\n<image>"}
+{"question_id": 273, "image": "pmc_392132_0.jpg", "question": "Is the suspicious mass well-localized to the appendix on both views?\n<image>"}
+{"question_id": 274, "image": "pmc_392132_0.jpg", "question": "Do the scans indicate the need for further diagnostic procedures?\n<image>"}
+{"question_id": 275, "image": "pmc_392132_0.jpg", "question": "Could the appearance of the appendix in these CT scans confirm the diagnosis of a ruptured appendix?\n<image>"}
+{"question_id": 276, "image": "pmc_515915_0.jpg", "question": "What does the asymmetrical tracer uptake in the image suggest?\n<image>"}
+{"question_id": 277, "image": "pmc_515915_0.jpg", "question": "Is the left sacroiliac joint more affected than the right based on the scan?\n<image>"}
+{"question_id": 278, "image": "pmc_515915_0.jpg", "question": "Can this imaging technique help in diagnosing conditions related to the pelvis?\n<image>"}
+{"question_id": 279, "image": "pmc_515915_0.jpg", "question": "Is it possible that the findings in this scan are related to arthritis?\n<image>"}
+{"question_id": 280, "image": "pmc_515915_0.jpg", "question": "Does the intensity of the tracer uptake correlate with the severity of the condition?\n<image>"}
+{"question_id": 281, "image": "pmc_515915_0.jpg", "question": "Can SPECT scans be used to monitor treatment effectiveness over time?\n<image>"}
+{"question_id": 282, "image": "pmc_576370_0.jpg", "question": "Are there visible differences in the cartilage of the growth plate on the MRI scans?\n<image>"}
+{"question_id": 283, "image": "pmc_576370_0.jpg", "question": "Is the proximal femoral epiphysis crucial for bone growth in adolescents?\n<image>"}
+{"question_id": 284, "image": "pmc_576370_0.jpg", "question": "Do the MRI scans reveal the transitional zone between the epiphysis and the shaft of the bone?\n<image>"}
+{"question_id": 285, "image": "pmc_576370_0.jpg", "question": "Can the growth plate be observed in the MRI scans?\n<image>"}
+{"question_id": 286, "image": "pmc_576370_0.jpg", "question": "Is this image part of a study involving adolescent bone development?\n<image>"}
+{"question_id": 287, "image": "pmc_576370_0.jpg", "question": "Are the MRI scans providing a detailed look at the anatomy of the proximal femoral epiphysis?\n<image>"}
+{"question_id": 288, "image": "30112263_FIG2.jpg", "question": "Is the CT scan showing any abnormalities?\n<image>"}
+{"question_id": 289, "image": "30112263_FIG2.jpg", "question": "Does the solid arrow highlight a critical area in the scan?\n<image>"}
+{"question_id": 290, "image": "30112263_FIG2.jpg", "question": "Can free air in the peritoneal cavity be a sign of a perforated organ?\n<image>"}
+{"question_id": 291, "image": "30112263_FIG2.jpg", "question": "Is it necessary to investigate further if free air is detected?\n<image>"}
+{"question_id": 292, "image": "30112263_FIG2.jpg", "question": "Could this finding require surgical intervention?\n<image>"}
+{"question_id": 293, "image": "30112263_FIG2.jpg", "question": "Is the sagittal view helpful in diagnosing abdominal issues?\n<image>"}
+{"question_id": 294, "image": "pmc_16795_0.jpg", "question": "Are the ground-glass opacities in the lower lung fields indicative of an interstitial lung disease?\n<image>"}
+{"question_id": 295, "image": "pmc_16795_0.jpg", "question": "Does the absence of prominent consolidations or nodules suggest a less severe disease process?\n<image>"}
+{"question_id": 296, "image": "pmc_16795_0.jpg", "question": "Could this imaging pattern be associated with systemic sclerosis?\n<image>"}
+{"question_id": 297, "image": "pmc_16795_0.jpg", "question": "Are the hazy areas in the lower lung fields likely to be due to gravitational effects?\n<image>"}
+{"question_id": 298, "image": "pmc_16795_0.jpg", "question": "Is it possible to rule out infections based on this image?\n<image>"}
+{"question_id": 299, "image": "pmc_16795_0.jpg", "question": "Does the imaging suggest a need for further diagnostic testing?\n<image>"}
+{"question_id": 300, "image": "34393170_g003.jpg", "question": "What type of cells are primarily involved in the infiltration seen in the image?\n<image>"}
+{"question_id": 301, "image": "34393170_g003.jpg", "question": "Is the presence of lymphocytes around the salivary gland ducts a sign of inflammation?\n<image>"}
+{"question_id": 302, "image": "34393170_g003.jpg", "question": "Could this finding be related to an autoimmune condition?\n<image>"}
+{"question_id": 303, "image": "34393170_g003.jpg", "question": "Is it possible for infections to cause lymphocyte infiltration in this area?\n<image>"}
+{"question_id": 304, "image": "34393170_g003.jpg", "question": "Would a biopsy be necessary to confirm the diagnosis related to this finding?\n<image>"}
+{"question_id": 305, "image": "34393170_g003.jpg", "question": "Can this type of infiltration affect the function of the salivary glands?\n<image>"}
+{"question_id": 306, "image": "35344561_pone.0265802.g001.jpg", "question": "Is the lymph node in the elastography image soft?\n<image>"}
+{"question_id": 307, "image": "35344561_pone.0265802.g001.jpg", "question": "Does the B-mode image show any abnormalities in the lymph node?\n<image>"}
+{"question_id": 308, "image": "35344561_pone.0265802.g001.jpg", "question": "Was the patient diagnosed with a benign condition based on the imaging?\n<image>"}
+{"question_id": 309, "image": "35344561_pone.0265802.g001.jpg", "question": "Is elastography useful for assessing lymph node characteristics?\n<image>"}
+{"question_id": 310, "image": "35344561_pone.0265802.g001.jpg", "question": "Can the imaging techniques used in this figure help in cancer diagnosis?\n<image>"}
+{"question_id": 311, "image": "35344561_pone.0265802.g001.jpg", "question": "Is it common for lymph nodes to appear soft in benign conditions?\n<image>"}
+{"question_id": 312, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "What does this image show specifically?\n<image>"}
+{"question_id": 313, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "Can the WMH labels on the preprocessed MRI image improve analysis?\n<image>"}
+{"question_id": 314, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "Are both raw and preprocessed FLAIR images used for the same purpose?\n<image>"}
+{"question_id": 315, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "Are White Matter Hyperintensities (WMH) common in brain MRI findings?\n<image>"}
+{"question_id": 316, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "Is the underlying purpose of this image related to advancements in medical imaging analysis?\n<image>"}
+{"question_id": 317, "image": "34071634_brainsci-11-00720-f003.jpg", "question": "Does this figure demonstrate effective preprocessing techniques for MRI data?\n<image>"}
+{"question_id": 318, "image": "26676859_Fig6.jpg", "question": "What do the radiopaque beads help to achieve in the treatment?\n<image>"}
+{"question_id": 319, "image": "26676859_Fig6.jpg", "question": "Are the 70-150 \u00b5m beads more effective for distal embolization?\n<image>"}
+{"question_id": 320, "image": "26676859_Fig6.jpg", "question": "Do the 100-300 \u00b5m beads accumulate in larger arteries?\n<image>"}
+{"question_id": 321, "image": "26676859_Fig6.jpg", "question": "Is the tumor location indicated in the CT image?\n<image>"}
+{"question_id": 322, "image": "26676859_Fig6.jpg", "question": "Can the use of these beads help in reducing tumor growth?\n<image>"}
+{"question_id": 323, "image": "28649487_fig2.jpg", "question": "What changes can we see in the chest X-ray after treatment?\n<image>"}
+{"question_id": 324, "image": "28649487_fig2.jpg", "question": "Are there any mutations identified in the heat map?\n<image>"}
+{"question_id": 325, "image": "28649487_fig2.jpg", "question": "Did the ctDNA levels decrease after treatment?\n<image>"}
+{"question_id": 326, "image": "28649487_fig2.jpg", "question": "Is the decrease in ctDNA levels correlated with the changes seen in the X-ray?\n<image>"}
+{"question_id": 327, "image": "28649487_fig2.jpg", "question": "Can we conclude that the treatment was effective based on these findings?\n<image>"}
+{"question_id": 328, "image": "28649487_fig2.jpg", "question": "Is it important to monitor both imaging and ctDNA levels during treatment?\n<image>"}
+{"question_id": 329, "image": "pmc_58928_0.jpg", "question": "Can we clearly identify the left and right ventricles in these MRI frames?\n<image>"}
+{"question_id": 330, "image": "pmc_58928_0.jpg", "question": "Is the myocardium visible in all the frames?\n<image>"}
+{"question_id": 331, "image": "pmc_58928_0.jpg", "question": "Do the variations in the cardiac cycle affect the appearance of the cardiac structures?\n<image>"}
+{"question_id": 332, "image": "pmc_58928_0.jpg", "question": "Is the image quality sufficient for assessing heart function?\n<image>"}
+{"question_id": 333, "image": "pmc_58928_0.jpg", "question": "Can advanced image processing improve the analysis of these MRI frames?\n<image>"}
+{"question_id": 334, "image": "pmc_58928_0.jpg", "question": "Are these MRI frames useful for diagnosing cardiac conditions?\n<image>"}
+{"question_id": 335, "image": "pmc_492399_0.jpg", "question": "Is there evidence of fluid accumulation in the knee joint from the MRI scan?\n<image>"}
+{"question_id": 336, "image": "pmc_492399_0.jpg", "question": "Can we conclude that there is bone marrow edema in the femur and tibia?\n<image>"}
+{"question_id": 337, "image": "pmc_492399_0.jpg", "question": "Does the MRI suggest that the injury is acute in nature?\n<image>"}
+{"question_id": 338, "image": "pmc_492399_0.jpg", "question": "Is the subchondral fracture located on the medial side of the knee?\n<image>"}
+{"question_id": 339, "image": "pmc_492399_0.jpg", "question": "Are the findings in the MRI scan consistent with a traumatic event?\n<image>"}
+{"question_id": 340, "image": "pmc_492399_0.jpg", "question": "Is the MRI scan useful for diagnosing knee joint injuries?\n<image>"}
+{"question_id": 341, "image": "pmc_150965_0.jpg", "question": "Are calcium oxalate crystals visible in this image?\n<image>"}
+{"question_id": 342, "image": "pmc_150965_0.jpg", "question": "Would you describe the tissue around the crystals as abnormal?\n<image>"}
+{"question_id": 343, "image": "pmc_150965_0.jpg", "question": "Is polarizing light microscopy being utilized in this image?\n<image>"}
+{"question_id": 344, "image": "pmc_150965_0.jpg", "question": "Can the presence of calcium oxalate deposits indicate an underlying kidney condition?\n<image>"}
+{"question_id": 345, "image": "pmc_150965_0.jpg", "question": "Are the crystalline structures irregularly shaped?\n<image>"}
+{"question_id": 346, "image": "pmc_496729_0.jpg", "question": "What can you tell me about the cartilage erosion in the DMM group?\n<image>"}
+{"question_id": 347, "image": "pmc_496729_0.jpg", "question": "Is there a noticeable difference in chondrocyte density between the two groups?\n<image>"}
+{"question_id": 348, "image": "pmc_496729_0.jpg", "question": "Does the staining indicate a loss of proteoglycans in the DMM group?\n<image>"}
+{"question_id": 349, "image": "pmc_496729_0.jpg", "question": "Is the cartilage structure in the sham group better preserved?\n<image>"}
+{"question_id": 350, "image": "pmc_496729_0.jpg", "question": "Are the OARSI scores higher for the DMM group?\n<image>"}
+{"question_id": 351, "image": "pmc_496729_0.jpg", "question": "Can we conclude that the DMM procedure leads to significant cartilage damage?\n<image>"}
+{"question_id": 352, "image": "pmc_562677_0.jpg", "question": "Does the image show any signs of surgical stabilization in the spine?\n<image>"}
+{"question_id": 353, "image": "pmc_562677_0.jpg", "question": "Is there any indication of a biomedical implant in the image?\n<image>"}
+{"question_id": 354, "image": "pmc_562677_0.jpg", "question": "Could the metallic components in the image suggest a specific type of surgical procedure?\n<image>"}
+{"question_id": 355, "image": "pmc_562677_0.jpg", "question": "Is the biomedical implant likely made of a polymer material?\n<image>"}
+{"question_id": 356, "image": "pmc_562677_0.jpg", "question": "Are the anatomical structures surrounding the surgical site clearly visible in the image?\n<image>"}
+{"question_id": 357, "image": "pmc_562677_0.jpg", "question": "Does the image suggest that the surgical enhancements are successfully maintaining vertebral alignment?\n<image>"}
+{"question_id": 358, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "What does the MRI image show?\n<image>"}
+{"question_id": 359, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "Is the trapped occipital horn related to ventriculitis?\n<image>"}
+{"question_id": 360, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "Does the presence of contrast enhance the MRI image?\n<image>"}
+{"question_id": 361, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "Can diffusion restriction indicate a recent stroke?\n<image>"}
+{"question_id": 362, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "Is it important to address the trapped occipital horn?\n<image>"}
+{"question_id": 363, "image": "32104733_j_jccm-2020-0002_fig_005.jpg", "question": "Does the MRI help in assessing the patient's condition effectively?\n<image>"}
+{"question_id": 364, "image": "28983447_FIG3.jpg", "question": "Can you describe what this image is showing?\n<image>"}
+{"question_id": 365, "image": "28983447_FIG3.jpg", "question": "What does the star in the image represent?\n<image>"}
+{"question_id": 366, "image": "28983447_FIG3.jpg", "question": "What does the arrow signify?\n<image>"}
+{"question_id": 367, "image": "28983447_FIG3.jpg", "question": "Is there any indication of a dilated internal acoustic meatus (IAM) in this image?\n<image>"}
+{"question_id": 368, "image": "28983447_FIG3.jpg", "question": "Does this image suggest any other abnormalities apart from the thickened petrous bone?\n<image>"}
+{"question_id": 369, "image": "28983447_FIG3.jpg", "question": "Is this type of reactive thickening common in cases like this?\n<image>"}
+{"question_id": 370, "image": "28003940_FIG4.jpg", "question": "Is the MRI scan showing a mass effect on the foramen of Monro?\n<image>"}
+{"question_id": 371, "image": "28003940_FIG4.jpg", "question": "Does the mass appear to enhance heterogeneously on the MRI?\n<image>"}
+{"question_id": 372, "image": "28003940_FIG4.jpg", "question": "Is the mass located in the left lateral ventricle?\n<image>"}
+{"question_id": 373, "image": "28003940_FIG4.jpg", "question": "Can we conclude that the mass is T2 hyperintense?\n<image>"}
+{"question_id": 374, "image": "28003940_FIG4.jpg", "question": "Is the foramen of Monro a critical structure in the brain?\n<image>"}
+{"question_id": 375, "image": "28003940_FIG4.jpg", "question": "Would further evaluation be necessary to determine the nature of the mass?\n<image>"}
+{"question_id": 376, "image": "pmc_185828_0.jpg", "question": "Is the red arrow indicating a vascular anomaly in the image?\n<image>"}
+{"question_id": 377, "image": "pmc_185828_0.jpg", "question": "Does the blue arrow point to a dilated structure in the image?\n<image>"}
+{"question_id": 378, "image": "pmc_185828_0.jpg", "question": "Can the image help in understanding the relationship between the aberrant artery and nearby structures?\n<image>"}
+{"question_id": 379, "image": "pmc_185828_0.jpg", "question": "Is the aberrant vertebral artery originating from an unusual location?\n<image>"}
+{"question_id": 380, "image": "pmc_185828_0.jpg", "question": "Does the image suggest any clinical significance of the vascular anomaly?\n<image>"}
+{"question_id": 381, "image": "pmc_185828_0.jpg", "question": "Is this type of imaging commonly used to evaluate vascular anomalies?\n<image>"}
+{"question_id": 382, "image": "27920975_fig2.jpg", "question": "What do you see in the chest X-ray?\n<image>"}
+{"question_id": 383, "image": "27920975_fig2.jpg", "question": "Is it possible that this X-ray indicates a serious condition?\n<image>"}
+{"question_id": 384, "image": "27920975_fig2.jpg", "question": "Could this condition be related to heart problems?\n<image>"}
+{"question_id": 385, "image": "27920975_fig2.jpg", "question": "Is it common for patients with pulmonary edema to experience shortness of breath?\n<image>"}
+{"question_id": 386, "image": "27920975_fig2.jpg", "question": "Can pulmonary edema be treated effectively?\n<image>"}
+{"question_id": 387, "image": "27920975_fig2.jpg", "question": "Should a follow-up X-ray be performed after treatment?\n<image>"}
+{"question_id": 388, "image": "pmc_97667_0.jpg", "question": "I see two hepatic arteries in the images. Is it correct that they originate from different arteries?\n<image>"}
+{"question_id": 389, "image": "pmc_97667_0.jpg", "question": "Are these variations in the hepatic arteries common?\n<image>"}
+{"question_id": 390, "image": "pmc_97667_0.jpg", "question": "Do these variations affect surgical procedures involving the liver?\n<image>"}
+{"question_id": 391, "image": "pmc_97667_0.jpg", "question": "Is it important to identify these arteries in imaging studies before surgery?\n<image>"}
+{"question_id": 392, "image": "pmc_97667_0.jpg", "question": "Can these variations lead to complications during liver transplantation?\n<image>"}
+{"question_id": 393, "image": "pmc_97667_0.jpg", "question": "Is the replaced left hepatic artery a common variant?\n<image>"}
+{"question_id": 394, "image": "30148059_f0025.jpg", "question": "What can you tell me about the bilateral consolidations in the image?\n<image>"}
+{"question_id": 395, "image": "30148059_f0025.jpg", "question": "Is the right upper lobe the most affected area?\n<image>"}
+{"question_id": 396, "image": "30148059_f0025.jpg", "question": "Does the presence of an air bronchogram suggest anything specific?\n<image>"}
+{"question_id": 397, "image": "30148059_f0025.jpg", "question": "Are the consolidations primarily located near the pleura?\n<image>"}
+{"question_id": 398, "image": "30148059_f0025.jpg", "question": "Is this type of imaging useful for diagnosing lung conditions?\n<image>"}
+{"question_id": 399, "image": "30148059_f0025.jpg", "question": "Can this imaging technique help in assessing the severity of lung disease?\n<image>"}
+{"question_id": 400, "image": "pmc_452536_0.jpg", "question": "Is the gastric wall thickening in this image consistent with a pathological condition?\n<image>"}
+{"question_id": 401, "image": "pmc_452536_0.jpg", "question": "Can the uneven thickness of the gastric wall observed here obstruct food passage?\n<image>"}
+{"question_id": 402, "image": "pmc_452536_0.jpg", "question": "Are heterogeneously dense areas within the omental fat a sign of malignancy?\n<image>"}
+{"question_id": 403, "image": "pmc_452536_0.jpg", "question": "Could the findings suggest a need for further biopsy evaluation?\n<image>"}
+{"question_id": 404, "image": "pmc_452536_0.jpg", "question": "Is there decreased flexibility of the stomach walls in this condition?\n<image>"}
+{"question_id": 405, "image": "pmc_452536_0.jpg", "question": "Are these structural changes visible due to intravenous contrast in the CT scan?\n<image>"}
+{"question_id": 406, "image": "30559553_f2.jpg", "question": "Is cerebellar hypoplasia visible on a CT scan?\n<image>"}
+{"question_id": 407, "image": "30559553_f2.jpg", "question": "Can cerebellar hypoplasia affect balance?\n<image>"}
+{"question_id": 408, "image": "30559553_f2.jpg", "question": "Is cerebellar hypoplasia a common condition?\n<image>"}
+{"question_id": 409, "image": "30559553_f2.jpg", "question": "Can cerebellar hypoplasia be diagnosed in infants?\n<image>"}
+{"question_id": 410, "image": "30559553_f2.jpg", "question": "Does cerebellar hypoplasia have genetic causes?\n<image>"}
+{"question_id": 411, "image": "30559553_f2.jpg", "question": "Is treatment available for cerebellar hypoplasia?\n<image>"}
+{"question_id": 412, "image": "pmc_299996_0.jpg", "question": "Are there signs of metaphyseal cupping in the image?\n<image>"}
+{"question_id": 413, "image": "pmc_299996_0.jpg", "question": "Is there any irregularity along the metaphyseal margins?\n<image>"}
+{"question_id": 414, "image": "pmc_299996_0.jpg", "question": "Does the tibia exhibit any deformities?\n<image>"}
+{"question_id": 415, "image": "pmc_299996_0.jpg", "question": "Is the overall bone density diminished in the metaphysis?\n<image>"}
+{"question_id": 416, "image": "pmc_299996_0.jpg", "question": "Could these findings indicate a metabolic bone disorder?\n<image>"}
+{"question_id": 417, "image": "pmc_299996_0.jpg", "question": "Should a medical professional evaluate these abnormalities?\n<image>"}
+{"question_id": 418, "image": "pmc_477872_0.jpg", "question": "Can you describe the medical procedure occurring in this series of images?\n<image>"}
+{"question_id": 419, "image": "pmc_477872_0.jpg", "question": "Do these images indicate the presence of coronary artery blockages?\n<image>"}
+{"question_id": 420, "image": "pmc_477872_0.jpg", "question": "Is a therapeutic intervention visible in these images?\n<image>"}
+{"question_id": 421, "image": "pmc_477872_0.jpg", "question": "What do the changes in the vascular appearance across the images signify?\n<image>"}
+{"question_id": 422, "image": "pmc_477872_0.jpg", "question": "Is imaging with contrast dye safe for identifying coronary diseases?\n<image>"}
+{"question_id": 423, "image": "pmc_477872_0.jpg", "question": "Do these images show evidence of improved blood flow post-intervention?\n<image>"}
+{"question_id": 424, "image": "35401911_fig0007.jpg", "question": "What can you tell me about the structures visible in the image?\n<image>"}
+{"question_id": 425, "image": "35401911_fig0007.jpg", "question": "Are there osteoclast giant cells present in this image?\n<image>"}
+{"question_id": 426, "image": "35401911_fig0007.jpg", "question": "Does this image display histopathological staining?\n<image>"}
+{"question_id": 427, "image": "35401911_fig0007.jpg", "question": "Could these findings indicate a pathological condition?\n<image>"}
+{"question_id": 428, "image": "35401911_fig0007.jpg", "question": "Is it possible to observe cellular nuclei in this image?\n<image>"}
+{"question_id": 429, "image": "35401911_fig0007.jpg", "question": "Do the cells have multinucleated characteristics?\n<image>"}
+{"question_id": 430, "image": "pmc_66448_0.jpg", "question": "What percentage of results for the Core Biopsy procedure are classified as B1?\n<image>"}
+{"question_id": 431, "image": "pmc_66448_0.jpg", "question": "Are there any B4 results shown in the VABB Elite pie chart?\n<image>"}
+{"question_id": 432, "image": "pmc_66448_0.jpg", "question": "Are there any results classified as B5 in the Core Biopsy pie chart?\n<image>"}
+{"question_id": 433, "image": "pmc_93843_0.jpg", "question": "Can you describe what is highlighted in the CT image?\n<image>"}
+{"question_id": 434, "image": "pmc_93843_0.jpg", "question": "Does the surrounding lung tissue appear abnormal in the image?\n<image>"}
+{"question_id": 435, "image": "pmc_93843_0.jpg", "question": "Does the CT image show any evidence of pleural effusion?\n<image>"}
+{"question_id": 436, "image": "pmc_93843_0.jpg", "question": "Is it likely for a benign condition to present as a solitary, well-defined nodule like the one shown in the CT?\n<image>"}
+{"question_id": 437, "image": "pmc_93843_0.jpg", "question": "Could this image depict a condition that requires follow-up imaging or procedures?\n<image>"}
+{"question_id": 438, "image": "24004511_F8.jpg", "question": "Are the left images compared to the right images taken at different time points?\n<image>"}
+{"question_id": 439, "image": "24004511_F8.jpg", "question": "Can the technique shown automatically track changes in lesion size and shape over time?\n<image>"}
+{"question_id": 440, "image": "24004511_F8.jpg", "question": "Are the ROIs drawn on the follow-up images derived from the baseline ROIs?\n<image>"}
+{"question_id": 441, "image": "24004511_F8.jpg", "question": "Could the method shown be utilized for monitoring multiple sclerosis (MS) lesions over time?\n<image>"}
+{"question_id": 442, "image": "22384429_F1.jpg", "question": "Can you determine whether the mass in the left inguinal area appears round?\n<image>"}
+{"question_id": 443, "image": "22384429_F1.jpg", "question": "Is the mass on the left inguinal side homogeneous?\n<image>"}
+{"question_id": 444, "image": "22384429_F1.jpg", "question": "Would the presence of an enhanced mass suggest contrast uptake?\n<image>"}
+{"question_id": 445, "image": "22384429_F1.jpg", "question": "Does the image provide evidence of a lobulated mass on the opposite side?\n<image>"}
+{"question_id": 446, "image": "22384429_F1.jpg", "question": "Are lymph nodes in the left para-aortic area enlarged?\n<image>"}
+{"question_id": 447, "image": "22384429_F1.jpg", "question": "Is it plausible that the enlarged lymph node is related to the inguinal mass?\n<image>"}
+{"question_id": 448, "image": "pmc_88745_0.jpg", "question": "Are the implants likely to cause inflammation in the surrounding skin?\n<image>"}
+{"question_id": 449, "image": "pmc_88745_0.jpg", "question": "Is there any visible exudate around the implant sites?\n<image>"}
+{"question_id": 450, "image": "pmc_88745_0.jpg", "question": "Do the metal components of the implants appear to be securely fixed?\n<image>"}
+{"question_id": 451, "image": "pmc_88745_0.jpg", "question": "Is the skin around the insertion points tender to touch?\n<image>"}
+{"question_id": 452, "image": "pmc_88745_0.jpg", "question": "Could this situation lead to a systemic infection if not managed properly?\n<image>"}
+{"question_id": 453, "image": "pmc_88745_0.jpg", "question": "Is it important to monitor the condition of the skin around the implants regularly?\n<image>"}
+{"question_id": 454, "image": "pmc_508216_0.jpg", "question": "Can this medical image be used to identify a focal abnormality in the knee joint?\n<image>"}
+{"question_id": 455, "image": "pmc_508216_0.jpg", "question": "Based on this image, could the focal abnormality involve the proximal tibia or adjacent structures?\n<image>"}
+{"question_id": 456, "image": "pmc_508216_0.jpg", "question": "Is this image helpful for visualizing details of the knee joint space?\n<image>"}
+{"question_id": 457, "image": "pmc_508216_0.jpg", "question": "Do you think clinical context is vital for interpreting this knee abnormality?\n<image>"}
+{"question_id": 458, "image": "pmc_508216_0.jpg", "question": "Would this abnormality warrant further investigation for potential lesion or infection?\n<image>"}
+{"question_id": 459, "image": "pmc_508216_0.jpg", "question": "Could the arrow in this image improve the identification of the abnormal area?\n<image>"}
+{"question_id": 460, "image": "35303837_Fig7.jpg", "question": "What can you tell me about the patient's position in this chest x-ray?\n<image>"}
+{"question_id": 461, "image": "35303837_Fig7.jpg", "question": "Does the image show any fluid accumulation in the lungs?\n<image>"}
+{"question_id": 462, "image": "35303837_Fig7.jpg", "question": "Is bilateral pleural effusion always a cause for concern?\n<image>"}
+{"question_id": 463, "image": "35303837_Fig7.jpg", "question": "Should the presence of pleural effusion be monitored?\n<image>"}
+{"question_id": 464, "image": "35303837_Fig7.jpg", "question": "Can pleural effusion resolve on its own?\n<image>"}
+{"question_id": 465, "image": "35303837_Fig7.jpg", "question": "Is it important to consult a healthcare professional regarding pleural effusion?\n<image>"}
+{"question_id": 466, "image": "pmc_402377_0.jpg", "question": "Does the tumor tissue in the image appear to have distinct regions or textures?\n<image>"}
+{"question_id": 467, "image": "pmc_402377_0.jpg", "question": "Could the reddish areas in the tumor indicate hemorrhage or congestion?\n<image>"}
+{"question_id": 468, "image": "pmc_402377_0.jpg", "question": "Is the tumor likely to be of gastrointestinal origin based on the image?\n<image>"}
+{"question_id": 469, "image": "pmc_402377_0.jpg", "question": "Does the image provide enough information for a definitive diagnosis?\n<image>"}
+{"question_id": 470, "image": "pmc_402377_0.jpg", "question": "Is the tumor described as well-differentiated?\n<image>"}
+{"question_id": 471, "image": "pmc_402377_0.jpg", "question": "Does the scale bar in the image suggest this is a diagnostic image?\n<image>"}
+{"question_id": 472, "image": "pmc_540949_0.jpg", "question": "Is the tumor causing any compression on the superior sagittal sinus?\n<image>"}
+{"question_id": 473, "image": "pmc_540949_0.jpg", "question": "Does the titanium mesh play a role in stabilizing the skull after surgery?\n<image>"}
+{"question_id": 474, "image": "pmc_540949_0.jpg", "question": "Is the presence of a polyethylene artificial bone flap common in such cases?\n<image>"}
+{"question_id": 475, "image": "pmc_540949_0.jpg", "question": "Can the tumor's invasion into the superior sagittal sinus affect the patient's prognosis?\n<image>"}
+{"question_id": 476, "image": "pmc_540949_0.jpg", "question": "Is it important to monitor the changes in the surrounding areas of the tumor?\n<image>"}
+{"question_id": 477, "image": "pmc_540949_0.jpg", "question": "Will the patient require additional therapies after surgery?\n<image>"}
+{"question_id": 478, "image": "25996775_fig0010.jpg", "question": "What imaging technique is depicted in this figure?\n<image>"}
+{"question_id": 479, "image": "25996775_fig0010.jpg", "question": "Is there a notable mass present in the image?\n<image>"}
+{"question_id": 480, "image": "25996775_fig0010.jpg", "question": "Can we determine the exact location of the mass from this image?\n<image>"}
+{"question_id": 481, "image": "25996775_fig0010.jpg", "question": "Is the mass clearly defined in the imaging?\n<image>"}
+{"question_id": 482, "image": "25996775_fig0010.jpg", "question": "Is MRI a suitable method for evaluating soft tissue masses?\n<image>"}
+{"question_id": 483, "image": "25013340_F13.jpg", "question": "What does the image show about the alignment of the atlas with the occipital condyles?\n<image>"}
+{"question_id": 484, "image": "25013340_F13.jpg", "question": "Is the lateral displacement of the atlas significant in this case?\n<image>"}
+{"question_id": 485, "image": "25013340_F13.jpg", "question": "Could this displacement be a result of an injury?\n<image>"}
+{"question_id": 486, "image": "25013340_F13.jpg", "question": "Is it important to seek medical advice for this condition?\n<image>"}
+{"question_id": 487, "image": "25013340_F13.jpg", "question": "Can this condition lead to long-term complications if untreated?\n<image>"}
+{"question_id": 488, "image": "26313774_F2.jpg", "question": "What did the CT scan reveal about the basal ganglia?\n<image>"}
+{"question_id": 489, "image": "26313774_F2.jpg", "question": "Can we conclude that there are no issues with the brainstem based on the scan?\n<image>"}
+{"question_id": 490, "image": "26313774_F2.jpg", "question": "Was there any indication of a stroke in the CT scan?\n<image>"}
+{"question_id": 491, "image": "26313774_F2.jpg", "question": "Is it safe to say that the patient's brain is healthy based on this scan?\n<image>"}
+{"question_id": 492, "image": "26313774_F2.jpg", "question": "Does the absence of lesions mean there is no need for further testing?\n<image>"}
+{"question_id": 493, "image": "26313774_F2.jpg", "question": "Should the patient follow up with a specialist after this scan?\n<image>"}
+{"question_id": 494, "image": "35401173_F4.jpg", "question": "What specific histologic changes are visible in the image?\n<image>"}
+{"question_id": 495, "image": "35401173_F4.jpg", "question": "Is there evidence of inflammation in the tissue?\n<image>"}
+{"question_id": 496, "image": "35401173_F4.jpg", "question": "Can we conclude that CSP has a therapeutic effect based on this image?\n<image>"}
+{"question_id": 497, "image": "35401173_F4.jpg", "question": "Are the changes in the tissue reversible?\n<image>"}
+{"question_id": 498, "image": "35401173_F4.jpg", "question": "Do the changes observed correlate with any known effects of CSP?\n<image>"}
+{"question_id": 499, "image": "35401173_F4.jpg", "question": "Is this image useful for understanding the mechanism of action of CSP?\n<image>"}
+{"question_id": 500, "image": "pmc_329299_0.jpg", "question": "Is there a pleural effusion visible in the image?\n<image>"}
+{"question_id": 501, "image": "pmc_329299_0.jpg", "question": "Can the mediastinum shifting toward the left be identified in this scan?\n<image>"}
+{"question_id": 502, "image": "pmc_329299_0.jpg", "question": "Does the left lung show any abnormalities?\n<image>"}
+{"question_id": 503, "image": "pmc_329299_0.jpg", "question": "Can the presence of a pericardial effusion be confirmed in this image?\n<image>"}
+{"question_id": 504, "image": "pmc_329299_0.jpg", "question": "Is the condition of the right lung critical based on the findings?\n<image>"}
+{"question_id": 505, "image": "pmc_329299_0.jpg", "question": "Does the image suggest this is an acute emergency?\n<image>"}
+{"question_id": 506, "image": "pmc_357877_0.jpg", "question": "Does the MRI scan show any signs of abnormal masses in the brain?\n<image>"}
+{"question_id": 507, "image": "pmc_357877_0.jpg", "question": "Is the ventricular system symmetric in the MRI image?\n<image>"}
+{"question_id": 508, "image": "pmc_357877_0.jpg", "question": "Can we conclude that there are no signs of hydrocephalus based on this MRI?\n<image>"}
+{"question_id": 509, "image": "pmc_357877_0.jpg", "question": "Are the patterns of sulci and gyri well preserved in the MRI scan?\n<image>"}
+{"question_id": 510, "image": "pmc_357877_0.jpg", "question": "Does the MRI indicate any active inflammatory processes in the brain?\n<image>"}
+{"question_id": 511, "image": "pmc_357877_0.jpg", "question": "Is the overall morphology of the brain normal according to the MRI?\n<image>"}
+{"question_id": 512, "image": "30002936_fig2.jpg", "question": "What does the CT scan reveal about the lungs?\n<image>"}
+{"question_id": 513, "image": "30002936_fig2.jpg", "question": "Is it possible that this condition is pneumonia?\n<image>"}
+{"question_id": 514, "image": "30002936_fig2.jpg", "question": "Could this also indicate pulmonary edema?\n<image>"}
+{"question_id": 515, "image": "30002936_fig2.jpg", "question": "Are both pneumonia and edema serious conditions?\n<image>"}
+{"question_id": 516, "image": "30002936_fig2.jpg", "question": "Is further testing needed to determine the exact cause?\n<image>"}
+{"question_id": 517, "image": "30002936_fig2.jpg", "question": "Can treatment differ between pneumonia and edema?\n<image>"}
+{"question_id": 518, "image": "pmc_291685_0.jpg", "question": "Can we identify regions of the heart showing late gadolinium enhancement in these images?\n<image>"}
+{"question_id": 519, "image": "pmc_291685_0.jpg", "question": "Do these scans show clear differentiation of the left ventricle from surrounding tissues?\n<image>"}
+{"question_id": 520, "image": "pmc_291685_0.jpg", "question": "Could the surrounding anatomy, like the diaphragm and liver, also be visualized in these images?\n<image>"}
+{"question_id": 521, "image": "pmc_291685_0.jpg", "question": "Are these CMR images indicative of potential myocardial damage or remodeling?\n<image>"}
+{"question_id": 522, "image": "pmc_291685_0.jpg", "question": "Is late gadolinium enhancement clinically significant for patients with heart conditions?\n<image>"}
+{"question_id": 523, "image": "pmc_291685_0.jpg", "question": "Would these scans aid in evaluating a patient's response to treatment for myocardial fibrosis?\n<image>"}
+{"question_id": 524, "image": "27188200_f1-crt-2016-045.jpg", "question": "What can you tell me about the percentage of cases with unknown histologic type?\n<image>"}
+{"question_id": 525, "image": "27188200_f1-crt-2016-045.jpg", "question": "Did the percentage of hepatocellular carcinoma also change over time?\n<image>"}
+{"question_id": 526, "image": "27188200_f1-crt-2016-045.jpg", "question": "Is there a noticeable plateau in the data for any of the types?\n<image>"}
+{"question_id": 527, "image": "27188200_f1-crt-2016-045.jpg", "question": "Are both sexes represented in the data?\n<image>"}
+{"question_id": 528, "image": "27188200_f1-crt-2016-045.jpg", "question": "Does the figure provide insights into cancer trends over the years?\n<image>"}
+{"question_id": 529, "image": "pmc_339894_0.jpg", "question": "Does the cellular pleomorphism in this histopathological image suggest malignancy?\n<image>"}
+{"question_id": 530, "image": "pmc_339894_0.jpg", "question": "Are there signs of a high proliferative activity based on this image?\n<image>"}
+{"question_id": 531, "image": "pmc_339894_0.jpg", "question": "Is necrosis present in the tissue sample shown in this image?\n<image>"}
+{"question_id": 532, "image": "pmc_339894_0.jpg", "question": "Could the epithelioid morphology of the cells in this sample point to a specific tumor type?\n<image>"}
+{"question_id": 533, "image": "pmc_339894_0.jpg", "question": "Are there any stromal components visible in this histopathological image?\n<image>"}
+{"question_id": 534, "image": "pmc_339894_0.jpg", "question": "Is this tissue sample likely consistent with a low-grade tumor?\n<image>"}
+{"question_id": 535, "image": "pmc_212320_0.jpg", "question": "Looking at the Kaplan\u2013Meier survival curves, can we say that patients with higher AKI stages have significantly worse survival outcomes compared to those without AKI?\n<image>"}
+{"question_id": 536, "image": "pmc_212320_0.jpg", "question": "Does the graph suggest that the survival rate for patients without AKI remains relatively stable over the 12 months?\n<image>"}
+{"question_id": 537, "image": "pmc_212320_0.jpg", "question": "Can we infer from the image that the differences in survival rates between the groups are statistically significant?\n<image>"}
+{"question_id": 538, "image": "pmc_212320_0.jpg", "question": "Does the table below the graph provide information about the number of patients at risk at different time points?\n<image>"}
+{"question_id": 539, "image": "pmc_212320_0.jpg", "question": "Does the x-axis of the graph represent the follow-up time in months?\n<image>"}
+{"question_id": 540, "image": "23403952_f1-etm-05-02-0636.jpg", "question": "What does the flowchart illustrate about the patients?\n<image>"}
+{"question_id": 541, "image": "23403952_f1-etm-05-02-0636.jpg", "question": "Are there any specific diagnostic tests highlighted in the flowchart?\n<image>"}
+{"question_id": 542, "image": "23403952_f1-etm-05-02-0636.jpg", "question": "Is the flowchart easy to follow?\n<image>"}
+{"question_id": 543, "image": "23403952_f1-etm-05-02-0636.jpg", "question": "Are there any abbreviations used in the flowchart?\n<image>"}
+{"question_id": 544, "image": "23403952_f1-etm-05-02-0636.jpg", "question": "Does the flowchart represent a specific time frame for the study?\n<image>"}
+{"question_id": 545, "image": "30895098_fig2.jpg", "question": "What area does the mass affect?\n<image>"}
+{"question_id": 546, "image": "30895098_fig2.jpg", "question": "Is the mass well-defined?\n<image>"}
+{"question_id": 547, "image": "30895098_fig2.jpg", "question": "Is the mass infiltrating the masseter muscle?\n<image>"}
+{"question_id": 548, "image": "24003413_F1.jpg", "question": "Is the tumor located in the lung?\n<image>"}
+{"question_id": 549, "image": "24003413_F1.jpg", "question": "Does the tumor have clear boundaries?\n<image>"}
+{"question_id": 550, "image": "24003413_F1.jpg", "question": "Is the tumor larger than 2 cm?\n<image>"}
+{"question_id": 551, "image": "24003413_F1.jpg", "question": "Is this tumor likely to require further medical evaluation?\n<image>"}
+{"question_id": 552, "image": "24003413_F1.jpg", "question": "Is the tumor visible in the CT scan?\n<image>"}
+{"question_id": 553, "image": "24003413_F1.jpg", "question": "Could this tumor be a cause for concern?\n<image>"}
+{"question_id": 554, "image": "pmc_637681_0.jpg", "question": "Is there a noticeable increase in IRF2 expression as the cancer grade progresses?\n<image>"}
+{"question_id": 555, "image": "pmc_637681_0.jpg", "question": "Does CD68 expression also increase with higher cancer grades?\n<image>"}
+{"question_id": 556, "image": "pmc_637681_0.jpg", "question": "Are there any overlaps in the staining of IRF2 and CD68 in the merged images?\n<image>"}
+{"question_id": 557, "image": "pmc_637681_0.jpg", "question": "Is the expression of both IRF2 and CD68 minimal in normal liver tissue?\n<image>"}
+{"question_id": 558, "image": "pmc_637681_0.jpg", "question": "Does the intensity of the merged images increase from grade 1 to grade 3?\n<image>"}
+{"question_id": 559, "image": "pmc_637681_0.jpg", "question": "Is there a correlation between disease progression and the expression levels of IRF2 and CD68?\n<image>"}
+{"question_id": 560, "image": "27557875_Fig2.jpg", "question": "Was the CT scan taken before the patient was admitted?\n<image>"}
+{"question_id": 561, "image": "27557875_Fig2.jpg", "question": "Did the CT scan show any abnormalities in the hepatic portal venous system?\n<image>"}
+{"question_id": 562, "image": "27557875_Fig2.jpg", "question": "Was there any indication of gas in the stomach wall?\n<image>"}
+{"question_id": 563, "image": "27557875_Fig2.jpg", "question": "Could the CT scan findings rule out complications related to gas presence?\n<image>"}
+{"question_id": 564, "image": "27557875_Fig2.jpg", "question": "Was the CT scan performed to investigate the upper abdomen?\n<image>"}
+{"question_id": 565, "image": "27557875_Fig2.jpg", "question": "Does the CT scan provide any evidence of aspiration pneumonia?\n<image>"}
+{"question_id": 566, "image": "30220854_F3.jpg", "question": "What does the CT scan indicate about the patient's condition?\n<image>"}
+{"question_id": 567, "image": "30220854_F3.jpg", "question": "Is the axial view helpful in assessing the treatment outcome?\n<image>"}
+{"question_id": 568, "image": "30220854_F3.jpg", "question": "Can we conclude that the treatment was successful based on this scan?\n<image>"}
+{"question_id": 569, "image": "30220854_F3.jpg", "question": "Is there any indication of future monitoring needed?\n<image>"}
+{"question_id": 570, "image": "30220854_F3.jpg", "question": "Does the absence of recurrence mean the patient is completely healed?\n<image>"}
+{"question_id": 571, "image": "30220854_F3.jpg", "question": "Is this type of imaging commonly used in post-operative assessments?\n<image>"}
+{"question_id": 572, "image": "30937250_FIG2.jpg", "question": "What can you tell me about the cervical spine abnormalities in the image?\n<image>"}
+{"question_id": 573, "image": "30937250_FIG2.jpg", "question": "Is there a disc herniation at the C4-5 level?\n<image>"}
+{"question_id": 574, "image": "30937250_FIG2.jpg", "question": "Does the C5-6 level show any compression of the spinal cord?\n<image>"}
+{"question_id": 575, "image": "30937250_FIG2.jpg", "question": "Is retrolisthesis a common condition in cervical spine abnormalities?\n<image>"}
+{"question_id": 576, "image": "30937250_FIG2.jpg", "question": "Can disc herniations lead to neurological symptoms?\n<image>"}
+{"question_id": 577, "image": "30937250_FIG2.jpg", "question": "Is the right paracentral disc extrusion more severe than a typical disc herniation?\n<image>"}
+{"question_id": 578, "image": "24942782_F1.jpg", "question": "What does the chest X-ray reveal?\n<image>"}
+{"question_id": 579, "image": "24942782_F1.jpg", "question": "Are the infiltrates more pronounced on one side?\n<image>"}
+{"question_id": 580, "image": "24942782_F1.jpg", "question": "Could these infiltrates indicate a serious condition?\n<image>"}
+{"question_id": 581, "image": "24942782_F1.jpg", "question": "Is it possible that these findings are related to an infection?\n<image>"}
+{"question_id": 582, "image": "24942782_F1.jpg", "question": "Should further tests be conducted to understand the cause?\n<image>"}
+{"question_id": 583, "image": "24942782_F1.jpg", "question": "Is it important to consult a healthcare professional regarding these findings?\n<image>"}
+{"question_id": 584, "image": "35611359_F1.jpg", "question": "Is the lesion causing any swelling in the surrounding area?\n<image>"}
+{"question_id": 585, "image": "35611359_F1.jpg", "question": "Is the lesion located in the cerebellopontine angle?\n<image>"}
+{"question_id": 586, "image": "35611359_F1.jpg", "question": "Does the lesion have any mass effect on the left cerebellum?\n<image>"}
+{"question_id": 587, "image": "35611359_F1.jpg", "question": "Is there any evidence of hydrocephalus in the image?\n<image>"}
+{"question_id": 588, "image": "35611359_F1.jpg", "question": "Is the lesion enhancing peripherally on the MRI?\n<image>"}
+{"question_id": 589, "image": "35611359_F1.jpg", "question": "Is the lesion affecting the left side of the brain?\n<image>"}
+{"question_id": 590, "image": "pmc_614231_0.jpg", "question": "Can you confirm that the hand positions in the VFSS image are adjusted to avoid radiation exposure?\n<image>"}
+{"question_id": 591, "image": "pmc_614231_0.jpg", "question": "Is the infant positioned upright during the VFSS procedure?\n<image>"}
+{"question_id": 592, "image": "pmc_614231_0.jpg", "question": "Can these imaging techniques help identify abnormalities in swallowing?\n<image>"}
+{"question_id": 593, "image": "pmc_614231_0.jpg", "question": "Is the alternative hand hold technique in FEES important for stabilizing the endoscope?\n<image>"}
+{"question_id": 594, "image": "pmc_176768_0.jpg", "question": "Is the tumor clearly visible in the image?\n<image>"}
+{"question_id": 595, "image": "pmc_176768_0.jpg", "question": "Does the image help in surgical planning?\n<image>"}
+{"question_id": 596, "image": "pmc_176768_0.jpg", "question": "Can the automated segmentation accurately depict the tumor's size?\n<image>"}
+{"question_id": 597, "image": "pmc_176768_0.jpg", "question": "Is the kidney structure well-defined in the image?\n<image>"}
+{"question_id": 598, "image": "pmc_176768_0.jpg", "question": "Does this imaging technique require contrast agents?\n<image>"}
+{"question_id": 599, "image": "pmc_176768_0.jpg", "question": "Is this type of imaging commonly used for pre-operative assessments?\n<image>"}
+{"question_id": 600, "image": "34168856_f2.jpg", "question": "What type of cyst is visible in the MRI?\n<image>"}
+{"question_id": 601, "image": "34168856_f2.jpg", "question": "Can you tell me how the cyst appears in T1 and T2 weighted images?\n<image>"}
+{"question_id": 602, "image": "34168856_f2.jpg", "question": "Is there any pathological enhancement after Gadolinium injection?\n<image>"}
+{"question_id": 603, "image": "34168856_f2.jpg", "question": "Does the cyst have a thickened wall?\n<image>"}
+{"question_id": 604, "image": "34168856_f2.jpg", "question": "Is the cyst located on the left side?\n<image>"}
+{"question_id": 605, "image": "34168856_f2.jpg", "question": "Does the cyst have an exophytic development?\n<image>"}
+{"question_id": 606, "image": "29499700_Fig1.jpg", "question": "Are patients without a primary care provider more likely to undergo a CT scan in the emergency department?\n<image>"}
+{"question_id": 607, "image": "29499700_Fig1.jpg", "question": "Does the data suggest that the trend of CT scans increased for patients without a primary care provider over the years?\n<image>"}
+{"question_id": 608, "image": "29499700_Fig1.jpg", "question": "Is it accurate to say that having a primary care provider reduces the likelihood of receiving a CT scan?\n<image>"}
+{"question_id": 609, "image": "29499700_Fig1.jpg", "question": "Can we conclude that the presence of a primary care provider is beneficial in reducing unnecessary CT scans?\n<image>"}
+{"question_id": 610, "image": "29499700_Fig1.jpg", "question": "Is there a significant statistical difference in CT scan rates between the two groups?\n<image>"}
+{"question_id": 611, "image": "29499700_Fig1.jpg", "question": "Would you say that the findings highlight the importance of having a primary care provider?\n<image>"}
+{"question_id": 612, "image": "23599811_F1.jpg", "question": "What key features should I look for in the CT scan?\n<image>"}
+{"question_id": 613, "image": "23599811_F1.jpg", "question": "Are there any signs of injury in the CT scan?\n<image>"}
+{"question_id": 614, "image": "23599811_F1.jpg", "question": "Can the CT scan help in diagnosing diseases?\n<image>"}
+{"question_id": 615, "image": "23599811_F1.jpg", "question": "Is it possible to see tumors in the CT scan?\n<image>"}
+{"question_id": 616, "image": "23599811_F1.jpg", "question": "Do you think the CT scan results will be conclusive?\n<image>"}
+{"question_id": 617, "image": "23599811_F1.jpg", "question": "Should I be concerned about the findings in the CT scan?\n<image>"}
+{"question_id": 618, "image": "35574321_f8.jpg", "question": "What does the SROC curve indicate about the diagnostic performance?\n<image>"}
+{"question_id": 619, "image": "35574321_f8.jpg", "question": "Can we assess the accuracy of histology using the area under the curve?\n<image>"}
+{"question_id": 620, "image": "35574321_f8.jpg", "question": "Is it possible to derive specific sensitivity and specificity values from the SROC curve?\n<image>"}
+{"question_id": 621, "image": "35574321_f8.jpg", "question": "Does the SROC curve take into account the study population?\n<image>"}
+{"question_id": 622, "image": "35574321_f8.jpg", "question": "Can the SROC curve help in comparing different diagnostic methods?\n<image>"}
+{"question_id": 623, "image": "35574321_f8.jpg", "question": "Is the SROC curve useful for clinical decision-making?\n<image>"}
+{"question_id": 624, "image": "pmc_568045_0.jpg", "question": "Are the areas marked with arrows in the PET/CT scans indicative of malignancies?\n<image>"}
+{"question_id": 625, "image": "pmc_568045_0.jpg", "question": "Do the CT images show any structural abnormalities in the regions marked by the arrows?\n<image>"}
+{"question_id": 626, "image": "pmc_568045_0.jpg", "question": "Could the findings in the liver suggest metastatic disease?\n<image>"}
+{"question_id": 627, "image": "pmc_568045_0.jpg", "question": "Are the PET/CT findings consistent with involvement of multiple organs?\n<image>"}
+{"question_id": 628, "image": "pmc_568045_0.jpg", "question": "Does the fusion of PET and CT images improve diagnostic accuracy?\n<image>"}
+{"question_id": 629, "image": "pmc_568045_0.jpg", "question": "Should further diagnostic tests be recommended based on these findings?\n<image>"}
+{"question_id": 630, "image": "pmc_627066_0.jpg", "question": "Could the prominent well-circumscribed fluid collection be indicative of an abscess?\n<image>"}
+{"question_id": 631, "image": "pmc_627066_0.jpg", "question": "Is there evidence of inflammation surrounding the abscess in the image?\n<image>"}
+{"question_id": 632, "image": "pmc_627066_0.jpg", "question": "Does the image provide an axial view of the abdomen?\n<image>"}
+{"question_id": 633, "image": "pmc_627066_0.jpg", "question": "Can you identify any signs of appendicitis in this scan?\n<image>"}
+{"question_id": 634, "image": "pmc_627066_0.jpg", "question": "Could the surrounding fat stranding suggest other complications besides an abscess?\n<image>"}
+{"question_id": 635, "image": "33028398_Fig4.jpg", "question": "What is the most significant abnormality observed in the chest?\n<image>"}
+{"question_id": 636, "image": "33028398_Fig4.jpg", "question": "Is there any presence of air in the upper abdomen?\n<image>"}
+{"question_id": 637, "image": "33028398_Fig4.jpg", "question": "Does the image show any signs of soft tissue damage?\n<image>"}
+{"question_id": 638, "image": "33028398_Fig4.jpg", "question": "Can pneumomediastinum occur without any trauma?\n<image>"}
+{"question_id": 639, "image": "33028398_Fig4.jpg", "question": "Does the image suggest any immediate medical intervention is needed?\n<image>"}
+{"question_id": 640, "image": "34016729_fig2.jpg", "question": "What type of MRI scans are displayed in the image?\n<image>"}
+{"question_id": 641, "image": "34016729_fig2.jpg", "question": "Were the MRI scans taken before any treatment was administered?\n<image>"}
+{"question_id": 642, "image": "34016729_fig2.jpg", "question": "Can the lesion prediction algorithm compare MRI scans to a database of control subjects?\n<image>"}
+{"question_id": 643, "image": "34016729_fig2.jpg", "question": "Is it true that no white matter hyperintensities were detected in the scans?\n<image>"}
+{"question_id": 644, "image": "34016729_fig2.jpg", "question": "Were the control subjects in the lesion prediction algorithm's database aged between 20 and 90 years?\n<image>"}
+{"question_id": 645, "image": "pmc_20768_0.jpg", "question": "Does the image show any abnormalities in the kidneys?\n<image>"}
+{"question_id": 646, "image": "pmc_20768_0.jpg", "question": "Are the calcifications localized within the kidney structure?\n<image>"}
+{"question_id": 647, "image": "pmc_20768_0.jpg", "question": "Could this be indicative of a chronic kidney condition?\n<image>"}
+{"question_id": 648, "image": "pmc_20768_0.jpg", "question": "Is the right kidney affected in this image?\n<image>"}
+{"question_id": 649, "image": "pmc_91410_0.jpg", "question": "Do the MRI scans show any significant changes over the years?\n<image>"}
+{"question_id": 650, "image": "pmc_91410_0.jpg", "question": "Is the increase in tissular density at 4 months a cause for concern?\n<image>"}
+{"question_id": 651, "image": "pmc_91410_0.jpg", "question": "Does the 5-year MRI scan show any new findings compared to the 4-month scan?\n<image>"}
+{"question_id": 652, "image": "pmc_91410_0.jpg", "question": "Are the changes observed in the 8-year scan indicative of a different pathology?\n<image>"}
+{"question_id": 653, "image": "pmc_91410_0.jpg", "question": "Is it important to monitor these MRI scans over time?\n<image>"}
+{"question_id": 654, "image": "pmc_91410_0.jpg", "question": "Can the findings from these MRI scans help guide postoperative treatment decisions?\n<image>"}
+{"question_id": 655, "image": "26618019_fig2.jpg", "question": "What does the chest X-ray indicate?\n<image>"}
+{"question_id": 656, "image": "26618019_fig2.jpg", "question": "Is the opacity present on both sides of the lung?\n<image>"}
+{"question_id": 657, "image": "26618019_fig2.jpg", "question": "Could this opacity be related to an infection?\n<image>"}
+{"question_id": 658, "image": "26618019_fig2.jpg", "question": "Is it important to conduct further tests to understand the cause of the opacity?\n<image>"}
+{"question_id": 659, "image": "26618019_fig2.jpg", "question": "Can this finding be associated with a tumor?\n<image>"}
+{"question_id": 660, "image": "26618019_fig2.jpg", "question": "Should a healthcare professional be consulted for this finding?\n<image>"}
+{"question_id": 661, "image": "pmc_84213_0.jpg", "question": "Is the narrowing of the duodenum likely to indicate a serious condition?\n<image>"}
+{"question_id": 662, "image": "pmc_84213_0.jpg", "question": "Could the irregular luminal contours nearby the narrowing be a sign of inflammation?\n<image>"}
+{"question_id": 663, "image": "pmc_84213_0.jpg", "question": "Might the presence of a contrast medium in the stomach help in diagnosing the issue?\n<image>"}
+{"question_id": 664, "image": "pmc_84213_0.jpg", "question": "Is it possible that the observed changes in the duodenum could lead to symptoms like pain or bloating?\n<image>"}
+{"question_id": 665, "image": "pmc_84213_0.jpg", "question": "Could further imaging studies be necessary to understand the cause of the duodenal changes?\n<image>"}
+{"question_id": 666, "image": "pmc_84213_0.jpg", "question": "Is it common for adjacent organs to cause compression of the duodenum?\n<image>"}
+{"question_id": 667, "image": "pmc_601086_0.jpg", "question": "Is the dark line in the image indicative of a specific treatment effect?\n<image>"}
+{"question_id": 668, "image": "pmc_601086_0.jpg", "question": "Can we conclude that the rough texture is a result of the material's composition?\n<image>"}
+{"question_id": 669, "image": "pmc_601086_0.jpg", "question": "Does the high magnification of the image help in understanding microscopic interactions?\n<image>"}
+{"question_id": 670, "image": "pmc_601086_0.jpg", "question": "Is it possible that the variations in color indicate different material properties?\n<image>"}
+{"question_id": 671, "image": "pmc_601086_0.jpg", "question": "Could this image be useful for future biomedical applications?\n<image>"}
+{"question_id": 672, "image": "pmc_601086_0.jpg", "question": "Is the image representative of typical findings in biomedical engineering studies?\n<image>"}
+{"question_id": 673, "image": "pmc_326040_0.jpg", "question": "Is this MRI scan focused on the nasal region?\n<image>"}
+{"question_id": 674, "image": "pmc_326040_0.jpg", "question": "Does the image show any signs of intracranial extension of the lesion?\n<image>"}
+{"question_id": 675, "image": "pmc_326040_0.jpg", "question": "Is the lesion identified in the scan likely a nasal dermoid sinus cyst?\n<image>"}
+{"question_id": 676, "image": "pmc_326040_0.jpg", "question": "Can a tortuous sinus tract be seen in the image?\n<image>"}
+{"question_id": 677, "image": "pmc_326040_0.jpg", "question": "Is gadolinium used as a contrast agent in this MRI?\n<image>"}
+{"question_id": 678, "image": "pmc_326040_0.jpg", "question": "Is this imaging technique considered non-invasive?\n<image>"}
+{"question_id": 679, "image": "pmc_405904_0.jpg", "question": "Can you tell me if the tumor infiltration length is significant for the surgical procedure?\n<image>"}
+{"question_id": 680, "image": "pmc_405904_0.jpg", "question": "Is the resection interface distance also important for the surgery?\n<image>"}
+{"question_id": 681, "image": "pmc_405904_0.jpg", "question": "Does the auxiliary template in the images assist in the surgical planning?\n<image>"}
+{"question_id": 682, "image": "pmc_405904_0.jpg", "question": "Is the lateral viewpoint of the femur helpful in understanding the tumor's location?\n<image>"}
+{"question_id": 683, "image": "pmc_405904_0.jpg", "question": "Can the 3D reconstruction of the femur improve surgical outcomes?\n<image>"}
+{"question_id": 684, "image": "pmc_405904_0.jpg", "question": "Is it likely that the measurements shown in the images will influence the surgical technique used?\n<image>"}
+{"question_id": 685, "image": "pmc_363310_0.jpg", "question": "Is the bacterial growth on the BCYE agar plate considered indicative of Legionella species due to the colony morphology?\n<image>"}
+{"question_id": 686, "image": "pmc_363310_0.jpg", "question": "Can you describe what differentiates the colony formations, specifically based on their size, opacity, or uniformity?\n<image>"}
+{"question_id": 687, "image": "pmc_363310_0.jpg", "question": "Could any observed growth patterns or color changes suggest a positive identification of a possible pathogen?\n<image>"}
+{"question_id": 688, "image": "pmc_363310_0.jpg", "question": "Are colonies on the BCYE agar plate uniform enough to rule out contamination with other bacterial species?\n<image>"}
+{"question_id": 689, "image": "pmc_363310_0.jpg", "question": "Based on the visual examination, is further biochemical or molecular testing necessary to confirm bacterial species?\n<image>"}
+{"question_id": 690, "image": "pmc_363310_0.jpg", "question": "Given the pathogenic nature of Legionella spp., is it clinically relevant to accurately identify these colonies?\n<image>"}
+{"question_id": 691, "image": "33200058_FIG1.jpg", "question": "Is the red arrow pointing to a nodule in the pleural region?\n<image>"}
+{"question_id": 692, "image": "33200058_FIG1.jpg", "question": "Is the blue arrow associated with a mass in a muscle?\n<image>"}
+{"question_id": 693, "image": "33200058_FIG1.jpg", "question": "Would the pleural nodule indicated by the red arrow suggest a pathology related to the pleura?\n<image>"}
+{"question_id": 694, "image": "33200058_FIG1.jpg", "question": "Is this type of CT scan effective for identifying muscular tumors?\n<image>"}
+{"question_id": 695, "image": "33324936_Fig1.jpg", "question": "Can we confirm whether the bright area signifies cerebrospinal fluid on this image?\n<image>"}
+{"question_id": 696, "image": "33324936_Fig1.jpg", "question": "Does this image show an abnormal accumulation of fluid in the spine?\n<image>"}
+{"question_id": 697, "image": "33324936_Fig1.jpg", "question": "Could this fluid accumulation extend beyond the cervical spine?\n<image>"}
+{"question_id": 698, "image": "33324936_Fig1.jpg", "question": "Is this MRI captured using a T2-weighted imaging sequence?\n<image>"}
+{"question_id": 699, "image": "33324936_Fig1.jpg", "question": "Does the sagittal view provide critical information for diagnosing spinal abnormalities?\n<image>"}
+{"question_id": 700, "image": "33324936_Fig1.jpg", "question": "Could the bright signal in the epidural space suggest a potential impact on spinal cord function?\n<image>"}
+{"question_id": 701, "image": "pmc_391964_0.jpg", "question": "Can you explain what the E wave and A wave represent in the echocardiogram?\n<image>"}
+{"question_id": 702, "image": "pmc_391964_0.jpg", "question": "Is it true that a higher E wave indicates better heart function?\n<image>"}
+{"question_id": 703, "image": "pmc_391964_0.jpg", "question": "Does the duration of the A wave have any significance?\n<image>"}
+{"question_id": 704, "image": "pmc_391964_0.jpg", "question": "Can the mitral deceleration time (DT) tell us something about my heart's condition?\n<image>"}
+{"question_id": 705, "image": "pmc_391964_0.jpg", "question": "Is it possible to have normal E and A wave measurements but still have heart problems?\n<image>"}
+{"question_id": 706, "image": "pmc_391964_0.jpg", "question": "Should I be concerned if my echocardiogram shows abnormal wave patterns?\n<image>"}
+{"question_id": 707, "image": "pmc_229110_0.jpg", "question": "Are there any structural abnormalities in the DM group's sciatic nerve?\n<image>"}
+{"question_id": 708, "image": "pmc_229110_0.jpg", "question": "Does the ALA group show any improvement in the histological structure of the sciatic nerve compared to the DM group?\n<image>"}
+{"question_id": 709, "image": "pmc_229110_0.jpg", "question": "Can the normal myelin sheath be observed in all groups?\n<image>"}
+{"question_id": 710, "image": "pmc_229110_0.jpg", "question": "Do arrowheads consistently point to myelin obliteration across images?\n<image>"}
+{"question_id": 711, "image": "pmc_229110_0.jpg", "question": "Is there any indication of a protective role of ALA on the sciatic nerve?\n<image>"}
+{"question_id": 712, "image": "pmc_229110_0.jpg", "question": "Does myelin obliteration only occur in the DM group?\n<image>"}
+{"question_id": 713, "image": "pmc_633128_0.jpg", "question": "Can this diagram help determine if SARS-CoV-2 utilizes Toll-Like Receptors in its pathway?\n<image>"}
+{"question_id": 714, "image": "pmc_633128_0.jpg", "question": "What happens in the pathway after the activation of NF-\u03baB?\n<image>"}
+{"question_id": 715, "image": "pmc_633128_0.jpg", "question": "Is there a step in the diagram that targets viral replication for inhibition?\n<image>"}
+{"question_id": 716, "image": "pmc_633128_0.jpg", "question": "Does the diagram include any information about the nucleus's involvement in the response to SARS-CoV-2?\n<image>"}
+{"question_id": 717, "image": "pmc_633128_0.jpg", "question": "Are interferon-stimulated genes (ISGs) depicted as playing a significant role in combating viral infection in this diagram?\n<image>"}
+{"question_id": 718, "image": "28163438_F1.jpg", "question": "Are there any abnormalities seen in the lung zones?\n<image>"}
+{"question_id": 719, "image": "28163438_F1.jpg", "question": "Does the image suggest the presence of right-sided pleural effusion?\n<image>"}
+{"question_id": 720, "image": "28163438_F1.jpg", "question": "Is the white blood cell count significant in this case?\n<image>"}
+{"question_id": 721, "image": "28163438_F1.jpg", "question": "Should we be concerned about the erythrocyte sedimentation rate?\n<image>"}
+{"question_id": 722, "image": "28163438_F1.jpg", "question": "Is pneumonitis a possibility based on these findings?\n<image>"}
+{"question_id": 723, "image": "31043090_fig2-2324709619842899.jpg", "question": "What does the CT scan show regarding the kidney?\n<image>"}
+{"question_id": 724, "image": "31043090_fig2-2324709619842899.jpg", "question": "Is there any indication of fluid collections in the scan?\n<image>"}
+{"question_id": 725, "image": "31043090_fig2-2324709619842899.jpg", "question": "Can we say that there is a connection between the kidney and the stomach?\n<image>"}
+{"question_id": 726, "image": "31043090_fig2-2324709619842899.jpg", "question": "Are there any signs of infection in the CT scan?\n<image>"}
+{"question_id": 727, "image": "31043090_fig2-2324709619842899.jpg", "question": "Is the left renal calculus large enough to cause complications?\n<image>"}
+{"question_id": 728, "image": "31043090_fig2-2324709619842899.jpg", "question": "Should this condition be treated urgently?\n<image>"}
+{"question_id": 729, "image": "pmc_53853_0.jpg", "question": "I see some bright areas in the MRI images. Are these likely to indicate an abnormality in the brain?\n<image>"}
+{"question_id": 730, "image": "pmc_53853_0.jpg", "question": "Is it possible that these bright spots are related to inflammation or reduced blood flow?\n<image>"}
+{"question_id": 731, "image": "pmc_53853_0.jpg", "question": "Could the restricted diffusion seen in the diffusion-weighted imaging indicate cellular injury?\n<image>"}
+{"question_id": 732, "image": "pmc_53853_0.jpg", "question": "Are these findings something that should be taken seriously?\n<image>"}
+{"question_id": 733, "image": "pmc_53853_0.jpg", "question": "Should I consult a doctor to discuss these MRI results further?\n<image>"}
+{"question_id": 734, "image": "pmc_53853_0.jpg", "question": "Is it common for these types of findings to occur in patients with strokes?\n<image>"}
+{"question_id": 735, "image": "pmc_140628_0.jpg", "question": "Are the stars in the images marking areas of abnormality in the pancreas?\n<image>"}
+{"question_id": 736, "image": "pmc_140628_0.jpg", "question": "Do the images suggest that there might be multiple abnormal areas in the pancreas?\n<image>"}
+{"question_id": 737, "image": "pmc_140628_0.jpg", "question": "Are there any images in the series that appear normal or less concerning?\n<image>"}
+{"question_id": 738, "image": "pmc_140628_0.jpg", "question": "Could the abnormalities marked in the images indicate a serious condition like a tumor?\n<image>"}
+{"question_id": 739, "image": "pmc_140628_0.jpg", "question": "Are vascular structures visible in any of the images?\n<image>"}
+{"question_id": 740, "image": "pmc_140628_0.jpg", "question": "Do the marked areas suggest the possibility of disease spreading within the pancreas?\n<image>"}
+{"question_id": 741, "image": "pmc_234845_0.jpg", "question": "Could you explain what differentiates these types of lesions in terms of their visual appearance on the CT scans?\n<image>"}
+{"question_id": 742, "image": "pmc_234845_0.jpg", "question": "Would you say that Type III indicates inflammation given its features of wall thickening?\n<image>"}
+{"question_id": 743, "image": "pmc_234845_0.jpg", "question": "Can Type IV be associated with malignancy due to its complex structure?\n<image>"}
+{"question_id": 744, "image": "pmc_234845_0.jpg", "question": "Do Type II lesions always imply malignancy?\n<image>"}
+{"question_id": 745, "image": "pmc_234845_0.jpg", "question": "Is Type I lesion evaluation critical for ruling out invasive growths?\n<image>"}
+{"question_id": 746, "image": "pmc_234845_0.jpg", "question": "Can these types of lesion classifications guide treatment strategies?\n<image>"}
+{"question_id": 747, "image": "pmc_220227_0.jpg", "question": "Could the treatment labeled as 'Var+' be inferred to have a positive effect in maintaining or restoring tissue integrity over time?\n<image>"}
+{"question_id": 748, "image": "pmc_220227_0.jpg", "question": "Does the cellular organization in Panel B differ significantly between Var+ and Var- samples by the 21-day mark?\n<image>"}
+{"question_id": 749, "image": "pmc_220227_0.jpg", "question": "Do the stars in Panel A represent regions of tissue regeneration in the Var+ samples as days progress?\n<image>"}
+{"question_id": 750, "image": "pmc_220227_0.jpg", "question": "At the 7-day mark, do the Var- samples exhibit more pronounced tissue disruption compared to Var+ samples?\n<image>"}
+{"question_id": 751, "image": "pmc_220227_0.jpg", "question": "Can the staining differences in Panel B be used to evaluate the effectiveness of the treatment over time?\n<image>"}
+{"question_id": 752, "image": "pmc_511725_0.jpg", "question": "Is the right ventricle clearly distinguishable in the image?\n<image>"}
+{"question_id": 753, "image": "pmc_511725_0.jpg", "question": "Does the image provide any indication of potential heart disease?\n<image>"}
+{"question_id": 754, "image": "pmc_511725_0.jpg", "question": "Is it important to consult a cardiologist after reviewing this scan?\n<image>"}
+{"question_id": 755, "image": "pmc_511725_0.jpg", "question": "Can this scan help in assessing heart function?\n<image>"}
+{"question_id": 756, "image": "pmc_511725_0.jpg", "question": "Should we consider additional imaging tests based on this scan?\n<image>"}
+{"question_id": 757, "image": "25926079_f0005.jpg", "question": "Can this method determine the total tissue volume within the lung region precisely?\n<image>"}
+{"question_id": 758, "image": "25926079_f0005.jpg", "question": "Does the flowchart show the involvement of both anatomical landmarks and automated calculations?\n<image>"}
+{"question_id": 759, "image": "25926079_f0005.jpg", "question": "Is soft tissue segmentation essential for the tumor burden calculation?\n<image>"}
+{"question_id": 760, "image": "25926079_f0005.jpg", "question": "Outline the sequential steps to calculate lung tumor burden from the image.\n<image>"}
+{"question_id": 761, "image": "25926079_f0005.jpg", "question": "Does the heart volume correction improve the accuracy of the tumor burden metric?\n<image>"}
+{"question_id": 762, "image": "16872521_F4.jpg", "question": "What does the image show regarding the condition of the Achilles tendon?\n<image>"}
+{"question_id": 763, "image": "16872521_F4.jpg", "question": "Is it normal to have a dishomogeneous signal from the repaired tendon?\n<image>"}
+{"question_id": 764, "image": "16872521_F4.jpg", "question": "Can the surrounding bone bruise affect the healing of the Achilles tendon?\n<image>"}
+{"question_id": 765, "image": "16872521_F4.jpg", "question": "Is it expected to see variations in signal intensity in the first week after surgery?\n<image>"}
+{"question_id": 766, "image": "16872521_F4.jpg", "question": "Is the severity of the bone bruise significant enough to delay return to activity?\n<image>"}
+{"question_id": 767, "image": "16872521_F4.jpg", "question": "Does this MRI finding suggest a potential complication in the healing process?\n<image>"}
+{"question_id": 768, "image": "pmc_5335_0.jpg", "question": "Does the periapical radiograph indicate that the bone structure in the lower molar region is healthy?\n<image>"}
+{"question_id": 769, "image": "pmc_5335_0.jpg", "question": "Are there any signs of tooth decay visible in the radiograph?\n<image>"}
+{"question_id": 770, "image": "pmc_5335_0.jpg", "question": "Is the periodontal ligament space normal in the lower molar region?\n<image>"}
+{"question_id": 771, "image": "pmc_5335_0.jpg", "question": "Can we conclude that there are no pathological entities present in the bone structure?\n<image>"}
+{"question_id": 772, "image": "pmc_5335_0.jpg", "question": "Is there any indication of inflammation in the surrounding soft tissue?\n<image>"}
+{"question_id": 773, "image": "pmc_5335_0.jpg", "question": "Does the alignment of the teeth suggest any malocclusion issues?\n<image>"}
+{"question_id": 774, "image": "pmc_570026_0.jpg", "question": "Does the MRI in panel 1b suggest any significant spinal cord compression?\n<image>"}
+{"question_id": 775, "image": "pmc_570026_0.jpg", "question": "Is the surgical hardware visible in panel 1d properly aligned for spinal stabilization?\n<image>"}
+{"question_id": 776, "image": "pmc_570026_0.jpg", "question": "Could the bloody tissue in panel 1c indicate a successful evacuation of the hematoma?\n<image>"}
+{"question_id": 777, "image": "pmc_570026_0.jpg", "question": "Is there evidence in panel 1a of any pre-existing spinal misalignment before surgery?\n<image>"}
+{"question_id": 778, "image": "pmc_570026_0.jpg", "question": "Does the mass effect seen in panel 1b correlate with the patient's clinical symptoms?\n<image>"}
+{"question_id": 779, "image": "pmc_570026_0.jpg", "question": "Is the hardware in panel 1d contributing to the spinal cord compression?\n<image>"}
+{"question_id": 780, "image": "pmc_475153_0.jpg", "question": "Does the image show different strains of Candida albicans?\n<image>"}
+{"question_id": 781, "image": "pmc_475153_0.jpg", "question": "Can we see the invasive characteristics of the fungus in the tongue tissue?\n<image>"}
+{"question_id": 782, "image": "pmc_475153_0.jpg", "question": "Are the dark-stained regions indicative of C. albicans presence?\n<image>"}
+{"question_id": 783, "image": "pmc_475153_0.jpg", "question": "Is this analysis important for understanding oral infections?\n<image>"}
+{"question_id": 784, "image": "pmc_475153_0.jpg", "question": "Do the different samples show varying growth patterns of the fungus?\n<image>"}
+{"question_id": 785, "image": "pmc_475153_0.jpg", "question": "Is the microscopic examination detailed enough to provide comprehensive insights?\n<image>"}
+{"question_id": 786, "image": "pmc_35153_0.jpg", "question": "Are there any specific markers indicating cell migration in the images?\n<image>"}
+{"question_id": 787, "image": "pmc_35153_0.jpg", "question": "Do the arrows point to cells that indicate a successful intervention?\n<image>"}
+{"question_id": 788, "image": "pmc_35153_0.jpg", "question": "Does the iron labeling facilitate the cell tracking shown?\n<image>"}
+{"question_id": 789, "image": "pmc_35153_0.jpg", "question": "Are CTLs and EPCs distinguishable in this analysis?\n<image>"}
+{"question_id": 790, "image": "pmc_35153_0.jpg", "question": "Do these findings suggest efficient therapeutic targeting?\n<image>"}
+{"question_id": 791, "image": "pmc_113132_0.jpg", "question": "Can you explain how the nanoparticles are designed to target the tumor specifically?\n<image>"}
+{"question_id": 792, "image": "pmc_113132_0.jpg", "question": "Do the images show any changes in the fluorescence and photoacoustic signals over time?\n<image>"}
+{"question_id": 793, "image": "pmc_113132_0.jpg", "question": "Is there a specific area in the body where the treatment is most active?\n<image>"}
+{"question_id": 794, "image": "pmc_113132_0.jpg", "question": "Are there any visual markers in the images that indicate the concentration of the therapeutic agents?\n<image>"}
+{"question_id": 795, "image": "pmc_113132_0.jpg", "question": "Do the full-body scans provide insights into the overall distribution of the treatment?\n<image>"}
+{"question_id": 796, "image": "pmc_113132_0.jpg", "question": "Is the treatment's effectiveness monitored through these imaging techniques?\n<image>"}
+{"question_id": 797, "image": "pmc_284053_0.jpg", "question": "Could you confirm if the epithelial cells in the glands are stained while the stromal cells are not?\n<image>"}
+{"question_id": 798, "image": "pmc_284053_0.jpg", "question": "Are there any negative control regions visible in this tissue section?\n<image>"}
+{"question_id": 799, "image": "pmc_284053_0.jpg", "question": "Can the positional orientation of epithelial cells be described here?\n<image>"}
+{"question_id": 800, "image": "pmc_284053_0.jpg", "question": "What does the staining pattern tell us about the specificity of protein targeting?\n<image>"}
+{"question_id": 801, "image": "pmc_284053_0.jpg", "question": "Does the absence of staining in stromal and muscle cells suggest they lack the targeted protein?\n<image>"}
+{"question_id": 802, "image": "pmc_284053_0.jpg", "question": "Could the effective immunohistochemical reaction here be important for diagnostic purposes?\n<image>"}
+{"question_id": 803, "image": "27430971_Fig4.jpg", "question": "Can you tell me if there is any noticeable change in brain volume between the two MRI images?\n<image>"}
+{"question_id": 804, "image": "27430971_Fig4.jpg", "question": "Is it true that the cerebrospinal fluid (CSF) spaces are larger in the later MRI?\n<image>"}
+{"question_id": 805, "image": "27430971_Fig4.jpg", "question": "Does the girl show any signs of brain atrophy in the images?\n<image>"}
+{"question_id": 806, "image": "27430971_Fig4.jpg", "question": "Is the thickening of the skull a common response to brain atrophy?\n<image>"}
+{"question_id": 807, "image": "27430971_Fig4.jpg", "question": "Can we conclude that the girl's condition is stable over the years based on these images?\n<image>"}
+{"question_id": 808, "image": "27430971_Fig4.jpg", "question": "Is it possible that the hypoplasia could affect her motor skills?\n<image>"}
+{"question_id": 809, "image": "pmc_644247_0.jpg", "question": "Can you confirm if the lesion at the odontoid process appears lytic in nature?\n<image>"}
+{"question_id": 810, "image": "pmc_644247_0.jpg", "question": "Is there a clearly defined sclerotic margin surrounding the lesion?\n<image>"}
+{"question_id": 811, "image": "pmc_644247_0.jpg", "question": "Does the adjacent bony structure show normal density?\n<image>"}
+{"question_id": 812, "image": "pmc_644247_0.jpg", "question": "Is the lesion partially ossified?\n<image>"}
+{"question_id": 813, "image": "pmc_644247_0.jpg", "question": "Can this type of lesion potentially cause pain and discomfort?\n<image>"}
+{"question_id": 814, "image": "pmc_644247_0.jpg", "question": "Would further imaging be necessary for this lesion?\n<image>"}
+{"question_id": 815, "image": "pmc_130265_0.jpg", "question": "What can the double rib contour sign (DRCS) suggest about the thoracic spine?\n<image>"}
+{"question_id": 816, "image": "pmc_130265_0.jpg", "question": "Are the vertebral bodies clearly visible in the radiograph?\n<image>"}
+{"question_id": 817, "image": "pmc_130265_0.jpg", "question": "Does the image show any soft tissue details around the bones?\n<image>"}
+{"question_id": 818, "image": "pmc_130265_0.jpg", "question": "Can the ribs be seen distinctly in the image?\n<image>"}
+{"question_id": 819, "image": "pmc_130265_0.jpg", "question": "Is this radiograph useful for diagnosing spinal deformities?\n<image>"}
+{"question_id": 820, "image": "25414048_Fig2.jpg", "question": "What can you tell me about the effectiveness of fingolimod compared to placebo?\n<image>"}
+{"question_id": 821, "image": "25414048_Fig2.jpg", "question": "Is the relative risk for DMF also above 1.0?\n<image>"}
+{"question_id": 822, "image": "25414048_Fig2.jpg", "question": "Does teriflunomide show a similar trend in effectiveness?\n<image>"}
+{"question_id": 823, "image": "25414048_Fig2.jpg", "question": "Are the predicted RRs for fingolimod consistent across different trial populations?\n<image>"}
+{"question_id": 824, "image": "25414048_Fig2.jpg", "question": "Is there a significant difference in the RRs for the different doses of teriflunomide?\n<image>"}
+{"question_id": 825, "image": "25414048_Fig2.jpg", "question": "Can we conclude that fingolimod is the most effective treatment among the three?\n<image>"}
+{"question_id": 826, "image": "pmc_345523_0.jpg", "question": "Does the CT scan show any signs of airway obstruction?\n<image>"}
+{"question_id": 827, "image": "pmc_345523_0.jpg", "question": "Are the vascular structures around the trachea clearly visible in the scan?\n<image>"}
+{"question_id": 828, "image": "pmc_345523_0.jpg", "question": "Is there any indication of significant abnormalities in the shoulder blades or upper lung fields?\n<image>"}
+{"question_id": 829, "image": "pmc_345523_0.jpg", "question": "Could the compression of the trachea be related to a thyroglossal duct cyst?\n<image>"}
+{"question_id": 830, "image": "pmc_345523_0.jpg", "question": "Is it important to detect such conditions early?\n<image>"}
+{"question_id": 831, "image": "pmc_345523_0.jpg", "question": "Does the scan provide a detailed view of the anatomical structures in the neck?\n<image>"}
+{"question_id": 832, "image": "pmc_294951_0.jpg", "question": "Are there noticeable differences in the cellular arrangement of the TMJ between the U0126 injection group and the control group?\n<image>"}
+{"question_id": 833, "image": "pmc_294951_0.jpg", "question": "Is the staining intensity consistent across all treatment groups in the images?\n<image>"}
+{"question_id": 834, "image": "pmc_294951_0.jpg", "question": "Can we conclude that the U0126 injection has a protective effect on TMJ cellular structure compared to chronic sleep deprivation?\n<image>"}
+{"question_id": 835, "image": "pmc_294951_0.jpg", "question": "Do the images indicate that the control group has better cartilage health than the other groups?\n<image>"}
+{"question_id": 836, "image": "32042520_FIG1.jpg", "question": "Are there multiple masses visible in the image?\n<image>"}
+{"question_id": 837, "image": "32042520_FIG1.jpg", "question": "Do the blue arrowheads highlight the areas of concern?\n<image>"}
+{"question_id": 838, "image": "32042520_FIG1.jpg", "question": "Is the liver almost completely replaced by these masses?\n<image>"}
+{"question_id": 839, "image": "32042520_FIG1.jpg", "question": "Are the masses varying in size?\n<image>"}
+{"question_id": 840, "image": "32042520_FIG1.jpg", "question": "Is this imaging technique useful for detecting liver metastases?\n<image>"}
+{"question_id": 841, "image": "32042520_FIG1.jpg", "question": "Can these findings indicate a serious health condition?\n<image>"}
+{"question_id": 842, "image": "27579385_f2.jpg", "question": "What do you see in the image?\n<image>"}
+{"question_id": 843, "image": "27579385_f2.jpg", "question": "Do the stones have a uniform appearance?\n<image>"}
+{"question_id": 844, "image": "27579385_f2.jpg", "question": "Is the intact appearance of the stones significant for diagnosis?\n<image>"}
+{"question_id": 845, "image": "34307547_F3.jpg", "question": "Is the liver's CT attenuation value lower in image A compared to image B?\n<image>"}
+{"question_id": 846, "image": "34307547_F3.jpg", "question": "Did the patient receive intensive therapies?\n<image>"}
+{"question_id": 847, "image": "34307547_F3.jpg", "question": "Is the liver-to-spleen attenuation ratio important for diagnosing liver conditions?\n<image>"}
+{"question_id": 848, "image": "34307547_F3.jpg", "question": "Can a normal L/S ratio indicate improved liver function?\n<image>"}
+{"question_id": 849, "image": "34307547_F3.jpg", "question": "Are both images focused on the abdominal region?\n<image>"}
+{"question_id": 850, "image": "34307547_F3.jpg", "question": "Is a decreased L/S ratio a sign of liver disease?\n<image>"}
+{"question_id": 851, "image": "32274285_FIG3.jpg", "question": "What do you see in the CT scan of the lumbar spine?\n<image>"}
+{"question_id": 852, "image": "32274285_FIG3.jpg", "question": "Is the disc bulging at L4-L5 severe?\n<image>"}
+{"question_id": 853, "image": "32274285_FIG3.jpg", "question": "Are there any signs of nerve compression in the image?\n<image>"}
+{"question_id": 854, "image": "32274285_FIG3.jpg", "question": "Does the CT scan show any other levels affected by degenerative changes?\n<image>"}
+{"question_id": 855, "image": "32274285_FIG3.jpg", "question": "Is this condition common in older adults?\n<image>"}
+{"question_id": 856, "image": "32274285_FIG3.jpg", "question": "Can this condition lead to pain or discomfort?\n<image>"}
+{"question_id": 857, "image": "pmc_156026_0.jpg", "question": "What do the colors in the heatmap represent in section A of the image?\n<image>"}
+{"question_id": 858, "image": "pmc_156026_0.jpg", "question": "Are the patient samples in the heatmap categorized by any specific attributes?\n<image>"}
+{"question_id": 859, "image": "pmc_156026_0.jpg", "question": "Do the bee-swarm plots indicate any significant differences in drug sensitivity between the two patient groups?\n<image>"}
+{"question_id": 860, "image": "pmc_156026_0.jpg", "question": "Is it possible to determine the most effective drug for glioma treatment from this image?\n<image>"}
+{"question_id": 861, "image": "pmc_156026_0.jpg", "question": "Are there any specific markers that are highlighted in the heatmap that could be important for glioma prognosis?\n<image>"}
+{"question_id": 862, "image": "pmc_156026_0.jpg", "question": "Can the information from this image help in personalizing treatment for glioma patients?\n<image>"}
+{"question_id": 863, "image": "28660167_F1.jpg", "question": "What does this chest X-ray show about the patient's condition?\n<image>"}
+{"question_id": 864, "image": "28660167_F1.jpg", "question": "Is it common to see improvement in effusions after surgery?\n<image>"}
+{"question_id": 865, "image": "28660167_F1.jpg", "question": "Can this X-ray help in detecting any complications?\n<image>"}
+{"question_id": 866, "image": "28660167_F1.jpg", "question": "Is the right-sided effusion the only concern in this X-ray?\n<image>"}
+{"question_id": 867, "image": "28660167_F1.jpg", "question": "Does the improvement in the X-ray indicate a successful surgery?\n<image>"}
+{"question_id": 868, "image": "28660167_F1.jpg", "question": "Should the patient continue to be monitored after this X-ray?\n<image>"}
+{"question_id": 869, "image": "pmc_552310_0.jpg", "question": "Can you describe the standard vascular structures shown in this diagram?\n<image>"}
+{"question_id": 870, "image": "pmc_552310_0.jpg", "question": "Are the persistent fetal vessels shown in the diagram commonly seen in adults?\n<image>"}
+{"question_id": 871, "image": "pmc_552310_0.jpg", "question": "Do any of the anatomical variants shown involve the posterior cerebral artery (PCA)?\n<image>"}
+{"question_id": 872, "image": "pmc_552310_0.jpg", "question": "Is the anterior choroidal artery (AChoA) represented as a variant in the diagram?\n<image>"}
+{"question_id": 873, "image": "pmc_552310_0.jpg", "question": "Can the persistent trigeminal artery significantly impact surgical planning?\n<image>"}
+{"question_id": 874, "image": "pmc_552310_0.jpg", "question": "What distinguishes the normal adult vessels from variant or fetal vessels in the diagram?\n<image>"}
+{"question_id": 875, "image": "pmc_589937_0.jpg", "question": "Can you describe what you see in this image related to the wound healing process over time?\n<image>"}
+{"question_id": 876, "image": "pmc_589937_0.jpg", "question": "Is the formation of a keratinized stratified squamous epithelium visible for any of the treatment groups by week 4?\n<image>"}
+{"question_id": 877, "image": "pmc_589937_0.jpg", "question": "Which group exhibits the least organized healing and slowest epithelialization?\n<image>"}
+{"question_id": 878, "image": "pmc_589937_0.jpg", "question": "By week 8, are all treatment groups showing wound coverage?\n<image>"}
+{"question_id": 879, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "What type of infiltrates can you see in the lungs?\n<image>"}
+{"question_id": 880, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "Can you estimate the number of nodules present?\n<image>"}
+{"question_id": 881, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "Is the largest nodule located in the right upper lobe?\n<image>"}
+{"question_id": 882, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "Does the largest nodule measure around 1.2 cm?\n<image>"}
+{"question_id": 883, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "Are the infiltrates predominantly located in one area of the lungs?\n<image>"}
+{"question_id": 884, "image": "33684095_f1-amjcaserep-22-e927087.jpg", "question": "Is the presence of these nodules concerning for any underlying condition?\n<image>"}
+{"question_id": 885, "image": "30245986_F1.jpg", "question": "What can you tell me about the formation's density?\n<image>"}
+{"question_id": 886, "image": "30245986_F1.jpg", "question": "Is the formation located on the right side?\n<image>"}
+{"question_id": 887, "image": "30245986_F1.jpg", "question": "Does the image suggest any potential issues with the formation?\n<image>"}
+{"question_id": 888, "image": "30245986_F1.jpg", "question": "Is the formation larger than 3 cm?\n<image>"}
+{"question_id": 889, "image": "30245986_F1.jpg", "question": "Should I be concerned about this formation?\n<image>"}
+{"question_id": 890, "image": "30245986_F1.jpg", "question": "Is it common to find hypodense formations in CT scans?\n<image>"}
+{"question_id": 891, "image": "31496536_F2.jpg", "question": "Can we confirm from this image that a thrombus is present?\n<image>"}
+{"question_id": 892, "image": "31496536_F2.jpg", "question": "Do the Lines of Zahn suggest that the thrombus formed while blood flow was still occurring?\n<image>"}
+{"question_id": 893, "image": "31496536_F2.jpg", "question": "Describe the role of the identified features in diagnosing a thrombus?\n<image>"}
+{"question_id": 894, "image": "31496536_F2.jpg", "question": "Can histological stains enhance the visualization of such diagnostic features?\n<image>"}
+{"question_id": 895, "image": "31496536_F2.jpg", "question": "Are the Lines of Zahn equally distributed throughout all thrombi?\n<image>"}
+{"question_id": 896, "image": "31496536_F2.jpg", "question": "Can the image confirm if the thrombus is occlusive?\n<image>"}
+{"question_id": 897, "image": "34393155_g001.jpg", "question": "What does this figure represent in terms of patient flow?\n<image>"}
+{"question_id": 898, "image": "34393155_g001.jpg", "question": "Are there any patients excluded from the study?\n<image>"}
+{"question_id": 899, "image": "34393155_g001.jpg", "question": "Is there a group specifically for small bowel bleeding in the study?\n<image>"}
+{"question_id": 900, "image": "34393155_g001.jpg", "question": "Is the figure helpful for visualizing patient distribution among diagnosis groups?\n<image>"}
+{"question_id": 901, "image": "34393155_g001.jpg", "question": "Are there any other diagnostic procedures mentioned in the figure?\n<image>"}
+{"question_id": 902, "image": "pmc_159619_0.jpg", "question": "Does the image show advanced laboratory equipment?\n<image>"}
+{"question_id": 903, "image": "pmc_159619_0.jpg", "question": "Are there multiple mass spectrometry units in the setup?\n<image>"}
+{"question_id": 904, "image": "pmc_159619_0.jpg", "question": "Is there any visible output device next to the mass spectrometers?\n<image>"}
+{"question_id": 905, "image": "pmc_159619_0.jpg", "question": "Can we infer that the equipment is capable of automation?\n<image>"}
+{"question_id": 906, "image": "pmc_159619_0.jpg", "question": "Are the machines placed on sturdy lab benches?\n<image>"}
+{"question_id": 907, "image": "pmc_623277_0.jpg", "question": "Are there indicators of cell death visible in Panel B?\n<image>"}
+{"question_id": 908, "image": "pmc_623277_0.jpg", "question": "Can we identify fibroid necrosis in any of the panels?\n<image>"}
+{"question_id": 909, "image": "pmc_623277_0.jpg", "question": "Explain the significance of the staining observed in Panel C.\n<image>"}
+{"question_id": 910, "image": "pmc_623277_0.jpg", "question": "What differences can be noted in vascular injury between Panel A and Panel C?\n<image>"}
+{"question_id": 911, "image": "pmc_623277_0.jpg", "question": "Are apoptotic fragments visible as a progression of cellular damage in these panels?\n<image>"}
+{"question_id": 912, "image": "pmc_623277_0.jpg", "question": "Identify the early morphological feature of vascular stress observable in the panels.\n<image>"}
+{"question_id": 913, "image": "25028618_fig1.jpg", "question": "What can you tell me about the findings in this image?\n<image>"}
+{"question_id": 914, "image": "25028618_fig1.jpg", "question": "Is there a risk of entrapped organs based on this image?\n<image>"}
+{"question_id": 915, "image": "25028618_fig1.jpg", "question": "Were any imaging techniques used to assess this condition?\n<image>"}
+{"question_id": 916, "image": "25028618_fig1.jpg", "question": "Do the findings suggest a need for surgical intervention?\n<image>"}
+{"question_id": 917, "image": "25028618_fig1.jpg", "question": "Were any specialists involved in the evaluation of this case?\n<image>"}
+{"question_id": 918, "image": "25028618_fig1.jpg", "question": "Is this type of imaging commonly used in similar cases?\n<image>"}
+{"question_id": 919, "image": "pmc_131093_0.jpg", "question": "Can the CT scan confirm that there is a collapse of the left upper lobe?\n<image>"}
+{"question_id": 920, "image": "pmc_131093_0.jpg", "question": "Does the mass seen in the image appear heterogeneous?\n<image>"}
+{"question_id": 921, "image": "pmc_131093_0.jpg", "question": "Could the mass in the left lung obstruct the airways?\n<image>"}
+{"question_id": 922, "image": "pmc_131093_0.jpg", "question": "Is the right lung unaffected based on this image?\n<image>"}
+{"question_id": 923, "image": "pmc_131093_0.jpg", "question": "Would further testing be needed to confirm the nature of the mass?\n<image>"}
+{"question_id": 924, "image": "pmc_131093_0.jpg", "question": "Does this CT scan reveal any bilateral lung involvement?\n<image>"}
+{"question_id": 925, "image": "pmc_168271_0.jpg", "question": "What do the nodular formations marked by yellow asterisks in image A indicate about the tissue?\n<image>"}
+{"question_id": 926, "image": "pmc_168271_0.jpg", "question": "Are the structures in image B associated with any specific type of tumor?\n<image>"}
+{"question_id": 927, "image": "pmc_168271_0.jpg", "question": "Is the presence of basophilic stroma around the clusters significant?\n<image>"}
+{"question_id": 928, "image": "pmc_168271_0.jpg", "question": "Do the features observed in these images suggest a benign or malignant process?\n<image>"}
+{"question_id": 929, "image": "pmc_168271_0.jpg", "question": "Can the analysis of these images help in determining the prognosis for the patient?\n<image>"}
+{"question_id": 930, "image": "pmc_168271_0.jpg", "question": "Is it important to consider the cellular architecture when diagnosing tumors?\n<image>"}
+{"question_id": 931, "image": "pmc_52675_0.jpg", "question": "Is the highlighted area on the liver indicative of a metastasis?\n<image>"}
+{"question_id": 932, "image": "pmc_52675_0.jpg", "question": "Does the liver texture appear normal in this CT scan?\n<image>"}
+{"question_id": 933, "image": "pmc_52675_0.jpg", "question": "Are the surrounding organs like the spleen and kidneys showing any signs of pathology?\n<image>"}
+{"question_id": 934, "image": "pmc_52675_0.jpg", "question": "Has the size of the metastasis increased after chemotherapy?\n<image>"}
+{"question_id": 935, "image": "32140027_FI-4.jpg", "question": "What does the MRI image show?\n<image>"}
+{"question_id": 936, "image": "32140027_FI-4.jpg", "question": "Is the size of the hematoma smaller now?\n<image>"}
+{"question_id": 937, "image": "32140027_FI-4.jpg", "question": "Does this mean the patient is recovering?\n<image>"}
+{"question_id": 938, "image": "32140027_FI-4.jpg", "question": "Can a hematoma resolve on its own?\n<image>"}
+{"question_id": 939, "image": "32140027_FI-4.jpg", "question": "Is MRI a good method for monitoring hematomas?\n<image>"}
+{"question_id": 940, "image": "32140027_FI-4.jpg", "question": "Should the patient continue to be monitored after this?\n<image>"}
+{"question_id": 947, "image": "pmc_52896_0.jpg", "question": "Are there any signs of infection in the CT scans?\n<image>"}
+{"question_id": 948, "image": "pmc_52896_0.jpg", "question": "Does the 'crazy-paving' pattern suggest a specific type of lung disease?\n<image>"}
+{"question_id": 949, "image": "pmc_52896_0.jpg", "question": "Is the cavitary lesion a common finding in lung infections?\n<image>"}
+{"question_id": 950, "image": "pmc_52896_0.jpg", "question": "Should further clinical investigation be conducted based on these CT findings?\n<image>"}
+{"question_id": 951, "image": "pmc_52896_0.jpg", "question": "Can the 'crazy-paving' appearance be seen in other lung diseases as well?\n<image>"}
+{"question_id": 952, "image": "pmc_52896_0.jpg", "question": "Is ground-glass opacification a concerning finding in lung imaging?\n<image>"}
+{"question_id": 953, "image": "24251160_F1.jpg", "question": "What do the bilateral parenchymal shadows indicate on the chest X-ray?\n<image>"}
+{"question_id": 954, "image": "24251160_F1.jpg", "question": "Is it possible that these shadows are related to an infection?\n<image>"}
+{"question_id": 955, "image": "24251160_F1.jpg", "question": "Could the patient's emaciated appearance be linked to the lung condition?\n<image>"}
+{"question_id": 956, "image": "24251160_F1.jpg", "question": "Are there other potential causes for the shadows besides infection?\n<image>"}
+{"question_id": 957, "image": "24251160_F1.jpg", "question": "Is it important to consider the patient's clinical history in this case?\n<image>"}
+{"question_id": 958, "image": "24251160_F1.jpg", "question": "Should the medical team monitor the patient's condition closely?\n<image>"}
+{"question_id": 959, "image": "pmc_182630_0.jpg", "question": "Is there an abnormality present in the right lung region of the X-ray?\n<image>"}
+{"question_id": 960, "image": "pmc_182630_0.jpg", "question": "Do the lungs appear generally clear in this X-ray?\n<image>"}
+{"question_id": 961, "image": "pmc_182630_0.jpg", "question": "Is the mediastinum normal in size and position according to the X-ray?\n<image>"}
+{"question_id": 962, "image": "pmc_182630_0.jpg", "question": "Could the rounded opacity indicate a serious condition?\n<image>"}
+{"question_id": 963, "image": "pmc_182630_0.jpg", "question": "Is the heart size normal in this chest X-ray?\n<image>"}
+{"question_id": 964, "image": "pmc_182630_0.jpg", "question": "Would further diagnostic evaluation be necessary for this finding?\n<image>"}
+{"question_id": 965, "image": "pmc_93280_0.jpg", "question": "Can you tell me if the areas of high metabolic activity are clearly visible in the scans?\n<image>"}
+{"question_id": 966, "image": "pmc_93280_0.jpg", "question": "Is there a significant difference in metabolic activity between the cortical and subcortical regions?\n<image>"}
+{"question_id": 967, "image": "pmc_93280_0.jpg", "question": "Does the sparing of the occipital cortex suggest that it is functioning normally?\n<image>"}
+{"question_id": 968, "image": "pmc_93280_0.jpg", "question": "Are the three-dimensional reconstructions helpful in understanding the spatial context of the findings?\n<image>"}
+{"question_id": 969, "image": "pmc_93280_0.jpg", "question": "Is it possible that the observed patterns could be linked to neurodegenerative disorders?\n<image>"}
+{"question_id": 970, "image": "pmc_93280_0.jpg", "question": "Can we conclude that the metabolic activity in the basal ganglia is normal based on the scans?\n<image>"}
+{"question_id": 971, "image": "pmc_456207_0.jpg", "question": "Does the image present a noticeable mass distinctly different from the surrounding tissue?\n<image>"}
+{"question_id": 972, "image": "pmc_456207_0.jpg", "question": "Are there any distinct anatomical features that suggest the origin of the mass in the vein?\n<image>"}
+{"question_id": 973, "image": "pmc_456207_0.jpg", "question": "Is the vessel structure adjacent to the tumor compromised?\n<image>"}
+{"question_id": 974, "image": "pmc_30808_0.jpg", "question": "Is the left inferior vena cava (IVC) enlarged in the image?\n<image>"}
+{"question_id": 975, "image": "pmc_30808_0.jpg", "question": "Are there any abnormal areas within the IVC?\n<image>"}
+{"question_id": 976, "image": "pmc_30808_0.jpg", "question": "Does the surrounding anatomy look normal in the image?\n<image>"}
+{"question_id": 977, "image": "pmc_30808_0.jpg", "question": "Can this CT image help in diagnosing a condition?\n<image>"}
+{"question_id": 978, "image": "pmc_30808_0.jpg", "question": "Is the CT image a coronal reconstruction?\n<image>"}
+{"question_id": 979, "image": "pmc_30808_0.jpg", "question": "Is the left IVC the only structure visible in the image?\n<image>"}
+{"question_id": 980, "image": "28834912_F2.jpg", "question": "What does the image depict?\n<image>"}
+{"question_id": 981, "image": "28834912_F2.jpg", "question": "Is there evidence that the tumor was completely removed?\n<image>"}
+{"question_id": 982, "image": "28834912_F2.jpg", "question": "Does the surgery involve the brain?\n<image>"}
+{"question_id": 983, "image": "28834912_F2.jpg", "question": "Can we see the resected tumor in the image?\n<image>"}
+{"question_id": 984, "image": "28834912_F2.jpg", "question": "Is the postoperative CT scan clear?\n<image>"}
+{"question_id": 985, "image": "28834912_F2.jpg", "question": "Are there any complications noted in the image?\n<image>"}
+{"question_id": 986, "image": "pmc_305253_0.jpg", "question": "What does the appearance of the right pulmonary artery indicate about its development?\n<image>"}
+{"question_id": 987, "image": "pmc_305253_0.jpg", "question": "Is the left pulmonary artery functioning normally based on the scan?\n<image>"}
+{"question_id": 988, "image": "pmc_305253_0.jpg", "question": "Are there any abnormalities in the surrounding lung tissue?\n<image>"}
+{"question_id": 989, "image": "pmc_305253_0.jpg", "question": "Does the heart appear to be in its normal position in the scan?\n<image>"}
+{"question_id": 990, "image": "pmc_305253_0.jpg", "question": "Could this vascular anomaly lead to complications in pulmonary function?\n<image>"}
+{"question_id": 991, "image": "pmc_625961_0.jpg", "question": "Do the kidneys of the control group show any significant pathological changes?\n<image>"}
+{"question_id": 992, "image": "pmc_625961_0.jpg", "question": "Is there an improvement in kidney structure with the treatment of oleanolic acid?\n<image>"}
+{"question_id": 993, "image": "pmc_625961_0.jpg", "question": "Does the highest dose of oleanolic acid (60 mg/kg) provide the most significant amelioration of kidney lesions?\n<image>"}
+{"question_id": 994, "image": "pmc_625961_0.jpg", "question": "Are hyaline casts present in the kidneys of diabetic rats without OA treatment?\n<image>"}
+{"question_id": 995, "image": "pmc_625961_0.jpg", "question": "Is interstitial fibrosis one of the key changes observed in the diabetic rats?\n<image>"}
+{"question_id": 996, "image": "pmc_625961_0.jpg", "question": "Does oleanolic acid have protective effects against diabetic nephropathy?\n<image>"}
+{"question_id": 997, "image": "35702667_fig0001.jpg", "question": "Can you tell me if breast cancer was diagnosed before the COVID-19 vaccination?\n<image>"}
+{"question_id": 998, "image": "35702667_fig0001.jpg", "question": "Was an ultrasound performed after the second COVID-19 vaccination?\n<image>"}
+{"question_id": 999, "image": "35702667_fig0001.jpg", "question": "Did the patient undergo any imaging examinations on Day 19?\n<image>"}
+{"question_id": 1000, "image": "35702667_fig0001.jpg", "question": "Was fine needle aspiration (FNA) performed for swollen lymph nodes?\n<image>"}
+{"question_id": 1001, "image": "35702667_fig0001.jpg", "question": "Was there any report of lymph node swelling before the COVID-19 vaccination?\n<image>"}
+{"question_id": 1002, "image": "35702667_fig0001.jpg", "question": "Did the MRI take place 28 days after the COVID-19 vaccination?\n<image>"}
+{"question_id": 1003, "image": "22368553_F5.jpg", "question": "What kind of lesions are visible in this MRI image?\n<image>"}
+{"question_id": 1004, "image": "22368553_F5.jpg", "question": "Are these lesions benign?\n<image>"}
+{"question_id": 1005, "image": "22368553_F5.jpg", "question": "Do these lesions affect brain function?\n<image>"}
+{"question_id": 1006, "image": "22368553_F5.jpg", "question": "Is tuberous sclerosis a genetic disorder?\n<image>"}
+{"question_id": 1007, "image": "22368553_F5.jpg", "question": "Can MRI scans help in monitoring the progression of tuberous sclerosis?\n<image>"}
+{"question_id": 1008, "image": "22368553_F5.jpg", "question": "Is early diagnosis important for managing tuberous sclerosis?\n<image>"}
+{"question_id": 1009, "image": "pmc_60131_0.jpg", "question": "Does the image show a clear annular calcification around the right kidney?\n<image>"}
+{"question_id": 1010, "image": "pmc_60131_0.jpg", "question": "Is the calcification size measurable in the image?\n<image>"}
+{"question_id": 1011, "image": "pmc_60131_0.jpg", "question": "Does the calcification completely encircle the kidney?\n<image>"}
+{"question_id": 1012, "image": "pmc_60131_0.jpg", "question": "Can the image provide a detailed view of the kidney's anatomy?\n<image>"}
+{"question_id": 1013, "image": "pmc_480186_0.jpg", "question": "Can you describe the medical procedure shown in this image and its significance?\n<image>"}
+{"question_id": 1014, "image": "pmc_480186_0.jpg", "question": "Is the patient's leg being prepared for a localized treatment in this image?\n<image>"}
+{"question_id": 1015, "image": "pmc_480186_0.jpg", "question": "Could this process involve any risks to the patient?\n<image>"}
+{"question_id": 1016, "image": "pmc_480186_0.jpg", "question": "Why do you think a catheter is being used rather than direct injection with a syringe?\n<image>"}
+{"question_id": 1017, "image": "pmc_480186_0.jpg", "question": "Are there any visible signs on the patient\u2019s skin that indicate preparation for this procedure?\n<image>"}
+{"question_id": 1018, "image": "pmc_480186_0.jpg", "question": "Are both hands shown in the image performing critical roles simultaneously?\n<image>"}
+{"question_id": 1019, "image": "pmc_280462_0.jpg", "question": "Which anatomical regions in the heart are primarily depicted within this 3D reconstruction?\n<image>"}
+{"question_id": 1020, "image": "pmc_280462_0.jpg", "question": "Is the fibrotic scar shown extending throughout the heart tissue?\n<image>"}
+{"question_id": 1021, "image": "pmc_280462_0.jpg", "question": "Are the anterior and posterior views helpful in understanding the structures shown?\n<image>"}
+{"question_id": 1022, "image": "pmc_280462_0.jpg", "question": "Can the epicardium and lumens be distinguished in the image?\n<image>"}
+{"question_id": 1023, "image": "pmc_280462_0.jpg", "question": "Does this image suggest the progression of a disease process?\n<image>"}
+{"question_id": 1024, "image": "pmc_280462_0.jpg", "question": "What does the 3D reconstruction contribute to understanding cardiac pathology?\n<image>"}
+{"question_id": 1025, "image": "pmc_581430_0.jpg", "question": "Can you tell me if the thickening of the gallbladder wall is a sign of inflammation?\n<image>"}
+{"question_id": 1026, "image": "pmc_581430_0.jpg", "question": "Are the hypoattenuating regions within the gallbladder wall concerning?\n<image>"}
+{"question_id": 1027, "image": "pmc_581430_0.jpg", "question": "Is it possible that this condition could lead to complications if left untreated?\n<image>"}
+{"question_id": 1028, "image": "pmc_581430_0.jpg", "question": "Should we consider surgical options based on this scan?\n<image>"}
+{"question_id": 1029, "image": "pmc_581430_0.jpg", "question": "Is it important to monitor this condition closely?\n<image>"}
+{"question_id": 1030, "image": "pmc_581430_0.jpg", "question": "Can lifestyle changes help in managing this condition?\n<image>"}
+{"question_id": 1031, "image": "21584215_F0006.jpg", "question": "Is the MRI image showing a tumor in the brain's fourth ventricle?\n<image>"}
+{"question_id": 1032, "image": "21584215_F0006.jpg", "question": "Is the patient's age relevant to understanding the diagnosis in this case?\n<image>"}
+{"question_id": 1033, "image": "21584215_F0006.jpg", "question": "Would this tumor be classified under a category of pediatric brain tumors?\n<image>"}
+{"question_id": 1034, "image": "pmc_29895_0.jpg", "question": "Does this chest x-ray show any abnormalities in the lungs?\n<image>"}
+{"question_id": 1035, "image": "pmc_29895_0.jpg", "question": "Is there calcification visible in this x-ray?\n<image>"}
+{"question_id": 1036, "image": "pmc_29895_0.jpg", "question": "Describe the overall clarity of thoracic structures in this radiograph.\n<image>"}
+{"question_id": 1037, "image": "pmc_29895_0.jpg", "question": "Could this pattern of calcification be linked to heart conditions?\n<image>"}
+{"question_id": 1038, "image": "pmc_29895_0.jpg", "question": "Is there any mention of signs related to fluid accumulation in this x-ray?\n<image>"}
+{"question_id": 1039, "image": "pmc_29895_0.jpg", "question": "Can this x-ray help in diagnosing cardiovascular disorders?\n<image>"}
+{"question_id": 1040, "image": "pmc_55165_0.jpg", "question": "What does the irregular shape of the lesion suggest about its nature?\n<image>"}
+{"question_id": 1041, "image": "pmc_55165_0.jpg", "question": "Is the color variation in the lesion a cause for concern?\n<image>"}
+{"question_id": 1042, "image": "pmc_55165_0.jpg", "question": "Does the blue outline help in diagnosing the lesion?\n<image>"}
+{"question_id": 1043, "image": "pmc_55165_0.jpg", "question": "Is the smooth background around the lesion significant?\n<image>"}
+{"question_id": 1044, "image": "pmc_55165_0.jpg", "question": "Can the analysis of the lesion's texture provide important information?\n<image>"}
+{"question_id": 1045, "image": "pmc_381236_0.jpg", "question": "Is the fracture visible in the X-ray indicative of any underlying conditions?\n<image>"}
+{"question_id": 1046, "image": "pmc_381236_0.jpg", "question": "Could this type of fracture occur without any prior trauma?\n<image>"}
+{"question_id": 1047, "image": "pmc_381236_0.jpg", "question": "Is it possible that this X-ray shows a pre-operative state of the femur?\n<image>"}
+{"question_id": 1048, "image": "pmc_381236_0.jpg", "question": "Can this type of fracture heal on its own without surgical intervention?\n<image>"}
+{"question_id": 1049, "image": "pmc_381236_0.jpg", "question": "Is it common for fractures like this to occur in older adults?\n<image>"}
+{"question_id": 1050, "image": "pmc_266548_0.jpg", "question": "Does the image show any signs of obstruction in the nasolacrimal duct?\n<image>"}
+{"question_id": 1051, "image": "pmc_266548_0.jpg", "question": "Can we see any distortion in the anatomical structures surrounding the duct?\n<image>"}
+{"question_id": 1052, "image": "pmc_266548_0.jpg", "question": "Is there evidence of soft tissue density changes in the images?\n<image>"}
+{"question_id": 1053, "image": "pmc_266548_0.jpg", "question": "Are multiple imaging planes provided in the images?\n<image>"}
+{"question_id": 1054, "image": "pmc_266548_0.jpg", "question": "Does the suspected neoplastic process likely involve a carcinoma?\n<image>"}
+{"question_id": 1055, "image": "pmc_266548_0.jpg", "question": "Is the extent of the lesion clearly visualized in the images?\n<image>"}
+{"question_id": 1056, "image": "19254358_F2.jpg", "question": "What organ are we looking at in this image?\n<image>"}
+{"question_id": 1057, "image": "19254358_F2.jpg", "question": "Are the white nodules present in the spleen indicative of a potential health issue?\n<image>"}
+{"question_id": 1058, "image": "19254358_F2.jpg", "question": "Do the nodules appear to be merging together in some areas?\n<image>"}
+{"question_id": 1059, "image": "19254358_F2.jpg", "question": "Is it possible that these nodules are a sign of neoplastic changes?\n<image>"}
+{"question_id": 1060, "image": "19254358_F2.jpg", "question": "Could the condition of the spleen be related to an infection?\n<image>"}
+{"question_id": 1061, "image": "19254358_F2.jpg", "question": "Is further examination needed to determine the exact cause of the nodules?\n<image>"}
+{"question_id": 1062, "image": "pmc_271837_0.jpg", "question": "In the kidney model image, do you think the podocyte cells play a crucial role in the filtration process?\n<image>"}
+{"question_id": 1063, "image": "pmc_271837_0.jpg", "question": "Are the mesangial cells visible in the image, and do they have a role in supporting the glomerular structure?\n<image>"}
+{"question_id": 1064, "image": "pmc_271837_0.jpg", "question": "Is there an indication of red blood cells in the capillaries within the kidney model?\n<image>"}
+{"question_id": 1065, "image": "pmc_271837_0.jpg", "question": "Do you think the arrangement of cells in the image suggests potential interactions during an infection process?\n<image>"}
+{"question_id": 1066, "image": "pmc_271837_0.jpg", "question": "Are the juxtaglomerular cells depicted in the image, and do they have a role in regulating blood pressure?\n<image>"}
+{"question_id": 1067, "image": "pmc_271837_0.jpg", "question": "Is the proximal tubule cell represented in the kidney model, and is it important for reabsorption processes?\n<image>"}
+{"question_id": 1068, "image": "23741118_F1.jpg", "question": "Can you confirm whether the CT scan indicates the presence of hydatid cysts in this patient?\n<image>"}
+{"question_id": 1069, "image": "23741118_F1.jpg", "question": "Are both the liver and spleen affected by these abnormalities?\n<image>"}
+{"question_id": 1070, "image": "23741118_F1.jpg", "question": "Would the sizes of the cysts (4.7 \u00d7 5.1 cm and 6.3 \u00d7 7.6 cm) suggest significant abnormalities?\n<image>"}
+{"question_id": 1071, "image": "23741118_F1.jpg", "question": "Can you provide a description of the CT scan image focusing on pathological changes?\n<image>"}
+{"question_id": 1072, "image": "23741118_F1.jpg", "question": "Are parasitic infestations commonly associated with these types of cysts?\n<image>"}
+{"question_id": 1073, "image": "23741118_F1.jpg", "question": "Is the CT scan a definitive tool for identifying hydatid cysts?\n<image>"}
+{"question_id": 1074, "image": "pmc_151081_0.jpg", "question": "Do the images show a whorled cellular pattern that is typical for meningiomas?\n<image>"}
+{"question_id": 1075, "image": "pmc_151081_0.jpg", "question": "Are the tumor cells organized into distinct lobules?\n<image>"}
+{"question_id": 1076, "image": "pmc_151081_0.jpg", "question": "Is there evidence of lymphoplasmacytic infiltration in the tumor?\n<image>"}
+{"question_id": 1077, "image": "pmc_151081_0.jpg", "question": "Do the nuclei of the tumor cells appear oval with delicate chromatin?\n<image>"}
+{"question_id": 1078, "image": "pmc_151081_0.jpg", "question": "Are the whorls in this tumor less prominent than those seen in other meningioma subtypes?\n<image>"}
+{"question_id": 1079, "image": "pmc_151081_0.jpg", "question": "Is the presence of thin collagenous septae significant in identifying this tumor type?\n<image>"}
+{"question_id": 1080, "image": "pmc_272194_0.jpg", "question": "Can the image identify if the abdominal aorta is normal or abnormal?\n<image>"}
+{"question_id": 1081, "image": "pmc_272194_0.jpg", "question": "Does the image suggest a risk of rupture for the aorta?\n<image>"}
+{"question_id": 1082, "image": "pmc_272194_0.jpg", "question": "Could surgical intervention be necessary based on this image?\n<image>"}
+{"question_id": 1083, "image": "pmc_272194_0.jpg", "question": "Are portions of other abdominal organs identifiable in the scan?\n<image>"}
+{"question_id": 1084, "image": "pmc_272194_0.jpg", "question": "Does the CT scan show regular or irregular vascular structure of the aorta?\n<image>"}
+{"question_id": 1085, "image": "pmc_566797_0.jpg", "question": "Is the tumor well-defined in this tissue sample?\n<image>"}
+{"question_id": 1086, "image": "pmc_566797_0.jpg", "question": "Can you see any signs of infiltration into the liver tissue?\n<image>"}
+{"question_id": 1087, "image": "pmc_566797_0.jpg", "question": "Does the tumor have a homogeneous appearance?\n<image>"}
+{"question_id": 1088, "image": "pmc_566797_0.jpg", "question": "Are the fibrocollagenous septa visible in the image?\n<image>"}
+{"question_id": 1089, "image": "pmc_566797_0.jpg", "question": "Is the background liver parenchyma intact in the image?\n<image>"}
+{"question_id": 1090, "image": "pmc_566797_0.jpg", "question": "Does the staining method used help in identifying the tumor's features?\n<image>"}
+{"question_id": 1091, "image": "pmc_553250_0.jpg", "question": "Can you tell me if the MRI scans show any signs of improvement in the patient's brain condition over time?\n<image>"}
+{"question_id": 1092, "image": "pmc_553250_0.jpg", "question": "Is it correct to say that the FLAIR images also reflect the same improvements as the DWI images?\n<image>"}
+{"question_id": 1093, "image": "pmc_553250_0.jpg", "question": "Do the changes in the MRI scans suggest that the treatment the patient received was effective?\n<image>"}
+{"question_id": 1094, "image": "pmc_553250_0.jpg", "question": "Can we conclude that the bilateral frontal lobes were primarily affected based on the MRI findings?\n<image>"}
+{"question_id": 1095, "image": "pmc_553250_0.jpg", "question": "Would you say that monitoring these MRI changes is crucial for ongoing patient assessment?\n<image>"}
+{"question_id": 1096, "image": "pmc_289555_0.jpg", "question": "Is this image showing a benign dental tumor?\n<image>"}
+{"question_id": 1097, "image": "pmc_289555_0.jpg", "question": "Can you see ghost cells in the image?\n<image>"}
+{"question_id": 1098, "image": "pmc_289555_0.jpg", "question": "Does the arrangement of dental tissues appear disorganized?\n<image>"}
+{"question_id": 1099, "image": "pmc_289555_0.jpg", "question": "Are reduced enamel epithelium structures visible in the image?\n<image>"}
+{"question_id": 1100, "image": "pmc_289555_0.jpg", "question": "Is this image useful for understanding odontogenic tumors?\n<image>"}
+{"question_id": 1101, "image": "pmc_289555_0.jpg", "question": "Can this image help in diagnosing dental abnormalities?\n<image>"}
+{"question_id": 1102, "image": "23795287_fig1s4.jpg", "question": "What do the arrows in the H&E staining images indicate?\n<image>"}
+{"question_id": 1103, "image": "23795287_fig1s4.jpg", "question": "Is the photoreceptor layer affected in the RAP eyes shown?\n<image>"}
+{"question_id": 1104, "image": "23795287_fig1s4.jpg", "question": "Are the retinal pigment epithelium (RPE) cells involved in the pathology of RAP?\n<image>"}
+{"question_id": 1105, "image": "23795287_fig1s4.jpg", "question": "Is the presence of RAP lesions significant for understanding retinal diseases?\n<image>"}
+{"question_id": 1106, "image": "pmc_640585_0.jpg", "question": "Is the Tc-99m DPD uptake in the gastric antrum diffuse?\n<image>"}
+{"question_id": 1107, "image": "pmc_640585_0.jpg", "question": "Can we see both SPECT and CT images in the fusion images?\n<image>"}
+{"question_id": 1108, "image": "pmc_640585_0.jpg", "question": "Are the calcifications visible on the CT images?\n<image>"}
+{"question_id": 1109, "image": "pmc_640585_0.jpg", "question": "Does the image show any abnormalities in the abdomen?\n<image>"}
+{"question_id": 1110, "image": "pmc_640585_0.jpg", "question": "Is the Tc-99m DPD a commonly used tracer in medical imaging?\n<image>"}
+{"question_id": 1111, "image": "pmc_20331_0.jpg", "question": "What can you tell me about the mass seen in the CT scan?\n<image>"}
+{"question_id": 1112, "image": "pmc_20331_0.jpg", "question": "Does the high signal intensity on the MRI suggest anything specific about the mass?\n<image>"}
+{"question_id": 1113, "image": "pmc_20331_0.jpg", "question": "Is it possible that the mass is benign despite these features?\n<image>"}
+{"question_id": 1114, "image": "pmc_20331_0.jpg", "question": "Should further imaging or a biopsy be considered based on these findings?\n<image>"}
+{"question_id": 1115, "image": "pmc_20331_0.jpg", "question": "Are there any other conditions that could present similar imaging characteristics?\n<image>"}
+{"question_id": 1116, "image": "pmc_20331_0.jpg", "question": "Is it common for tumors to show both heterogeneous characteristics and restricted diffusion?\n<image>"}
+{"question_id": 1117, "image": "pmc_284778_0.jpg", "question": "Is the structure indicated by the white arrow in image (b) important for the surgical procedure?\n<image>"}
+{"question_id": 1118, "image": "pmc_284778_0.jpg", "question": "Does the bright lighting in the image help the surgeon see better during the procedure?\n<image>"}
+{"question_id": 1119, "image": "pmc_284778_0.jpg", "question": "Is the surgeon's hand in image (a) using a specific instrument for the procedure?\n<image>"}
+{"question_id": 1120, "image": "pmc_284778_0.jpg", "question": "Are the tissues surrounding the spherical structure in image (a) being manipulated carefully?\n<image>"}
+{"question_id": 1121, "image": "pmc_284778_0.jpg", "question": "Is the surgical field well-defined in the images?\n<image>"}
+{"question_id": 1122, "image": "pmc_284778_0.jpg", "question": "Does the image show a complex surgical procedure being performed?\n<image>"}
+{"question_id": 1123, "image": "27147609_ehw140F14.jpg", "question": "What does the taxonomy help classify in myocardial segments?\n<image>"}
+{"question_id": 1124, "image": "27147609_ehw140F14.jpg", "question": "Can the taxonomy indicate the presence of edema in the myocardium?\n<image>"}
+{"question_id": 1125, "image": "27147609_ehw140F14.jpg", "question": "Does the \"donut\" shape represent any specific findings in cardiac imaging?\n<image>"}
+{"question_id": 1126, "image": "27147609_ehw140F14.jpg", "question": "Can the taxonomy assist in understanding contractile reserve in myocardial segments?\n<image>"}
+{"question_id": 1127, "image": "27147609_ehw140F14.jpg", "question": "Is the presence of scar tissue indicated by shades of grey in the \"donut\" shape?\n<image>"}

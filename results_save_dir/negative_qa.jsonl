@@ -1,0 +1,1128 @@
+{"question_id": 1, "image": "pmc_478390_0.jpg", "question": "Is there a visible muscle tear associated with the fracture in this image?\n<image>"}
+{"question_id": 2, "image": "pmc_478390_0.jpg", "question": "I noticed a shadowy area near the fracture. Does that indicate a possible infection?\n<image>"}
+{"question_id": 3, "image": "pmc_478390_0.jpg", "question": "Are there any signs of bone regeneration visible in this CT scan?\n<image>"}
+{"question_id": 4, "image": "pmc_478390_0.jpg", "question": "I see a bright spot near the fracture. Could that be a foreign object lodged in the bone?\n<image>"}
+{"question_id": 5, "image": "pmc_478390_0.jpg", "question": "Is the fracture in the image a result of a high-impact injury, like a car accident?\n<image>"}
+{"question_id": 6, "image": "29186088_f2-amjcaserep-18-1233.jpg", "question": "What unusual structures can be seen in the biopsy image?\n<image>"}
+{"question_id": 7, "image": "29186088_f2-amjcaserep-18-1233.jpg", "question": "Are the inflammatory cells in the image primarily lymphocytes?\n<image>"}
+{"question_id": 8, "image": "29186088_f2-amjcaserep-18-1233.jpg", "question": "Are there any signs of infection in the biopsy sample?\n<image>"}
+{"question_id": 9, "image": "pmc_314619_0.jpg", "question": "It looks like there are some bright spots in the liver tissue, almost like crystals. What does that indicate about the cellular structure in the image?\n<image>"}
+{"question_id": 10, "image": "pmc_314619_0.jpg", "question": "I noticed that the darker regions seem to be damaged, but aren\u2019t they just areas of fat accumulation instead?\n<image>"}
+{"question_id": 11, "image": "pmc_314619_0.jpg", "question": "I heard that necrotic areas in the liver automatically mean the presence of hepatitis. Is that true?\n<image>"}
+{"question_id": 12, "image": "pmc_314619_0.jpg", "question": "Are those black arrows highlighting signs of a genetic disorder affecting cellular architecture in the image?\n<image>"}
+{"question_id": 13, "image": "pmc_314619_0.jpg", "question": "The scale bar you mentioned appears to represent a size of 2 mm, right?\n<image>"}
+{"question_id": 14, "image": "pmc_314619_0.jpg", "question": "I think the dense fibrous tissue around the necrotic areas is an indication of chronic inflammation. Is it fair to say that this could also indicate a potential healing process?\n<image>"}
+{"question_id": 15, "image": "pmc_901_0.jpg", "question": "I see the image depicts a rash. Is there a giant bug on the person's skin causing this issue?\n<image>"}
+{"question_id": 16, "image": "pmc_901_0.jpg", "question": "The rash appears to have a very rough texture in the image. Is it indicative of a severe skin infection?\n<image>"}
+{"question_id": 17, "image": "pmc_901_0.jpg", "question": "It looks like the rash might be predominantly located on the arms. Do these spots denote a systemic allergic reaction?\n<image>"}
+{"question_id": 18, "image": "pmc_901_0.jpg", "question": "Can we assume that the individual's blood pressure is low because of these visible spots on the skin?\n<image>"}
+{"question_id": 19, "image": "pmc_901_0.jpg", "question": "In the image, is the rash indicative of a viral infection since it covers a large area?\n<image>"}
+{"question_id": 20, "image": "pmc_901_0.jpg", "question": "Since the image shows a concentration of spots around the belly button, does this suggest any gastrointestinal disease?\n<image>"}
+{"question_id": 21, "image": "22220245_F1.jpg", "question": "What kind of unusual object is that in the MRI image? It looks like a small alien spacecraft.\n<image>"}
+{"question_id": 22, "image": "22220245_F1.jpg", "question": "Is the mass in the image actually a benign cyst, or does it have characteristics of a malignant tumor?\n<image>"}
+{"question_id": 23, "image": "22220245_F1.jpg", "question": "I see that the mass is causing the muscle to atrophy. Is that a common occurrence with such lesions?\n<image>"}
+{"question_id": 24, "image": "22220245_F1.jpg", "question": "Could the mass be a result of a recent injury to the thigh?\n<image>"}
+{"question_id": 25, "image": "22220245_F1.jpg", "question": "Is the lesion in the image actually a collection of fat cells, indicating a lipoma?\n<image>"}
+{"question_id": 26, "image": "22220245_F1.jpg", "question": "I noticed that the mass appears to be pulsating in the image. Does that indicate vascular involvement?\n<image>"}
+{"question_id": 27, "image": "pmc_362928_0.jpg", "question": "I see some bright spots in the image. Are those indicative of any calcifications in the liver?\n<image>"}
+{"question_id": 28, "image": "pmc_362928_0.jpg", "question": "I noticed a large mass in the spleen. Is that a sign of splenomegaly?\n<image>"}
+{"question_id": 29, "image": "pmc_362928_0.jpg", "question": "Are the lesions in the liver likely to be benign since they are scattered and ill-defined?\n<image>"}
+{"question_id": 30, "image": "pmc_362928_0.jpg", "question": "Can you tell me if the liver is functioning normally based on this image?\n<image>"}
+{"question_id": 31, "image": "pmc_362928_0.jpg", "question": "Are the lesions in the liver connected to the spleen in any way?\n<image>"}
+{"question_id": 32, "image": "pmc_362928_0.jpg", "question": "Is it common to see these types of lesions in a healthy liver?\n<image>"}
+{"question_id": 33, "image": "24840092_F0008.jpg", "question": "Looking at the image, do you see any signs of muscle regeneration in the tendons without any treatment?\n<image>"}
+{"question_id": 34, "image": "24840092_F0008.jpg", "question": "Are the collagen implants visible in the image, or are they completely absorbed by the time of observation?\n<image>"}
+{"question_id": 35, "image": "24840092_F0008.jpg", "question": "Do the treated tendons show any signs of hyperemia compared to the untreated ones?\n<image>"}
+{"question_id": 36, "image": "24840092_F0008.jpg", "question": "Is there any evidence of tendon adhesion to surrounding structures in the image?\n<image>"}
+{"question_id": 37, "image": "24840092_F0008.jpg", "question": "Can you tell me if the collagen-platelet scaffolds are causing any muscle atrophy in the treated tendons?\n<image>"}
+{"question_id": 38, "image": "22379347_F4.jpg", "question": "Are there any blue specimens visible in the image?\n<image>"}
+{"question_id": 39, "image": "22379347_F4.jpg", "question": "Do the specimens have a rough texture?\n<image>"}
+{"question_id": 40, "image": "22379347_F4.jpg", "question": "Is there any indication that these specimens are related to a bacterial infection?\n<image>"}
+{"question_id": 41, "image": "22379347_F4.jpg", "question": "Are the specimens hard and calcified?\n<image>"}
+{"question_id": 42, "image": "22379347_F4.jpg", "question": "Do the specimens appear to be from a healthy pericardial space?\n<image>"}
+{"question_id": 43, "image": "22379347_F4.jpg", "question": "Are there any signs of inflammation in the specimens?\n<image>"}
+{"question_id": 44, "image": "31720495_fig6.jpg", "question": "Are there any signs of inflammation in the specimen shown?\n<image>"}
+{"question_id": 45, "image": "31720495_fig6.jpg", "question": "It looks like the specimen has been cut into several pieces. Is that correct?\n<image>"}
+{"question_id": 46, "image": "31720495_fig6.jpg", "question": "Does this specimen indicate a benign or malignant condition?\n<image>"}
+{"question_id": 47, "image": "31720495_fig6.jpg", "question": "Is it common for specimens like this to have a foul odor during examination?\n<image>"}
+{"question_id": 48, "image": "pmc_311278_0.jpg", "question": "In the CT angiography images, I see some unusual structures around the vertebral arteries. Are there any signs of foreign objects or implants present in the scans?\n<image>"}
+{"question_id": 49, "image": "pmc_311278_0.jpg", "question": "I noticed that the left common carotid artery appears to be significantly narrowed. Does this suggest a serious vascular condition?\n<image>"}
+{"question_id": 50, "image": "pmc_311278_0.jpg", "question": "Are the vertebral arteries in this image showing signs of calcification that could indicate atherosclerosis?\n<image>"}
+{"question_id": 51, "image": "pmc_311278_0.jpg", "question": "I see some irregular outlines in the vertebral arteries. Could this be a sign of an infection or inflammation affecting the vascular structures?\n<image>"}
+{"question_id": 52, "image": "pmc_311278_0.jpg", "question": "The image shows a significant amount of bone density. Does this mean the patient is at risk for fractures due to osteoporosis?\n<image>"}
+{"question_id": 53, "image": "pmc_311278_0.jpg", "question": "Are there any signs of vascular malformations in the vertebral arteries that could lead to severe complications?\n<image>"}
+{"question_id": 54, "image": "23986613_F1.jpg", "question": "What do the arrows in the image point to? Are they indicating any unusual structures?\n<image>"}
+{"question_id": 55, "image": "23986613_F1.jpg", "question": "I see some dark spots in the lungs. Are those signs of fluid accumulation?\n<image>"}
+{"question_id": 56, "image": "23986613_F1.jpg", "question": "Is there any indication of a foreign body in the chest X-ray?\n<image>"}
+{"question_id": 57, "image": "23986613_F1.jpg", "question": "The heart looks quite large in the image. Does that mean the patient has a serious condition?\n<image>"}
+{"question_id": 58, "image": "23986613_F1.jpg", "question": "Are the opacities in the lungs related to any specific type of infection?\n<image>"}
+{"question_id": 59, "image": "23986613_F1.jpg", "question": "Can you tell me if the lungs appear to be inflamed based on the image?\n<image>"}
+{"question_id": 60, "image": "pmc_445000_0.jpg", "question": "I see some bright red structures in the image. Are those red blood cells?\n<image>"}
+{"question_id": 61, "image": "pmc_445000_0.jpg", "question": "I noticed some blue areas in the slide. Do they represent areas of necrosis?\n<image>"}
+{"question_id": 62, "image": "pmc_445000_0.jpg", "question": "Are there any signs of bacterial infection in the image, given the presence of giant cells?\n<image>"}
+{"question_id": 63, "image": "pmc_445000_0.jpg", "question": "I see some structures that look like fungi in the image. Are there fungal elements present?\n<image>"}
+{"question_id": 64, "image": "pmc_445000_0.jpg", "question": "The image seems to show a lot of blood vessels. Does that mean the lesion is highly vascularized?\n<image>"}
+{"question_id": 65, "image": "pmc_445000_0.jpg", "question": "Are the giant cells actively dividing in the image?\n<image>"}
+{"question_id": 66, "image": "22771605_F7.jpg", "question": "I see a lot of arrows in the image. Do they indicate the direction of blood flow in the body?\n<image>"}
+{"question_id": 67, "image": "22771605_F7.jpg", "question": "Are there any specific colors used in the image to represent different types of tests?\n<image>"}
+{"question_id": 68, "image": "22771605_F7.jpg", "question": "I noticed a section that seems to suggest using a specific type of biopsy. Is that a new technique for diagnosing TB?\n<image>"}
+{"question_id": 69, "image": "22771605_F7.jpg", "question": "Is there a part of the algorithm that indicates the use of a blood test for TB diagnosis?\n<image>"}
+{"question_id": 70, "image": "22771605_F7.jpg", "question": "I see a mention of a \"treatment duration\" section. Does that imply that the algorithm is also used for treatment planning?\n<image>"}
+{"question_id": 71, "image": "22771605_F7.jpg", "question": "Are there any references to advanced imaging techniques like PET scans in the image?\n<image>"}
+{"question_id": 72, "image": "21375769_F2.jpg", "question": "What unusual structure can be seen in the image, possibly indicating a foreign object in the knee?\n<image>"}
+{"question_id": 73, "image": "21375769_F2.jpg", "question": "Is the soft tissue mass in the image actually a muscle tear rather than a tumor?\n<image>"}
+{"question_id": 74, "image": "21375769_F2.jpg", "question": "Could the calcific densities in the image be a sign of an infection rather than a tumor?\n<image>"}
+{"question_id": 75, "image": "21375769_F2.jpg", "question": "Is it possible that the lytic lesion is a result of a fracture rather than a tumor?\n<image>"}
+{"question_id": 76, "image": "21375769_F2.jpg", "question": "Are there any signs of arthritis visible in the image?\n<image>"}
+{"question_id": 77, "image": "21375769_F2.jpg", "question": "Does the image show any signs of bone healing, indicating a previous injury?\n<image>"}
+{"question_id": 78, "image": "30760279_Fig5.jpg", "question": "I see a bright spot in the image. Is that a sign of a tumor in the shoulder?\n<image>"}
+{"question_id": 79, "image": "30760279_Fig5.jpg", "question": "Are there any ligaments visible in this CT scan?\n<image>"}
+{"question_id": 80, "image": "30760279_Fig5.jpg", "question": "I heard that the glenoid cavity is usually filled with fluid. Is that what we see in the image?\n<image>"}
+{"question_id": 81, "image": "30760279_Fig5.jpg", "question": "Is there a fracture in the shoulder joint visible in the image?\n<image>"}
+{"question_id": 82, "image": "30760279_Fig5.jpg", "question": "I noticed some unusual shadows in the image. Could they be signs of infection?\n<image>"}
+{"question_id": 83, "image": "30760279_Fig5.jpg", "question": "Are there any signs of arthritis visible in the shoulder joint in this image?\n<image>"}
+{"question_id": 84, "image": "pmc_170743_0.jpg", "question": "I see a bright red object in the image. Is that a type of virus encapsulated within the lipid bilayer?\n<image>"}
+{"question_id": 85, "image": "pmc_170743_0.jpg", "question": "The lipid bilayer appears to have a rough texture. Does this indicate that it is damaged or unstable?\n<image>"}
+{"question_id": 86, "image": "pmc_170743_0.jpg", "question": "I noticed that the microtubule is surrounded by a layer of proteins. Does this mean that the microtubule is actively involved in cellular signaling?\n<image>"}
+{"question_id": 87, "image": "pmc_170743_0.jpg", "question": "The image shows a green and white structure. Is that an indication of a lipid's hydrophilic nature?\n<image>"}
+{"question_id": 88, "image": "pmc_170743_0.jpg", "question": "I see that the nanotube is quite thick. Does this mean it is less effective for drug delivery purposes?\n<image>"}
+{"question_id": 89, "image": "pmc_170743_0.jpg", "question": "The image depicts a single layer of lipid molecules. Does this mean that the lipid bilayer is not functional?\n<image>"}
+{"question_id": 90, "image": "pmc_26882_0.jpg", "question": "I see some green spots in the scan. Are those spots indicating the presence of foreign bodies?\n<image>"}
+{"question_id": 91, "image": "pmc_26882_0.jpg", "question": "Can you tell me why the metastatic lesions appear to have a blurry texture in the scan?\n<image>"}
+{"question_id": 92, "image": "pmc_26882_0.jpg", "question": "Why are the hemorrhagic areas faintly glowing in the CT scan?\n<image>"}
+{"question_id": 93, "image": "pmc_26882_0.jpg", "question": "The lesions must be located on the right side. Is that accurate?\n<image>"}
+{"question_id": 94, "image": "pmc_26882_0.jpg", "question": "I noticed there are cysts highlighted in the scan, is that a common finding with these lesions?\n<image>"}
+{"question_id": 95, "image": "pmc_26882_0.jpg", "question": "Since the scan shows signs of hemorrhage, does that mean it suggests recent trauma to the abdomen?\n<image>"}
+{"question_id": 96, "image": "pmc_35389_0.jpg", "question": "I see a bright red band in the image. Does that mean there are multiple types of RNA present?\n<image>"}
+{"question_id": 97, "image": "pmc_35389_0.jpg", "question": "Is it possible that the gel shows a protein band instead of RNA?\n<image>"}
+{"question_id": 98, "image": "pmc_35389_0.jpg", "question": "The band looks very thick. Does that mean the RNA is of high quality?\n<image>"}
+{"question_id": 99, "image": "pmc_35389_0.jpg", "question": "Can we conclude that the dsRNA is pathogenic based on this image?\n<image>"}
+{"question_id": 100, "image": "pmc_35389_0.jpg", "question": "I noticed that the band is located at the bottom of the gel. Does that mean the RNA is smaller than expected?\n<image>"}
+{"question_id": 101, "image": "pmc_35389_0.jpg", "question": "Is it common to see multiple bands in dsRNA analysis?\n<image>"}
+{"question_id": 102, "image": "pmc_76293_0.jpg", "question": "I see a bright area in the lungs that appears to be a benign tumor. Is that true?\n<image>"}
+{"question_id": 103, "image": "pmc_76293_0.jpg", "question": "Is there significant pleural effusion depicted alongside the thickened lines in the lungs?\n<image>"}
+{"question_id": 104, "image": "pmc_76293_0.jpg", "question": "Are the scattered areas of ground-glass opacity indicative of unhealthy lung tissue?\n<image>"}
+{"question_id": 105, "image": "pmc_76293_0.jpg", "question": "The thickened lines appear to be completely white, indicating severe fibrosis, right?\n<image>"}
+{"question_id": 106, "image": "pmc_76293_0.jpg", "question": "I noticed some bright red spots on the lungs indicating active inflammation. Are those visible?\n<image>"}
+{"question_id": 107, "image": "25706292_pone.0118506.g002.jpg", "question": "Are the black arrows pointing to areas of necrosis in the liver tissue?\n<image>"}
+{"question_id": 108, "image": "25706292_pone.0118506.g002.jpg", "question": "I noticed that the liver tissue appears to be completely healthy in the image. Is that correct?\n<image>"}
+{"question_id": 109, "image": "25706292_pone.0118506.g002.jpg", "question": "Are the cells highlighted by the arrows primarily lymphocytes?\n<image>"}
+{"question_id": 110, "image": "25706292_pone.0118506.g002.jpg", "question": "Is it true that I3C and DIM completely prevent cellular infiltration in the liver?\n<image>"}
+{"question_id": 111, "image": "25706292_pone.0118506.g002.jpg", "question": "Are the areas of infiltration shown in the image a sign of chronic liver disease?\n<image>"}
+{"question_id": 112, "image": "pmc_600218_0.jpg", "question": "I see the image has three specimens, but could you point out which specimen has visible sutures around it?\n<image>"}
+{"question_id": 113, "image": "pmc_600218_0.jpg", "question": "Can you explain which specimen has a textured surface that likely indicates an inflammatory process?\n<image>"}
+{"question_id": 114, "image": "pmc_600218_0.jpg", "question": "I noticed a specimen that looks like it could be a femur. Is that true for one of them?\n<image>"}
+{"question_id": 115, "image": "pmc_600218_0.jpg", "question": "Can you confirm if the greenish area on any of the specimens represents necrotic tissue?\n<image>"}
+{"question_id": 116, "image": "pmc_600218_0.jpg", "question": "Which specimen is used for modeling muscle attachment points in surgical training?\n<image>"}
+{"question_id": 117, "image": "pmc_600218_0.jpg", "question": "I think the largest specimen looks to be fractured. Can you elaborate on that?\n<image>"}
+{"question_id": 118, "image": "pmc_565023_0.jpg", "question": "I see that some cells have what look like small blue spots. Does that suggest infection or perhaps a reaction to a vaccine?\n<image>"}
+{"question_id": 119, "image": "pmc_565023_0.jpg", "question": "Are the cells shown in the image actively proliferating or have they been in a dormant state for a while?\n<image>"}
+{"question_id": 120, "image": "pmc_565023_0.jpg", "question": "I noticed that all the cells seem to be expressing a specific protein. Does that mean they all belong to the same type of lymphoid pathology?\n<image>"}
+{"question_id": 121, "image": "pmc_565023_0.jpg", "question": "Why are there dark greenish regions in some of the cells? Does this indicate a serious form of inflammation?\n<image>"}
+{"question_id": 122, "image": "pmc_565023_0.jpg", "question": "Can the low expression of latent membrane protein indicate a poor prognosis for the patient?\n<image>"}
+{"question_id": 123, "image": "pmc_565023_0.jpg", "question": "The image seems to show cells with a bright red outline. Do these outlines suggest that the cells are undergoing apoptosis?\n<image>"}
+{"question_id": 124, "image": "pmc_281822_0.jpg", "question": "Do you see any neuron types that are glowing in the image?\n<image>"}
+{"question_id": 125, "image": "pmc_281822_0.jpg", "question": "I noticed some neurons that seem to be located in the cerebral cortex instead of the hippocampus. Is that correct?\n<image>"}
+{"question_id": 126, "image": "pmc_281822_0.jpg", "question": "Are there any glial cells present in this brain tissue section that are prominently featured?\n<image>"}
+{"question_id": 127, "image": "pmc_281822_0.jpg", "question": "I read that DJ-1 exclusively marks neurodegenerative diseases. Does this image indicate such a condition?\n<image>"}
+{"question_id": 128, "image": "pmc_21622_0.jpg", "question": "The screws on the plate seem to be of the same length. Does that indicate a specific surgical technique used?\n<image>"}
+{"question_id": 129, "image": "pmc_21622_0.jpg", "question": "I noticed a shadowy area near the distal end of the femur. Could that be a sign of a new fracture developing?\n<image>"}
+{"question_id": 130, "image": "pmc_21622_0.jpg", "question": "Is the metallic plate used in the surgery made of titanium, which is known for its biocompatibility?\n<image>"}
+{"question_id": 131, "image": "pmc_21622_0.jpg", "question": "The image shows a clear alignment of the femur. Does that mean the healing process is going well?\n<image>"}
+{"question_id": 132, "image": "pmc_21622_0.jpg", "question": "I can see a small growth on the femur. Is that a sign of bone regeneration?\n<image>"}
+{"question_id": 133, "image": "32048987_fig4.jpg", "question": "What do the blue bars in the image represent? Are they showing the distribution of neuron types?\n<image>"}
+{"question_id": 134, "image": "32048987_fig4.jpg", "question": "I see the black lines, but do they indicate the average axon length instead of effective radii?\n<image>"}
+{"question_id": 135, "image": "32048987_fig4.jpg", "question": "Are the red lines showing the axon density in the regions of interest?\n<image>"}
+{"question_id": 136, "image": "32048987_fig4.jpg", "question": "It looks like the image shows a comparison between two different species. Is that correct?\n<image>"}
+{"question_id": 137, "image": "32048987_fig4.jpg", "question": "Are the effective radii shown in the black lines derived from a different imaging technique than the red lines?\n<image>"}
+{"question_id": 138, "image": "pmc_466120_0.jpg", "question": "I see some bright spots in the MRI. Are those areas where the brain is actively growing new tissue?\n<image>"}
+{"question_id": 139, "image": "pmc_466120_0.jpg", "question": "Are the dark areas in the T1-weighted images indicative of healthy brain tissue?\n<image>"}
+{"question_id": 140, "image": "pmc_466120_0.jpg", "question": "Are the saliency maps indicating areas where the brain is functioning more efficiently?\n<image>"}
+{"question_id": 141, "image": "pmc_466120_0.jpg", "question": "I see some images with bright spots that look like they are pulsating. Does that mean there\u2019s active blood flow in those areas?\n<image>"}
+{"question_id": 142, "image": "pmc_466120_0.jpg", "question": "Are the dark areas in the FLAIR images a sign of brain atrophy?\n<image>"}
+{"question_id": 143, "image": "28946030_fig0010.jpg", "question": "Is there a visible blood vessel running through the formation in the image?\n<image>"}
+{"question_id": 144, "image": "28946030_fig0010.jpg", "question": "Does the formation have a smooth surface texture?\n<image>"}
+{"question_id": 145, "image": "28946030_fig0010.jpg", "question": "Is the formation located in the upper part of the neck?\n<image>"}
+{"question_id": 146, "image": "28946030_fig0010.jpg", "question": "Can we see any signs of inflammation around the formation in the image?\n<image>"}
+{"question_id": 147, "image": "28946030_fig0010.jpg", "question": "Is the formation pulsating in the image?\n<image>"}
+{"question_id": 148, "image": "28946030_fig0010.jpg", "question": "Does the formation have a bright white color in the image?\n<image>"}
+{"question_id": 149, "image": "pmc_278194_0.jpg", "question": "I see a bright spot in the image. Is that a sign of a fracture in the knee?\n<image>"}
+{"question_id": 150, "image": "pmc_278194_0.jpg", "question": "I noticed a green line in the image. Does that indicate a tear in the meniscus?\n<image>"}
+{"question_id": 151, "image": "pmc_278194_0.jpg", "question": "The patellar tendon looks swollen in the image. Could that be causing pain?\n<image>"}
+{"question_id": 152, "image": "pmc_278194_0.jpg", "question": "Is the popliteal artery visible in the image? It seems to be obstructed.\n<image>"}
+{"question_id": 153, "image": "pmc_278194_0.jpg", "question": "Can you tell me if the femur is misaligned in the image? It looks off to me.\n<image>"}
+{"question_id": 154, "image": "pmc_278194_0.jpg", "question": "I heard that the peroneal nerve can be seen in MRI scans. Is it visible here?\n<image>"}
+{"question_id": 155, "image": "20635460_F1.jpg", "question": "I see a large mass in the image. Is that a tumor?\n<image>"}
+{"question_id": 156, "image": "20635460_F1.jpg", "question": "Are there any signs of infection in the CT scan?\n<image>"}
+{"question_id": 157, "image": "20635460_F1.jpg", "question": "I noticed some dark spots around the hematoma. Are those areas of necrosis?\n<image>"}
+{"question_id": 158, "image": "20635460_F1.jpg", "question": "Is the midline shift a sign of severe brain damage?\n<image>"}
+{"question_id": 159, "image": "20635460_F1.jpg", "question": "Can the hematoma be treated with medication alone?\n<image>"}
+{"question_id": 160, "image": "pmc_624929_0.jpg", "question": "I see some strange shapes in the MRI. Are those unusual growths in the shoulder area?\n<image>"}
+{"question_id": 161, "image": "pmc_624929_0.jpg", "question": "I noticed a bright area above the clavicle. Is that a sign of inflammation?\n<image>"}
+{"question_id": 162, "image": "pmc_624929_0.jpg", "question": "Are the cysts in the shoulder connected to the rotator cuff?\n<image>"}
+{"question_id": 163, "image": "pmc_624929_0.jpg", "question": "I heard that these types of cysts can lead to serious complications. Is that true?\n<image>"}
+{"question_id": 164, "image": "pmc_624929_0.jpg", "question": "If the MRI shows no Geyser sign, does that mean the cysts are harmless?\n<image>"}
+{"question_id": 165, "image": "pmc_624929_0.jpg", "question": "Can these cysts be treated with medication instead of surgery?\n<image>"}
+{"question_id": 166, "image": "pmc_82612_0.jpg", "question": "I see there are some wires in the image. Are those wires meant to help in stretching the jaw, or do they serve another purpose?\n<image>"}
+{"question_id": 167, "image": "pmc_82612_0.jpg", "question": "I noticed some sort of device in the back of the mouth. Is that a dental implant placed during the surgery?\n<image>"}
+{"question_id": 168, "image": "pmc_82612_0.jpg", "question": "Regarding the patient's gums, they seem perfect around the brackets. Do these indicators suggest that they are healing well?\n<image>"}
+{"question_id": 169, "image": "pmc_82612_0.jpg", "question": "I read that surgeries like this one can sometimes cause misaligned teeth in the long term. Is that true, based on what we can see here?\n<image>"}
+{"question_id": 170, "image": "pmc_82612_0.jpg", "question": "The image indicates some swelling in the areas around the surgical site, right? Does that suggest a high likelihood of infection?\n<image>"}
+{"question_id": 171, "image": "pmc_82612_0.jpg", "question": "Are the metal brackets shown in the image temporary devices, or are they more permanent fixtures for jaw alignment after surgery?\n<image>"}
+{"question_id": 172, "image": "pmc_145166_0.jpg", "question": "I see some unusual colors in the image. Are there any signs of a foreign object in the heart, like a stent or a pacemaker?\n<image>"}
+{"question_id": 173, "image": "pmc_145166_0.jpg", "question": "The image seems to show a very large aortic valve. Is it possible that the valve is hypertrophied?\n<image>"}
+{"question_id": 174, "image": "pmc_145166_0.jpg", "question": "I noticed some irregularities in the flow patterns. Could this indicate that the patient has a congenital heart defect?\n<image>"}
+{"question_id": 175, "image": "pmc_145166_0.jpg", "question": "Is it common for the aortic valve to have a regurgitant jet during diastole, or is this a rare occurrence?\n<image>"}
+{"question_id": 176, "image": "pmc_145166_0.jpg", "question": "The image shows a lot of turbulence. Does that mean the patient is experiencing heart failure?\n<image>"}
+{"question_id": 177, "image": "pmc_145166_0.jpg", "question": "Are there any signs of calcification on the aortic valve in the image?\n<image>"}
+{"question_id": 178, "image": "32968552_FIG1.jpg", "question": "What is that large shadow on the right side of the X-ray?\n<image>"}
+{"question_id": 179, "image": "32968552_FIG1.jpg", "question": "I see a bright white area in the center of the chest. Is that a sign of a tumor?\n<image>"}
+{"question_id": 180, "image": "32968552_FIG1.jpg", "question": "The opacity on the left side looks like it\u2019s causing the lung to collapse, right?\n<image>"}
+{"question_id": 181, "image": "32968552_FIG1.jpg", "question": "Is the opacity a sign of fluid accumulation in the lung?\n<image>"}
+{"question_id": 182, "image": "32968552_FIG1.jpg", "question": "The X-ray shows a clear indication of pneumonia, doesn\u2019t it?\n<image>"}
+{"question_id": 183, "image": "32968552_FIG1.jpg", "question": "The left lung looks much darker than the right lung. Is that normal?\n<image>"}
+{"question_id": 184, "image": "35163435_ijms-23-01511-f002.jpg", "question": "In the image, are there any signs of necrosis in the granulation tissue?\n<image>"}
+{"question_id": 185, "image": "35163435_ijms-23-01511-f002.jpg", "question": "I see some large basophilic nuclei in the image. Are these indicative of cancerous cells?\n<image>"}
+{"question_id": 186, "image": "35163435_ijms-23-01511-f002.jpg", "question": "Are the neovessels in the image completely functional, or do they show any signs of obstruction?\n<image>"}
+{"question_id": 187, "image": "35163435_ijms-23-01511-f002.jpg", "question": "In the image, are there any signs of normal endothelial cell lining in the neovessels?\n<image>"}
+{"question_id": 188, "image": "35163435_ijms-23-01511-f002.jpg", "question": "Is it true that the granulation tissue in the image is completely devoid of collagen?\n<image>"}
+{"question_id": 189, "image": "35163435_ijms-23-01511-f002.jpg", "question": "Are the vascular structures in the image indicative of a normal angiogenic response?\n<image>"}
+{"question_id": 190, "image": "35069737_fig1.jpg", "question": "I see some colorful areas in the image. Are those colors representing different types of cells?\n<image>"}
+{"question_id": 191, "image": "35069737_fig1.jpg", "question": "I noticed a section that looks like it has a grid overlay. Is that grid used for measuring cell sizes?\n<image>"}
+{"question_id": 192, "image": "35069737_fig1.jpg", "question": "Are the nuclei in the image segmented into different colors to indicate their health status?\n<image>"}
+{"question_id": 193, "image": "35069737_fig1.jpg", "question": "Is there a step in the workflow that involves removing artifacts from the images?\n<image>"}
+{"question_id": 194, "image": "35069737_fig1.jpg", "question": "Can you tell me if the workflow includes a step for identifying cancerous cells?\n<image>"}
+{"question_id": 195, "image": "pmc_180302_0.jpg", "question": "I noticed there\u2019s a bright area in the center of the lower leg bones. Does that represent a fracture?\n<image>"}
+{"question_id": 196, "image": "pmc_180302_0.jpg", "question": "I see dark shadows in the pelvis area; aren't those signs of previous bone lesions that have healed?\n<image>"}
+{"question_id": 197, "image": "pmc_180302_0.jpg", "question": "The left lateral view has a bright spot; is it true that such spots are always associated with severe bone diseases?\n<image>"}
+{"question_id": 198, "image": "pmc_180302_0.jpg", "question": "Can you point out if there's a missing part of the left lower leg bone in the scan?\n<image>"}
+{"question_id": 199, "image": "pmc_180302_0.jpg", "question": "I spotted a bubbling effect in the pelvic area; does that signify any vascular activity?\n<image>"}
+{"question_id": 200, "image": "pmc_180302_0.jpg", "question": "Can we conclude that the right femoral diaphysis has no abnormalities since it\u2019s not bright all over?\n<image>"}
+{"question_id": 201, "image": "pmc_55123_0.jpg", "question": "What are those blue spots in the image? Are they related to any specific function in the spinal cord?\n<image>"}
+{"question_id": 202, "image": "pmc_55123_0.jpg", "question": "I heard that CGRP is only found in the brain. Is that true based on what we see here?\n<image>"}
+{"question_id": 203, "image": "pmc_55123_0.jpg", "question": "The image shows that CGRP is only present in the outer layers of the spinal cord, right?\n<image>"}
+{"question_id": 204, "image": "pmc_55123_0.jpg", "question": "Is it possible that the red staining indicates a lack of CGRP in the spinal cord?\n<image>"}
+{"question_id": 205, "image": "pmc_55123_0.jpg", "question": "Are there any interactions between CGRP and other molecules in this spinal cord section that we can see?\n<image>"}
+{"question_id": 206, "image": "pmc_55123_0.jpg", "question": "Can the findings in this image help in developing treatments for chronic pain?\n<image>"}
+{"question_id": 207, "image": "26967643_pone.0149921.g012.jpg", "question": "I see some bright spots in the image. Are those areas of inflammation?\n<image>"}
+{"question_id": 208, "image": "26967643_pone.0149921.g012.jpg", "question": "I noticed a shadowy figure in the background. Is that a tumor?\n<image>"}
+{"question_id": 209, "image": "26967643_pone.0149921.g012.jpg", "question": "Is it possible that the 3D representation is showing a completely healthy organ?\n<image>"}
+{"question_id": 210, "image": "26967643_pone.0149921.g012.jpg", "question": "Are there any visible blood vessels in the 3D CT scan?\n<image>"}
+{"question_id": 211, "image": "26967643_pone.0149921.g012.jpg", "question": "Can the 3D model be used to predict future fractures?\n<image>"}
+{"question_id": 212, "image": "pmc_362134_0.jpg", "question": "What do the images show about the effects of radiation on the cells? Are there any signs of cell death at 0 Gy?\n<image>"}
+{"question_id": 213, "image": "pmc_362134_0.jpg", "question": "I noticed that at 2 Gy, the cells still look normal. Does that mean radiation is safe at this level?\n<image>"}
+{"question_id": 214, "image": "pmc_362134_0.jpg", "question": "In the images, do the cells at 6 Gy show any new types of cells forming?\n<image>"}
+{"question_id": 215, "image": "pmc_362134_0.jpg", "question": "I see that the cells at 10 Gy look quite different. Are they still producing alkaline phosphatase?\n<image>"}
+{"question_id": 216, "image": "pmc_362134_0.jpg", "question": "Can you explain why the cells at 6 Gy and 10 Gy have such different appearances? Is it because of the radiation exposure?\n<image>"}
+{"question_id": 217, "image": "pmc_362134_0.jpg", "question": "Are the cells from all three donors affected similarly by the radiation?\n<image>"}
+{"question_id": 218, "image": "33796164_fig0001.jpg", "question": "In the image, are there any signs of fluid accumulation in the lungs?\n<image>"}
+{"question_id": 219, "image": "33796164_fig0001.jpg", "question": "I see some irregular shapes in the nodules. Are they all perfectly round?\n<image>"}
+{"question_id": 220, "image": "33796164_fig0001.jpg", "question": "Are these nodules likely to be benign since they are small?\n<image>"}
+{"question_id": 221, "image": "33796164_fig0001.jpg", "question": "Is it possible that these nodules are a result of an infection rather than cancer?\n<image>"}
+{"question_id": 222, "image": "33796164_fig0001.jpg", "question": "Are there any signs of vascular involvement in the nodules?\n<image>"}
+{"question_id": 223, "image": "33796164_fig0001.jpg", "question": "Could these nodules be a result of previous trauma to the lungs?\n<image>"}
+{"question_id": 224, "image": "pmc_213409_0.jpg", "question": "I see some bright green spots in the image. Are those signs of inflammation in the colon tissue?\n<image>"}
+{"question_id": 225, "image": "pmc_213409_0.jpg", "question": "The mucosal layer looks very thin in the image. Does that indicate a potential issue with the colon?\n<image>"}
+{"question_id": 226, "image": "pmc_213409_0.jpg", "question": "Are the glandular structures in the mucosal layer indicative of cancerous growths?\n<image>"}
+{"question_id": 227, "image": "pmc_213409_0.jpg", "question": "I noticed some areas that look like they have a lot of blood vessels. Does that mean the tissue is highly vascularized?\n<image>"}
+{"question_id": 228, "image": "pmc_213409_0.jpg", "question": "The muscularis layer seems to have a very irregular texture. Does that suggest a muscular disorder?\n<image>"}
+{"question_id": 229, "image": "pmc_213409_0.jpg", "question": "Are the cells in the epithelial lining showing signs of necrosis?\n<image>"}
+{"question_id": 230, "image": "pmc_388311_0.jpg", "question": "I see some unusual structures in the MRI. Are there any signs of a tumor in the spinal cord?\n<image>"}
+{"question_id": 231, "image": "pmc_388311_0.jpg", "question": "The cerebellar tonsils seem to be very large. Is that a normal finding?\n<image>"}
+{"question_id": 232, "image": "pmc_388311_0.jpg", "question": "I noticed a bright area in the spinal cord. Does that indicate inflammation?\n<image>"}
+{"question_id": 233, "image": "pmc_388311_0.jpg", "question": "Are the vertebrae in the image showing any signs of degeneration?\n<image>"}
+{"question_id": 234, "image": "pmc_388311_0.jpg", "question": "Is there any evidence of a herniated disc in the cervical spine?\n<image>"}
+{"question_id": 235, "image": "pmc_388311_0.jpg", "question": "The image shows a lot of fluid. Does that mean there is a risk of hydrocephalus?\n<image>"}
+{"question_id": 236, "image": "pmc_280351_0.jpg", "question": "I see a bright blue area in the ultrasound. Does that indicate a rupture in the carotid artery?\n<image>"}
+{"question_id": 237, "image": "pmc_280351_0.jpg", "question": "What does it mean that the orange-red flow is actually caused by the presence of cholesterol in the artery?\n<image>"}
+{"question_id": 238, "image": "pmc_280351_0.jpg", "question": "With the red double-headed arrow indicating stenosis, is the image suggesting that there is a triple-layer structure in the artery?\n<image>"}
+{"question_id": 239, "image": "pmc_280351_0.jpg", "question": "The ultrasound shows green areas, which means the artery is free of any abnormalities, right?\n<image>"}
+{"question_id": 240, "image": "pmc_280351_0.jpg", "question": "I notice some areas with yellow flow. Are those sections where blood clotting is occurring?\n<image>"}
+{"question_id": 241, "image": "pmc_280351_0.jpg", "question": "Given the color changes in the ultrasound, does this suggest that surgery would be necessary immediately because the artery is almost completely blocked?\n<image>"}
+{"question_id": 242, "image": "pmc_341880_0.jpg", "question": "I see a bright lesion in the upper part of the abdomen. Does that indicate a tumor?\n<image>"}
+{"question_id": 243, "image": "pmc_341880_0.jpg", "question": "Is there a large fluid collection around the liver, possibly an abscess?\n<image>"}
+{"question_id": 244, "image": "pmc_341880_0.jpg", "question": "I noticed those arrows in the image. Do they indicate the presence of a vascular stent?\n<image>"}
+{"question_id": 245, "image": "pmc_341880_0.jpg", "question": "The image seems to show a shadow behind the diaphragm. Could that be a sign of atelectasis?\n<image>"}
+{"question_id": 246, "image": "pmc_341880_0.jpg", "question": "Are the structures near the liver shown in the scan indicative of a gallbladder stone?\n<image>"}
+{"question_id": 247, "image": "pmc_341880_0.jpg", "question": "Is a high-intensity signal on the MRI indicative of a hemangioma in the liver?\n<image>"}
+{"question_id": 248, "image": "pmc_515894_0.jpg", "question": "I see some strange tools in the image. Are there any robotic arms assisting in the surgery?\n<image>"}
+{"question_id": 249, "image": "pmc_515894_0.jpg", "question": "The sutures look very colorful. Are they made from a special type of biodegradable material?\n<image>"}
+{"question_id": 250, "image": "pmc_515894_0.jpg", "question": "I noticed that the surgical team is using a laser to cut the tendon. Is that a common practice in such surgeries?\n<image>"}
+{"question_id": 251, "image": "pmc_515894_0.jpg", "question": "The image shows the patella being pushed downwards. Is that to increase the tension on the tendon?\n<image>"}
+{"question_id": 252, "image": "pmc_515894_0.jpg", "question": "Are the sutures being used to attach the tendon to the muscle directly?\n<image>"}
+{"question_id": 253, "image": "pmc_515894_0.jpg", "question": "I can see that the surgical team is monitoring the patient's heart rate during the procedure. Is that a standard practice?\n<image>"}
+{"question_id": 254, "image": "pmc_119255_0.jpg", "question": "I see a bright area on the x-ray that looks like a fracture. Is that correct?\n<image>"}
+{"question_id": 255, "image": "pmc_119255_0.jpg", "question": "Are there any signs of a tumor in the shoulder based on the x-ray?\n<image>"}
+{"question_id": 256, "image": "pmc_119255_0.jpg", "question": "The x-ray shows that the humeral head is completely intact, right?\n<image>"}
+{"question_id": 257, "image": "pmc_119255_0.jpg", "question": "I noticed some swelling around the shoulder joint in the x-ray. Is that a sign of inflammation?\n<image>"}
+{"question_id": 258, "image": "pmc_119255_0.jpg", "question": "The MRI must show a complete tear of the supraspinatus tendon, right?\n<image>"}
+{"question_id": 259, "image": "pmc_119255_0.jpg", "question": "Is it possible that the increased bone density is a sign of healing from a previous injury?\n<image>"}
+{"question_id": 260, "image": "29552344_fig1-2054270417739779.jpg", "question": "I see a bright spot near the arrow. Is that a sign of inflammation?\n<image>"}
+{"question_id": 261, "image": "29552344_fig1-2054270417739779.jpg", "question": "Is the mass actually a cyst since it looks round?\n<image>"}
+{"question_id": 262, "image": "29552344_fig1-2054270417739779.jpg", "question": "Are there any signs of fracture in the pubic symphysis area?\n<image>"}
+{"question_id": 263, "image": "29552344_fig1-2054270417739779.jpg", "question": "Could the mass be a tumor since it is located near the pubic symphysis?\n<image>"}
+{"question_id": 264, "image": "29552344_fig1-2054270417739779.jpg", "question": "I noticed some fluid around the mass. Does that indicate a serious condition?\n<image>"}
+{"question_id": 265, "image": "29552344_fig1-2054270417739779.jpg", "question": "Is the mass causing any displacement of the surrounding structures?\n<image>"}
+{"question_id": 266, "image": "32922655_fig6.jpg", "question": "Are there any signs of inflammation in the liver tissue of the untreated mice?\n<image>"}
+{"question_id": 267, "image": "32922655_fig6.jpg", "question": "Is it true that the liver tissue from the model group shows signs of necrosis?\n<image>"}
+{"question_id": 268, "image": "32922655_fig6.jpg", "question": "Are the liver tissues from the treated groups more prone to fibrosis than those from the untreated group?\n<image>"}
+{"question_id": 269, "image": "pmc_318504_0.jpg", "question": "I see a lot of arrows in the image. Do they represent the patients' journey through the care process?\n<image>"}
+{"question_id": 270, "image": "pmc_318504_0.jpg", "question": "Are there any sections in the diagram that show the patients' emotional responses during the study?\n<image>"}
+{"question_id": 271, "image": "pmc_318504_0.jpg", "question": "I noticed that the questionnaire was developed based on feedback from 20 senior palliative care team members. Is that correct?\n<image>"}
+{"question_id": 272, "image": "pmc_318504_0.jpg", "question": "Does the image indicate that the final results were distributed to all 104 patients involved in the study?\n<image>"}
+{"question_id": 273, "image": "pmc_318504_0.jpg", "question": "Are there any visual elements in the diagram that suggest the questionnaire was tested on a control group?\n<image>"}
+{"question_id": 274, "image": "pmc_318504_0.jpg", "question": "I see that the image mentions a second round of feedback collection. Was this round conducted with a different set of participants?\n<image>"}
+{"question_id": 275, "image": "31910200_f5-amjcaserep-21-e917608.jpg", "question": "I see a large object in the chest x-ray. Is that a piece of metal?\n<image>"}
+{"question_id": 276, "image": "pmc_418652_0.jpg", "question": "I noticed some unusual shapes around the stent in the image. Are those shapes indicative of any specific type of tumor?\n<image>"}
+{"question_id": 277, "image": "pmc_418652_0.jpg", "question": "I see the gas, but could it be just air from a recent surgical procedure rather than an infection?\n<image>"}
+{"question_id": 278, "image": "pmc_418652_0.jpg", "question": "Are the gas collections actually solid masses that are just appearing as gas in the imaging?\n<image>"}
+{"question_id": 279, "image": "pmc_418652_0.jpg", "question": "I\u2019ve heard that gas can sometimes indicate a benign condition. Is that the case here?\n<image>"}
+{"question_id": 280, "image": "pmc_418652_0.jpg", "question": "Could the gas be a result of a recent imaging artifact rather than an actual pathological finding?\n<image>"}
+{"question_id": 281, "image": "pmc_418652_0.jpg", "question": "Are the gas collections a sign that the stent is failing?\n<image>"}
+{"question_id": 282, "image": "pmc_565696_0.jpg", "question": "I see some unusual bright spots in the images. Are those bright spots indicative of any foreign objects, like metal implants?\n<image>"}
+{"question_id": 283, "image": "pmc_565696_0.jpg", "question": "I noticed that the left hemisphere appears larger than the right. Does this suggest a developmental anomaly?\n<image>"}
+{"question_id": 284, "image": "pmc_565696_0.jpg", "question": "Are the lateral ventricles in this image filled with a substance that could indicate hydrocephalus?\n<image>"}
+{"question_id": 285, "image": "pmc_565696_0.jpg", "question": "I see some dark areas in the scans. Could those be areas of necrosis or dead tissue?\n<image>"}
+{"question_id": 286, "image": "pmc_565696_0.jpg", "question": "Are there any signs of inflammation in the brain, such as swelling around the thalamus?\n<image>"}
+{"question_id": 287, "image": "pmc_565696_0.jpg", "question": "I noticed a bright area in the brainstem. Does that indicate a tumor?\n<image>"}
+{"question_id": 288, "image": "20003278_F5.jpg", "question": "In the image, are there any signs of bone fractures in the rats being measured?\n<image>"}
+{"question_id": 289, "image": "20003278_F5.jpg", "question": "I noticed some bright spots in the image. Do those represent areas of increased bone growth?\n<image>"}
+{"question_id": 290, "image": "20003278_F5.jpg", "question": "Is it true that the combination treatment of methotrexate and zoledronic acid is less effective than using methotrexate alone?\n<image>"}
+{"question_id": 291, "image": "20003278_F5.jpg", "question": "Are the rats in the control group showing signs of osteoporosis based on the measurements?\n<image>"}
+{"question_id": 292, "image": "20003278_F5.jpg", "question": "Can we conclude that zoledronic acid is harmful to the rats based on the image?\n<image>"}
+{"question_id": 293, "image": "20003278_F5.jpg", "question": "Are the densitometer readings in the image indicating a decrease in bone density over time?\n<image>"}
+{"question_id": 294, "image": "pmc_102422_0.jpg", "question": "I see two treatment plans in the image. Is there a third plan that is not visible?\n<image>"}
+{"question_id": 295, "image": "pmc_102422_0.jpg", "question": "The isodose lines in the BBTP plan look much thicker than those in the DVTP plan. Does that mean it delivers a higher dose?\n<image>"}
+{"question_id": 296, "image": "pmc_102422_0.jpg", "question": "I noticed that the parotid glands are completely shielded in the BBTP plan. Is that a common practice?\n<image>"}
+{"question_id": 297, "image": "pmc_102422_0.jpg", "question": "Are the isodose lines in the DVTP plan indicating a lower dose overall compared to the BBTP plan?\n<image>"}
+{"question_id": 298, "image": "pmc_102422_0.jpg", "question": "It looks like the BBTP plan has a larger area of high radiation dose. Does that mean it is more aggressive?\n<image>"}
+{"question_id": 299, "image": "pmc_102422_0.jpg", "question": "Are the isodose lines in the image showing a new technique for treating nasopharyngeal carcinoma?\n<image>"}
+{"question_id": 300, "image": "28559850_F1.jpg", "question": "I see some arrows in the image. Do they indicate the presence of blood vessels that are not actually there?\n<image>"}
+{"question_id": 301, "image": "28559850_F1.jpg", "question": "I noticed some cells depicted in the image. Are they shown as being larger than normal kidney cells?\n<image>"}
+{"question_id": 302, "image": "28559850_F1.jpg", "question": "Does the image suggest that inflammation is the only cause of kidney hypoxia?\n<image>"}
+{"question_id": 303, "image": "28559850_F1.jpg", "question": "Are the MRI techniques shown in the image specific for detecting tubulo-interstitial hypoxia?\n<image>"}
+{"question_id": 304, "image": "28559850_F1.jpg", "question": "I see a mention of a feedback loop in the image. Does it imply that the kidney can regenerate itself?\n<image>"}
+{"question_id": 305, "image": "28559850_F1.jpg", "question": "Are the cytokines shown in the image responsible for promoting kidney cell death?\n<image>"}
+{"question_id": 306, "image": "pmc_635743_0.jpg", "question": "I see a bright white spot in the image. Is that an indication of a tumor or cancerous growth?\n<image>"}
+{"question_id": 307, "image": "pmc_635743_0.jpg", "question": "The image shows multiple lesions in the liver, right? How would this affect clinical decisions?\n<image>"}
+{"question_id": 308, "image": "pmc_635743_0.jpg", "question": "I notice that the surrounding area appears darker than the lesion itself; does this mean there is an issue with the liver surrounding the lesion?\n<image>"}
+{"question_id": 309, "image": "pmc_635743_0.jpg", "question": "Is there any evidence of infection shown in the image, perhaps some white blood cell buildup?\n<image>"}
+{"question_id": 310, "image": "pmc_635743_0.jpg", "question": "I see the bright area, so there must be dye distribution indicating a severe vascular disease, right?\n<image>"}
+{"question_id": 311, "image": "pmc_635743_0.jpg", "question": "The image shows evidence of significant fluid accumulation around the liver, right?\n<image>"}
+{"question_id": 312, "image": "pmc_560538_0.jpg", "question": "I noticed some strange dots within the treatment field area. Are those marks for identifying different types of cancers?\n<image>"}
+{"question_id": 313, "image": "pmc_560538_0.jpg", "question": "Is the upper boundary shaped like a triangle because it indicates the most critical area for treatment?\n<image>"}
+{"question_id": 314, "image": "pmc_560538_0.jpg", "question": "I can see that the image also shows a wristwatch on the patient's wrist; how does that affect the radiation treatment?\n<image>"}
+{"question_id": 315, "image": "pmc_560538_0.jpg", "question": "I thought the translucent areas outside the marked field indicated regions needing more radiation exposure because they are less dense. Is that correct?\n<image>"}
+{"question_id": 316, "image": "pmc_560538_0.jpg", "question": "Can you tell me how the angles of the vertical and horizontal lines assist in the treatment process?\n<image>"}
+{"question_id": 317, "image": "pmc_560538_0.jpg", "question": "I can see some highlighted labels on the image. Do they indicate specific doses of radiation assigned to each region of the treatment field?\n<image>"}
+{"question_id": 318, "image": "pmc_524960_0.jpg", "question": "I see some unusual bright spots in the MRI. Are those bright spots indicative of tumors or other growths?\n<image>"}
+{"question_id": 319, "image": "pmc_524960_0.jpg", "question": "Are the pelvic bones in this image showing signs of osteoporosis due to their unusual density?\n<image>"}
+{"question_id": 320, "image": "pmc_524960_0.jpg", "question": "I noticed that the femurs appear to be interacting with the pelvic bones in a way that suggests a fracture. Is that a common finding in such scans?\n<image>"}
+{"question_id": 321, "image": "pmc_524960_0.jpg", "question": "Are the soft tissues surrounding the bones in this MRI scan showing signs of inflammation or infection?\n<image>"}
+{"question_id": 322, "image": "pmc_524960_0.jpg", "question": "I heard that MRI scans can sometimes show hidden fractures. Is there any indication of hidden fractures in this image?\n<image>"}
+{"question_id": 323, "image": "pmc_524960_0.jpg", "question": "Are the three horizontal segments in the image indicative of different stages of a disease process?\n<image>"}
+{"question_id": 324, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "What kind of unusual patterns can be seen in the graph?\n<image>"}
+{"question_id": 325, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "I see two different colors in the graph. Does that indicate the presence of two different diseases?\n<image>"}
+{"question_id": 326, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "Is the curve for TNF-\u03b1 detection significantly lower than the MRI enhanced FLAIR sequence?\n<image>"}
+{"question_id": 327, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "Can we conclude that the MRI enhanced FLAIR sequence is the best method for diagnosis based on this graph?\n<image>"}
+{"question_id": 328, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "Are there any indications that the ADC value is not reliable for diagnosis?\n<image>"}
+{"question_id": 329, "image": "30936984_f1-etm-0-0-7305.jpg", "question": "Why does the graph not show any data points for the TNF-\u03b1 detection?\n<image>"}
+{"question_id": 330, "image": "28357164_FIG3.jpg", "question": "I see a bright area near the black arrow. Is that a sign of a tumor?\n<image>"}
+{"question_id": 331, "image": "28357164_FIG3.jpg", "question": "The white arrow seems to be pointing at a fracture in the spine. Is that correct?\n<image>"}
+{"question_id": 332, "image": "28357164_FIG3.jpg", "question": "Are the arrows indicating two different types of tumors?\n<image>"}
+{"question_id": 333, "image": "28357164_FIG3.jpg", "question": "The hematoma looks like it has a distinct border. Does that mean it is chronic?\n<image>"}
+{"question_id": 334, "image": "28357164_FIG3.jpg", "question": "Is the edema in the spinal cord a sign of infection?\n<image>"}
+{"question_id": 335, "image": "28357164_FIG3.jpg", "question": "I noticed some dark spots around the hematoma. Are those signs of necrosis?\n<image>"}
+{"question_id": 336, "image": "32060664_Fig3.jpg", "question": "What can you tell me about the presence of a third eye in the image?\n<image>"}
+{"question_id": 337, "image": "32060664_Fig3.jpg", "question": "I noticed that the lens appears to be completely shielded in the image. Is that correct?\n<image>"}
+{"question_id": 338, "image": "32060664_Fig3.jpg", "question": "Does the image suggest that the pituitary gland is the only organ affected by radiation during the CT scan?\n<image>"}
+{"question_id": 339, "image": "32060664_Fig3.jpg", "question": "I see a representation of a protective shield around the male phantom. Does that mean the male phantom is less exposed to radiation?\n<image>"}
+{"question_id": 340, "image": "32060664_Fig3.jpg", "question": "Is it true that the Virtual Dose software provides the most accurate representation of the lens exposure?\n<image>"}
+{"question_id": 341, "image": "32060664_Fig3.jpg", "question": "Can we conclude from the image that the female phantom receives a higher dose than the male phantom?\n<image>"}
+{"question_id": 342, "image": "pmc_439475_0.jpg", "question": "I see the pacemaker leads in the X-ray, but are there any signs of a heart transplant in this image?\n<image>"}
+{"question_id": 343, "image": "pmc_439475_0.jpg", "question": "The leads look quite thick. Are they made of a special material to prevent corrosion?\n<image>"}
+{"question_id": 344, "image": "pmc_439475_0.jpg", "question": "I noticed some unusual shadows around the leads. Could that indicate an infection?\n<image>"}
+{"question_id": 345, "image": "pmc_439475_0.jpg", "question": "Are the pacemaker leads supposed to be visible in a normal chest X-ray?\n<image>"}
+{"question_id": 346, "image": "pmc_439475_0.jpg", "question": "I heard that pacemaker leads can sometimes migrate. Is there any evidence of that in this image?\n<image>"}
+{"question_id": 347, "image": "pmc_439475_0.jpg", "question": "Are the pacemaker leads connected to a battery that is visible in the image?\n<image>"}
+{"question_id": 348, "image": "pmc_290037_0.jpg", "question": "I see a large mass in the ultrasound image. Is that a tumor?\n<image>"}
+{"question_id": 349, "image": "pmc_290037_0.jpg", "question": "The ultrasound shows a bright area in the thyroid. Does that mean there is calcification?\n<image>"}
+{"question_id": 350, "image": "pmc_290037_0.jpg", "question": "Are there any signs of inflammation in the thyroid based on the ultrasound?\n<image>"}
+{"question_id": 351, "image": "pmc_290037_0.jpg", "question": "I noticed some unusual structures in the image. Are those blood vessels?\n<image>"}
+{"question_id": 352, "image": "pmc_290037_0.jpg", "question": "The image shows a normal thyroid. Is that correct?\n<image>"}
+{"question_id": 353, "image": "pmc_290037_0.jpg", "question": "Is the patient in the image an adult?\n<image>"}
+{"question_id": 354, "image": "30915346_fig1.jpg", "question": "Is there any evidence of kidney damage in the image?\n<image>"}
+{"question_id": 355, "image": "30915346_fig1.jpg", "question": "I see some bright red areas in the liver. Does that indicate inflammation?\n<image>"}
+{"question_id": 356, "image": "30915346_fig1.jpg", "question": "Are the liver cells in the image larger than normal due to the treatment?\n<image>"}
+{"question_id": 357, "image": "30915346_fig1.jpg", "question": "I noticed some greenish spots in the liver. Are those signs of a fungal infection?\n<image>"}
+{"question_id": 358, "image": "30915346_fig1.jpg", "question": "Do the liver cells show signs of regeneration after the treatment?\n<image>"}
+{"question_id": 359, "image": "30915346_fig1.jpg", "question": "Are there any signs of hemorrhage in the liver tissue?\n<image>"}
+{"question_id": 360, "image": "19430947_Fig3.jpg", "question": "Is there a presence of any unusual structures in the thorax, like extra ribs or abnormal growths?\n<image>"}
+{"question_id": 361, "image": "19430947_Fig3.jpg", "question": "Are the clavicles positioned in a way that suggests a fracture or injury?\n<image>"}
+{"question_id": 362, "image": "19430947_Fig3.jpg", "question": "Is it possible that the short ribs indicate a serious underlying condition?\n<image>"}
+{"question_id": 363, "image": "19154591_F1.jpg", "question": "I see a large shadow in the X-ray that looks like a tumor. Is that what is causing the overdistension?\n<image>"}
+{"question_id": 364, "image": "19154591_F1.jpg", "question": "The right lung looks completely normal, right? There\u2019s no issue there?\n<image>"}
+{"question_id": 365, "image": "19154591_F1.jpg", "question": "Is the collapse of the remaining lung field on the left side due to fluid accumulation?\n<image>"}
+{"question_id": 366, "image": "19154591_F1.jpg", "question": "I noticed some dark areas in the X-ray. Are those signs of infection?\n<image>"}
+{"question_id": 367, "image": "19154591_F1.jpg", "question": "Could the mediastinal shift lead to heart problems?\n<image>"}
+{"question_id": 368, "image": "19154591_F1.jpg", "question": "If the left upper lobe is overdistended, does that mean the patient is experiencing shortness of breath?\n<image>"}
+{"question_id": 369, "image": "31156794_F3.jpg", "question": "I see some bright spots in the image. Are those areas of necrosis in the tissue?\n<image>"}
+{"question_id": 370, "image": "31156794_F3.jpg", "question": "I noticed some green cells in the image. Are those cells indicative of a specific type of tumor?\n<image>"}
+{"question_id": 371, "image": "31156794_F3.jpg", "question": "The image shows a significant increase in tubular diameter. Does that mean the tissue is healthy?\n<image>"}
+{"question_id": 372, "image": "31156794_F3.jpg", "question": "Are the vacuoles in the germinal epithelium a sign of inflammation?\n<image>"}
+{"question_id": 373, "image": "31156794_F3.jpg", "question": "I see some cells that look detached from the epithelium. Does that mean there is a severe infection present?\n<image>"}
+{"question_id": 374, "image": "31156794_F3.jpg", "question": "Are the areas of atrophy in the image reversible with treatment?\n<image>"}
+{"question_id": 375, "image": "32719812_F3.jpg", "question": "Are there any signs of bacterial infection in the image?\n<image>"}
+{"question_id": 376, "image": "32719812_F3.jpg", "question": "I see some red blood cells; do they indicate bleeding?\n<image>"}
+{"question_id": 377, "image": "32719812_F3.jpg", "question": "Are the eosinophils actively attacking the nematodes in the image?\n<image>"}
+{"question_id": 378, "image": "32719812_F3.jpg", "question": "Is it common to see these types of parasites in human tissues?\n<image>"}
+{"question_id": 379, "image": "32719812_F3.jpg", "question": "Are the infiltrates indicative of a chronic condition?\n<image>"}
+{"question_id": 380, "image": "32719812_F3.jpg", "question": "Do the nematodes appear to be alive in the image?\n<image>"}
+{"question_id": 381, "image": "pmc_248382_0.jpg", "question": "Is there any indication of bleeding in the brain based on what we see in the image?\n<image>"}
+{"question_id": 382, "image": "pmc_248382_0.jpg", "question": "I noticed some unusual dark spots in the image. Does this indicate tumor presence?\n<image>"}
+{"question_id": 383, "image": "pmc_248382_0.jpg", "question": "The gray matter structures seem to be blurred. Is this a sign of advanced Alzheimer's disease?\n<image>"}
+{"question_id": 384, "image": "pmc_248382_0.jpg", "question": "Are there any signs of multiple sclerosis discernible in this brain image?\n<image>"}
+{"question_id": 385, "image": "pmc_248382_0.jpg", "question": "Does the image reveal any abnormalities in the ventricles that could indicate hydrocephalus?\n<image>"}
+{"question_id": 386, "image": "pmc_248382_0.jpg", "question": "Can you confirm that the increased signal intensity is due to edema surrounding a brain tumor?\n<image>"}
+{"question_id": 387, "image": "pmc_339200_0.jpg", "question": "I noticed that Child 5 has a vaccination marked as 'On Time' for the birth dose. Does that mean they received all their vaccinations on the same day?\n<image>"}
+{"question_id": 388, "image": "pmc_339200_0.jpg", "question": "I see a lot of teal markings for Child 3. Does that mean they received a special type of vaccine that is not given to other children?\n<image>"}
+{"question_id": 389, "image": "pmc_339200_0.jpg", "question": "I see that Child 7 has a pink marking for their third visit. Does that mean they received a vaccine that is less effective than the others?\n<image>"}
+{"question_id": 390, "image": "pmc_339200_0.jpg", "question": "I see that Child 2 has a lot of 'Early' marks. Does that mean they are ahead of the vaccination schedule and at risk of over-vaccination?\n<image>"}
+{"question_id": 391, "image": "pmc_339200_0.jpg", "question": "I noticed that Child 1 has a lot of purple markings. Does that mean they received a vaccine that is not typically given to newborns?\n<image>"}
+{"question_id": 392, "image": "pmc_339200_0.jpg", "question": "I see that Child 4 has a delayed status for their second visit. Does that mean they missed the opportunity for that vaccine entirely?\n<image>"}
+{"question_id": 393, "image": "pmc_205249_0.jpg", "question": "I see two lines in the graph, but why is there a third line that seems to represent a placebo effect?\n<image>"}
+{"question_id": 394, "image": "pmc_205249_0.jpg", "question": "The blue line seems to be decreasing after day 10. Does that mean the tumor is shrinking?\n<image>"}
+{"question_id": 395, "image": "pmc_205249_0.jpg", "question": "Why do the error bars on the lines look so large? Does that indicate a high variability in the treatment's effectiveness?\n<image>"}
+{"question_id": 396, "image": "pmc_205249_0.jpg", "question": "Is it possible that the treatment group is actually experiencing a tumor regression instead of just slower growth?\n<image>"}
+{"question_id": 397, "image": "pmc_205249_0.jpg", "question": "The graph shows that the treatment group has a higher peak size than the control group. Does that mean the treatment is ineffective?\n<image>"}
+{"question_id": 398, "image": "pmc_205249_0.jpg", "question": "Why does the control group show a plateau in tumor size after day 15?\n<image>"}
+{"question_id": 399, "image": "pmc_397582_0.jpg", "question": "I see two scans. Is one of them showing a large tumor on the patient's forehead based on its placement?\n<image>"}
+{"question_id": 400, "image": "pmc_397582_0.jpg", "question": "I noticed that the images display a bright blue structure in the neck area. Is that a captured muscle?\n<image>"}
+{"question_id": 401, "image": "pmc_397582_0.jpg", "question": "In the scans, does the patient have any signs of an infection given the increased metabolic activity throughout the scans?\n<image>"}
+{"question_id": 402, "image": "pmc_397582_0.jpg", "question": "There seems to be a shadowing effect in the neck region on one of the scans. Is that an indicator of swelling?\n<image>"}
+{"question_id": 403, "image": "pmc_397582_0.jpg", "question": "The top panel seems to have a highlighted area that's been pointed out as a lesion; is that the same lesion seen in the bottom scans?\n<image>"}
+{"question_id": 404, "image": "pmc_397582_0.jpg", "question": "I see a prominent mass on the right side of the neck; is that evident in both scans?\n<image>"}
+{"question_id": 405, "image": "33978841_Fig2.jpg", "question": "Is there a visible tumor in the image that needs to be addressed?\n<image>"}
+{"question_id": 406, "image": "33978841_Fig2.jpg", "question": "I see some arrows pointing to a large mass. Is that mass indicative of a new growth?\n<image>"}
+{"question_id": 407, "image": "33978841_Fig2.jpg", "question": "The image shows that the left atrial cavity is enlarged, right?\n<image>"}
+{"question_id": 408, "image": "33978841_Fig2.jpg", "question": "The follow-up imaging suggests that the dissection cavity is still present but just less visible, correct?\n<image>"}
+{"question_id": 409, "image": "33978841_Fig2.jpg", "question": "Are the arrows indicating a complication from the surgery?\n<image>"}
+{"question_id": 410, "image": "33978841_Fig2.jpg", "question": "Is it possible that the imaging shows signs of infection in the heart?\n<image>"}
+{"question_id": 411, "image": "pmc_445232_0.jpg", "question": "I see the colored regions in the petrous bone. Are there any areas that are completely devoid of bone material in the image?\n<image>"}
+{"question_id": 412, "image": "pmc_445232_0.jpg", "question": "The image shows a red-highlighted area. Does that indicate a region with high mineral content compared to the other areas?\n<image>"}
+{"question_id": 413, "image": "pmc_445232_0.jpg", "question": "Are the arrows in the image pointing to areas that are known to be involved in nerve passage?\n<image>"}
+{"question_id": 414, "image": "pmc_445232_0.jpg", "question": "The blue area looks very porous. Does that mean it is less useful for DNA extraction?\n<image>"}
+{"question_id": 415, "image": "pmc_445232_0.jpg", "question": "Is it possible that the green area is actually a representation of a fracture line in the bone?\n<image>"}
+{"question_id": 416, "image": "pmc_445232_0.jpg", "question": "Are the different colored areas indicative of various stages of bone healing?\n<image>"}
+{"question_id": 417, "image": "31544369_F6.jpg", "question": "I see some unusual structures in the image. Are there any signs of bone fractures in the CT scan?\n<image>"}
+{"question_id": 418, "image": "31544369_F6.jpg", "question": "I noticed some bright spots in the image. Do those represent malignant tumors?\n<image>"}
+{"question_id": 419, "image": "31544369_F6.jpg", "question": "Are the neurofibromas in the image located in the lungs?\n<image>"}
+{"question_id": 420, "image": "31544369_F6.jpg", "question": "I see some areas that look like they might be cysts. Are there any cystic formations in this scan?\n<image>"}
+{"question_id": 421, "image": "31544369_F6.jpg", "question": "The image shows a lot of lesions. Are these lesions indicative of a severe infection?\n<image>"}
+{"question_id": 422, "image": "31544369_F6.jpg", "question": "Are the neurofibromas in the image causing any obstruction in the airway?\n<image>"}
+{"question_id": 423, "image": "pmc_639606_0.jpg", "question": "I see a bright object in the image. Is that a foreign object lodged near the implant?\n<image>"}
+{"question_id": 424, "image": "pmc_639606_0.jpg", "question": "The implant looks very smooth. Does that mean it is not integrating well with the bone?\n<image>"}
+{"question_id": 425, "image": "pmc_639606_0.jpg", "question": "I noticed some dark areas around the implant. Does that indicate infection or bone loss?\n<image>"}
+{"question_id": 426, "image": "pmc_639606_0.jpg", "question": "Is the dental prosthesis made of metal? It looks very shiny.\n<image>"}
+{"question_id": 427, "image": "pmc_639606_0.jpg", "question": "The image shows a lot of bone density around the implant. Does that mean the implant is definitely successful?\n<image>"}
+{"question_id": 428, "image": "pmc_639606_0.jpg", "question": "Can you see any signs of wear on the crowns of the prosthesis in the image?\n<image>"}
+{"question_id": 429, "image": "pmc_431546_0.jpg", "question": "In the images, do you see any signs of a tumor pressing against the spinal cord?\n<image>"}
+{"question_id": 430, "image": "pmc_431546_0.jpg", "question": "I noticed that the intervertebral discs appear to be bulging in the images. Is that a common finding?\n<image>"}
+{"question_id": 431, "image": "pmc_431546_0.jpg", "question": "Is it possible that the herniation is causing a complete blockage of the spinal canal?\n<image>"}
+{"question_id": 432, "image": "pmc_431546_0.jpg", "question": "Can you tell me if the herniated disc is located at the cervical spine level?\n<image>"}
+{"question_id": 433, "image": "pmc_431546_0.jpg", "question": "Are there any signs of inflammation around the herniated disc in the images?\n<image>"}
+{"question_id": 434, "image": "pmc_431546_0.jpg", "question": "Is it common for patients with this type of herniation to experience paralysis?\n<image>"}
+{"question_id": 435, "image": "pmc_292922_0.jpg", "question": "I see a lot of cells in this image, but are there any signs of normal liver cells present? It seems like they might be hiding among the tumor cells.\n<image>"}
+{"question_id": 436, "image": "pmc_292922_0.jpg", "question": "The image shows some cells that look like they have multiple nuclei. Are these cells just an artifact of the staining process?\n<image>"}
+{"question_id": 437, "image": "pmc_292922_0.jpg", "question": "I noticed some cells that seem to have a very ordered appearance. Could that mean they are actually healthy cells that are just misidentified?\n<image>"}
+{"question_id": 438, "image": "pmc_292922_0.jpg", "question": "Are the giant cells in the image a sign of a less aggressive form of cancer? They seem quite large and prominent.\n<image>"}
+{"question_id": 439, "image": "pmc_292922_0.jpg", "question": "I can see some cells that look hyperchromatic. Does that mean they are less likely to be cancerous?\n<image>"}
+{"question_id": 440, "image": "pmc_292922_0.jpg", "question": "Given the chaotic nature of the cells, could this be a case of benign hyperplasia instead of cancer?\n<image>"}
+{"question_id": 441, "image": "pmc_379410_0.jpg", "question": "I see some points in the image that appear to be glowing. Does that indicate they are more dangerous than the others?\n<image>"}
+{"question_id": 442, "image": "pmc_379410_0.jpg", "question": "I noticed a cluster of blue points. Are those points indicating that the compounds are safe to use?\n<image>"}
+{"question_id": 443, "image": "pmc_379410_0.jpg", "question": "Are the yellow points showing that the compounds are effective in preventing mutations?\n<image>"}
+{"question_id": 444, "image": "pmc_379410_0.jpg", "question": "I heard that all mutagenic compounds are harmful. Is that true based on what we see in the image?\n<image>"}
+{"question_id": 445, "image": "pmc_379410_0.jpg", "question": "Are the light green points indicating that the compounds are likely to be safe for human consumption?\n<image>"}
+{"question_id": 446, "image": "pmc_379410_0.jpg", "question": "Can we conclude that the clusters in the image represent different types of compounds with varying levels of toxicity?\n<image>"}
+{"question_id": 447, "image": "pmc_450812_0.jpg", "question": "I see a large blue structure in the image. Is that a representation of the brain?\n<image>"}
+{"question_id": 448, "image": "pmc_450812_0.jpg", "question": "The mass looks like it has a rough texture. Does that indicate it is benign?\n<image>"}
+{"question_id": 449, "image": "pmc_450812_0.jpg", "question": "I noticed that the carotid artery is completely blocked. Is that a common finding in these cases?\n<image>"}
+{"question_id": 450, "image": "pmc_450812_0.jpg", "question": "Are the enlarged lymph nodes in the image indicative of cancer spread?\n<image>"}
+{"question_id": 451, "image": "pmc_450812_0.jpg", "question": "I see a bright area that looks like a cyst. Is that a common feature of vagal paragangliomas?\n<image>"}
+{"question_id": 452, "image": "pmc_450812_0.jpg", "question": "The internal jugular vein appears to be compressed. Does that mean the mass is aggressive?\n<image>"}
+{"question_id": 453, "image": "pmc_559179_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of foreign bodies present in the appendix?\n<image>"}
+{"question_id": 454, "image": "pmc_559179_0.jpg", "question": "The image seems to show a thickened wall of the appendix. Does this suggest that the appendix is undergoing necrosis?\n<image>"}
+{"question_id": 455, "image": "pmc_559179_0.jpg", "question": "I noticed some bright spots in the image. Are those indicative of gas formation within the appendix?\n<image>"}
+{"question_id": 456, "image": "pmc_559179_0.jpg", "question": "The image shows some areas that look like they are healing. Does this mean the inflammation is resolving?\n<image>"}
+{"question_id": 457, "image": "pmc_559179_0.jpg", "question": "Are the diverticula in the image a sign of chronic appendicitis?\n<image>"}
+{"question_id": 458, "image": "pmc_559179_0.jpg", "question": "I see some dark areas in the image. Are those areas of hemorrhage in the appendix?\n<image>"}
+{"question_id": 459, "image": "24455549_F2.jpg", "question": "Is there a visible texture on the specimen's surface?\n<image>"}
+{"question_id": 460, "image": "24455549_F2.jpg", "question": "Are there any signs of necrosis in the specimen?\n<image>"}
+{"question_id": 461, "image": "24455549_F2.jpg", "question": "The specimen seems to be very large. Is it typical for such specimens to be this size?\n<image>"}
+{"question_id": 462, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "I see some bright spots in the image. Are those signs of a new tumor developing in the brain?\n<image>"}
+{"question_id": 463, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "I noticed that the left temporal lobe appears darker than the right. Does this mean there is a problem with the left side?\n<image>"}
+{"question_id": 464, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "Are there any signs of inflammation in the right temporal lobe based on the image?\n<image>"}
+{"question_id": 465, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "I heard that MRI scans can sometimes show blood flow. Is there evidence of increased blood flow in this image?\n<image>"}
+{"question_id": 466, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "I see a shadowy area in the right temporal lobe. Does that mean there is still a lesion present?\n<image>"}
+{"question_id": 467, "image": "32362653_f10-amjcaserep-21-e922679.jpg", "question": "Are there any signs of necrosis in the right temporal lobe based on the MRI scan?\n<image>"}
+{"question_id": 468, "image": "22324034_F4.jpg", "question": "I see some unusual shadows in the X-ray. Are those shadows indicative of a foreign object in the lungs?\n<image>"}
+{"question_id": 469, "image": "22324034_F4.jpg", "question": "The X-ray looks quite clear. Does that mean the patient is completely healed?\n<image>"}
+{"question_id": 470, "image": "22324034_F4.jpg", "question": "I noticed that the left lung appears larger than the right. Is that a sign of a serious condition?\n<image>"}
+{"question_id": 471, "image": "22324034_F4.jpg", "question": "Are the dark areas in the X-ray a sign of fluid accumulation in the lungs?\n<image>"}
+{"question_id": 472, "image": "22324034_F4.jpg", "question": "Is it common for steroid therapy to cause hematuria as a side effect?\n<image>"}
+{"question_id": 473, "image": "22324034_F4.jpg", "question": "The X-ray shows a lot of improvement. Shouldn't the patient be off steroids now?\n<image>"}
+{"question_id": 474, "image": "pmc_129403_0.jpg", "question": "I see a bright spot in the liver; does that indicate a tumor?\n<image>"}
+{"question_id": 475, "image": "pmc_129403_0.jpg", "question": "Are there any signs of fluid accumulation around the spleen that could indicate an infection?\n<image>"}
+{"question_id": 476, "image": "pmc_129403_0.jpg", "question": "The spleen looks very pale; does that mean it is functioning poorly?\n<image>"}
+{"question_id": 477, "image": "pmc_129403_0.jpg", "question": "Is it common for the liver to appear darker than the spleen in CT scans?\n<image>"}
+{"question_id": 478, "image": "pmc_129403_0.jpg", "question": "Could the enlarged spleen be a sign of liver disease?\n<image>"}
+{"question_id": 479, "image": "pmc_129403_0.jpg", "question": "Are the hypoenhanced areas in the spleen indicative of a specific type of cancer?\n<image>"}
+{"question_id": 480, "image": "29163955_fig2-2050313X17741824.jpg", "question": "I see a bright object in the image. Is that a tumor highlighted by the imaging techniques?\n<image>"}
+{"question_id": 481, "image": "29163955_fig2-2050313X17741824.jpg", "question": "The image shows a blue color in the MDP section. Does that mean there is no bone activity in that area?\n<image>"}
+{"question_id": 482, "image": "29163955_fig2-2050313X17741824.jpg", "question": "I noticed some green areas in the image. Are those areas where the imaging techniques overlap?\n<image>"}
+{"question_id": 483, "image": "29163955_fig2-2050313X17741824.jpg", "question": "The image shows a clear distinction between the two techniques. Does that mean they are completely independent of each other?\n<image>"}
+{"question_id": 484, "image": "29163955_fig2-2050313X17741824.jpg", "question": "I see some yellow spots in the image. Are those artifacts from the imaging process?\n<image>"}
+{"question_id": 485, "image": "29163955_fig2-2050313X17741824.jpg", "question": "The image appears to show a 3D structure. Is that a common feature in these types of imaging?\n<image>"}
+{"question_id": 486, "image": "pmc_582281_0.jpg", "question": "In the image, are there any visible interactions between the HIF-1\u03b1 and \u03b2-actin proteins?\n<image>"}
+{"question_id": 487, "image": "pmc_582281_0.jpg", "question": "Why does the immunoprecipitation in Panel B show higher levels of \u03b2-actin compared to HIF-1\u03b1 under hypoxic conditions?\n<image>"}
+{"question_id": 488, "image": "pmc_582281_0.jpg", "question": "In the image, does it look like the T3D treatment completely inhibits all protein synthesis in the treated samples?\n<image>"}
+{"question_id": 489, "image": "pmc_582281_0.jpg", "question": "Can we conclude that hypoxia always leads to increased protein levels in the image?\n<image>"}
+{"question_id": 490, "image": "pmc_582281_0.jpg", "question": "Is there evidence in the image that MG132 treatment leads to the formation of new proteins in the cell lines?\n<image>"}
+{"question_id": 491, "image": "pmc_582281_0.jpg", "question": "Are there any observations in the image that suggest that both T3D and F6 treatments cause an increase in HIF-1\u03b1 levels in DU145 cells?\n<image>"}
+{"question_id": 492, "image": "27623960_Fig1.jpg", "question": "I see a strange object in the image that looks like a balloon. Is that part of the CVC setup?\n<image>"}
+{"question_id": 493, "image": "27623960_Fig1.jpg", "question": "The CVC appears to be very thick in the image. Is that typical for all central venous catheters?\n<image>"}
+{"question_id": 494, "image": "27623960_Fig1.jpg", "question": "I noticed that the CVC is shown entering the heart in the image. Does this mean it is functioning properly?\n<image>"}
+{"question_id": 495, "image": "27623960_Fig1.jpg", "question": "Is the CVC supposed to be positioned near the lungs as shown in the image?\n<image>"}
+{"question_id": 496, "image": "27623960_Fig1.jpg", "question": "I see a shadow in the image that looks like a hand. Does that indicate a problem with the CVC?\n<image>"}
+{"question_id": 497, "image": "27623960_Fig1.jpg", "question": "The image shows the CVC positioned in the left IMA. Is that a common placement for central venous catheters?\n<image>"}
+{"question_id": 498, "image": "32675174_F4.jpg", "question": "I see some bright red areas in the image. Are those areas indicative of inflammation in the cochleae?\n<image>"}
+{"question_id": 499, "image": "32675174_F4.jpg", "question": "I noticed some green fibers that seem to be intertwined. Are those fibers actually connecting the hair cells to the auditory nerve?\n<image>"}
+{"question_id": 500, "image": "32675174_F4.jpg", "question": "Are the hair cells in the P2rx3\u2212/\u2212 cochleae larger than those in the wild-type cochleae?\n<image>"}
+{"question_id": 501, "image": "32675174_F4.jpg", "question": "I heard that the presence of Schwann cells is crucial for hearing. Do the images show any abnormalities in Schwann cell distribution in the P2rx3\u2212/\u2212 cochleae?\n<image>"}
+{"question_id": 502, "image": "32675174_F4.jpg", "question": "Are the stereocilia bundles in the P2rx3\u2212/\u2212 cochleae more densely packed than in the wild-type cochleae?\n<image>"}
+{"question_id": 503, "image": "32675174_F4.jpg", "question": "I see some gray areas in the image. Are those areas showing signs of degeneration in the cochleae?\n<image>"}
+{"question_id": 504, "image": "33521808_awaa411-F1.jpg", "question": "In the image, are there any yellow electrodes representing a different patient group?\n<image>"}
+{"question_id": 505, "image": "33521808_awaa411-F1.jpg", "question": "I noticed that the green structure looks like a large tumor. Is that correct?\n<image>"}
+{"question_id": 506, "image": "33521808_awaa411-F1.jpg", "question": "Are the electrodes placed only in the left hemisphere of the brain?\n<image>"}
+{"question_id": 507, "image": "33521808_awaa411-F1.jpg", "question": "Is it true that the white electrodes are only used for patients with advanced stages of dementia?\n<image>"}
+{"question_id": 508, "image": "33521808_awaa411-F1.jpg", "question": "Are the light blue structures indicating areas of brain damage?\n<image>"}
+{"question_id": 509, "image": "33521808_awaa411-F1.jpg", "question": "Do the electrodes interact with the red structures to enhance cognitive function?\n<image>"}
+{"question_id": 510, "image": "33614174_fig7.jpg", "question": "What unusual object is visible in the image that appears to be a foreign body in the brain?\n<image>"}
+{"question_id": 511, "image": "33614174_fig7.jpg", "question": "I see a bright area in the image. Is that an indication of a tumor?\n<image>"}
+{"question_id": 512, "image": "33614174_fig7.jpg", "question": "Does the image show any signs of brain swelling due to the subdural collection?\n<image>"}
+{"question_id": 513, "image": "33614174_fig7.jpg", "question": "Is the subdural collection likely to resolve on its own without treatment?\n<image>"}
+{"question_id": 514, "image": "33614174_fig7.jpg", "question": "Are there any visible signs of infection in the image?\n<image>"}
+{"question_id": 515, "image": "33614174_fig7.jpg", "question": "Could the subdural collection be a result of a recent surgical procedure?\n<image>"}
+{"question_id": 516, "image": "pmc_283896_0.jpg", "question": "I see a graph in panel A. Can you tell me how the body temperature of mice reacts when exposed to very high ambient temperatures like 39\u00b0C?\n<image>"}
+{"question_id": 517, "image": "pmc_283896_0.jpg", "question": "I noticed the muscular tissues appear to be greenish in the microscopic images presented. What does that signify about the health of the mice?\n<image>"}
+{"question_id": 518, "image": "pmc_283896_0.jpg", "question": "Panel B shows mice burning energy efficiently. Does that mean their metabolic rate increases in colder temperatures?\n<image>"}
+{"question_id": 519, "image": "pmc_283896_0.jpg", "question": "In the image, are the bars in Panel E showing a significant decrease in food intake at higher temperatures?\n<image>"}
+{"question_id": 520, "image": "pmc_283896_0.jpg", "question": "Are the skeletal muscle tissues in panels G and H brightly colored, indicating a high level of health and vitality in the mice?\n<image>"}
+{"question_id": 521, "image": "pmc_283896_0.jpg", "question": "Is it correct to say that the data in panel D reveals that mice become more sedentary in colder temperatures with a significant drop in movement?\n<image>"}
+{"question_id": 522, "image": "27437492_fig4.jpg", "question": "What unusual object can be seen in the MRI image that resembles a foreign body?\n<image>"}
+{"question_id": 523, "image": "27437492_fig4.jpg", "question": "I noticed some bright spots in the image. Are those indicative of bone fragments?\n<image>"}
+{"question_id": 524, "image": "27437492_fig4.jpg", "question": "Is it true that the MRI shows signs of a tumor due to the irregular shapes of the lesions?\n<image>"}
+{"question_id": 525, "image": "27437492_fig4.jpg", "question": "Can we conclude that the patient has a chronic condition based on the findings in the MRI?\n<image>"}
+{"question_id": 526, "image": "27437492_fig4.jpg", "question": "Are the abscesses visible in the image a result of a viral infection?\n<image>"}
+{"question_id": 527, "image": "27437492_fig4.jpg", "question": "I see some dark areas in the image. Do those represent areas of necrosis?\n<image>"}
+{"question_id": 528, "image": "pmc_202569_0.jpg", "question": "I see some unusual bright spots in the OCT images. Are those indicative of any foreign objects in the eye?\n<image>"}
+{"question_id": 529, "image": "pmc_202569_0.jpg", "question": "In the fundus photo, I noticed a large dark area. Does that mean there is a significant tear in the retina?\n<image>"}
+{"question_id": 530, "image": "pmc_202569_0.jpg", "question": "The OCT scans show a clear separation between the retinal layers. Does that mean the patient has a retinal detachment?\n<image>"}
+{"question_id": 531, "image": "pmc_202569_0.jpg", "question": "I noticed that the horizontal scanning lines in the fundus photo are very thick. Does that suggest a high level of retinal damage?\n<image>"}
+{"question_id": 532, "image": "pmc_202569_0.jpg", "question": "Are the layers in the OCT scans showing signs of inflammation, given their irregular appearance?\n<image>"}
+{"question_id": 533, "image": "pmc_202569_0.jpg", "question": "The fundus photo appears to have a bright yellow hue. Does that indicate the presence of cholesterol deposits?\n<image>"}
+{"question_id": 534, "image": "32000391_F2.jpg", "question": "In the image, is there a visible tumor on the left side of the bladder?\n<image>"}
+{"question_id": 535, "image": "32000391_F2.jpg", "question": "I noticed that the mass lesion appears to be solid rather than cystic. Is that correct?\n<image>"}
+{"question_id": 536, "image": "32000391_F2.jpg", "question": "Does the image show any signs of inflammation around the bladder?\n<image>"}
+{"question_id": 537, "image": "32000391_F2.jpg", "question": "Is the cystic mass located in the lower part of the abdomen?\n<image>"}
+{"question_id": 538, "image": "32000391_F2.jpg", "question": "Could the fluid inside the lesion be air instead?\n<image>"}
+{"question_id": 539, "image": "32000391_F2.jpg", "question": "Is the arrow indicating a connection between the mass and the liver?\n<image>"}
+{"question_id": 540, "image": "29559765_f1.jpg", "question": "What unusual structure is that large blue mass in the image?\n<image>"}
+{"question_id": 541, "image": "29559765_f1.jpg", "question": "Are the arrows indicating a cystic lesion in the pituitary gland?\n<image>"}
+{"question_id": 542, "image": "29559765_f1.jpg", "question": "It looks like the microadenoma is enhancing more than the surrounding tissue. Is that correct?\n<image>"}
+{"question_id": 543, "image": "29559765_f1.jpg", "question": "Why is the microadenoma appearing brighter than the normal pituitary tissue?\n<image>"}
+{"question_id": 544, "image": "29559765_f1.jpg", "question": "Is there a visible blood vessel running through the adenohypophysis in the image?\n<image>"}
+{"question_id": 545, "image": "29559765_f1.jpg", "question": "The image seems to show a significant amount of necrotic tissue. Is that a common finding in microadenomas?\n<image>"}
+{"question_id": 546, "image": "29145864_Fig8.jpg", "question": "What unusual structures can be seen in the image, like any foreign objects or artifacts?\n<image>"}
+{"question_id": 547, "image": "29145864_Fig8.jpg", "question": "Are there any signs of inflammation or necrosis in the cells lining the duct?\n<image>"}
+{"question_id": 548, "image": "29145864_Fig8.jpg", "question": "Is the tumor in the image actively spreading to nearby organs?\n<image>"}
+{"question_id": 549, "image": "29145864_Fig8.jpg", "question": "Can you identify any unusual cell types that are typically associated with pancreatic tumors?\n<image>"}
+{"question_id": 550, "image": "29145864_Fig8.jpg", "question": "Does the image indicate that the tumor is benign or malignant based on the cell structure?\n<image>"}
+{"question_id": 551, "image": "29145864_Fig8.jpg", "question": "Are there any signs of vascular invasion by the tumor in the image?\n<image>"}
+{"question_id": 552, "image": "35484198_Fig4.jpg", "question": "What does the arrow in the image indicate about the laser's effectiveness?\n<image>"}
+{"question_id": 553, "image": "35484198_Fig4.jpg", "question": "Is there any evidence of thermal damage in the tissue shown?\n<image>"}
+{"question_id": 554, "image": "35484198_Fig4.jpg", "question": "Can you tell me about the type of tissue that was cut by the laser?\n<image>"}
+{"question_id": 555, "image": "35484198_Fig4.jpg", "question": "Does the image show any signs of coagulative necrosis?\n<image>"}
+{"question_id": 556, "image": "35484198_Fig4.jpg", "question": "What can we infer about the laser's energy levels from the image?\n<image>"}
+{"question_id": 557, "image": "31534801_fig25.jpg", "question": "What unusual device is depicted in the image that appears to be a laser scanner?\n<image>"}
+{"question_id": 558, "image": "31534801_fig25.jpg", "question": "Is the anterior segment shown in the image a common area for detecting tumors?\n<image>"}
+{"question_id": 559, "image": "31534801_fig25.jpg", "question": "Are the images produced by CBCT less detailed than those from traditional CT scans?\n<image>"}
+{"question_id": 560, "image": "31534801_fig25.jpg", "question": "Does the image show a 3D reconstruction of the heart?\n<image>"}
+{"question_id": 561, "image": "35494937_FIG1.jpg", "question": "What unusual object is visible in the chest X-ray that indicates a foreign body?\n<image>"}
+{"question_id": 562, "image": "35494937_FIG1.jpg", "question": "I see some bright spots in the right lung. Are those signs of a tumor?\n<image>"}
+{"question_id": 563, "image": "35494937_FIG1.jpg", "question": "Is it possible that the opacities are due to a recent surgery in the chest area?\n<image>"}
+{"question_id": 564, "image": "35494937_FIG1.jpg", "question": "Could the reticular densities indicate a chronic condition like fibrosis?\n<image>"}
+{"question_id": 565, "image": "35494937_FIG1.jpg", "question": "Are the opacities in the X-ray a sign of fluid accumulation in the lungs?\n<image>"}
+{"question_id": 566, "image": "35494937_FIG1.jpg", "question": "What does the presence of these opacities mean for the patient's health?\n<image>"}
+{"question_id": 567, "image": "30828251_fig8-1179550619831058.jpg", "question": "In the image, I see a large blue mass in the left preauricular region. What does that indicate?\n<image>"}
+{"question_id": 568, "image": "30828251_fig8-1179550619831058.jpg", "question": "I noticed that the FDG uptake is very low in the right preauricular area. Does that mean there is no concern?\n<image>"}
+{"question_id": 569, "image": "30828251_fig8-1179550619831058.jpg", "question": "Is it possible that the FDG-avid area is just a benign condition, like inflammation?\n<image>"}
+{"question_id": 570, "image": "30828251_fig8-1179550619831058.jpg", "question": "I see that the image shows multiple lymph nodes in the left side. Are they all FDG-avid as well?\n<image>"}
+{"question_id": 571, "image": "30828251_fig8-1179550619831058.jpg", "question": "The SUV value of 5.3 indicates that the lesion is definitely malignant, right?\n<image>"}
+{"question_id": 572, "image": "30828251_fig8-1179550619831058.jpg", "question": "Can you tell me if the image shows any signs of necrosis in the lymph nodes?\n<image>"}
+{"question_id": 573, "image": "pmc_519293_0.jpg", "question": "I notice some unusual shapes in the image. Are there any floating objects in the arteries that could indicate a problem?\n<image>"}
+{"question_id": 574, "image": "pmc_519293_0.jpg", "question": "The stents look quite large. Are they usually this size, or could they be oversized for the arteries?\n<image>"}
+{"question_id": 575, "image": "pmc_519293_0.jpg", "question": "I see the stents are labeled as 'Right.' Does that mean the left side is not treated at all?\n<image>"}
+{"question_id": 576, "image": "pmc_519293_0.jpg", "question": "Are the stents made of a material that can dissolve over time, or are they permanent fixtures?\n<image>"}
+{"question_id": 577, "image": "pmc_519293_0.jpg", "question": "I see a shadow in the image. Could that be a sign of a blockage in the artery?\n<image>"}
+{"question_id": 578, "image": "pmc_519293_0.jpg", "question": "Are the stents designed to expand and contract with the artery's movement?\n<image>"}
+{"question_id": 579, "image": "pmc_239590_0.jpg", "question": "I see a bright spot in the image. Is that a sign of a fracture in the bone?\n<image>"}
+{"question_id": 580, "image": "pmc_239590_0.jpg", "question": "Are there any signs of infection in the surrounding tissues based on what we see here?\n<image>"}
+{"question_id": 581, "image": "pmc_239590_0.jpg", "question": "The lesion looks very smooth. Does that mean it is definitely benign?\n<image>"}
+{"question_id": 582, "image": "pmc_239590_0.jpg", "question": "Is it possible that the lesion is a result of a recent injury?\n<image>"}
+{"question_id": 583, "image": "pmc_239590_0.jpg", "question": "Can we see any signs of metastasis in the image?\n<image>"}
+{"question_id": 584, "image": "34805947_fig4.jpg", "question": "In the image, are there any signs of a blockage in the portal veins?\n<image>"}
+{"question_id": 585, "image": "34805947_fig4.jpg", "question": "I see some unusual structures around the portal veins. Are those tumors?\n<image>"}
+{"question_id": 586, "image": "34805947_fig4.jpg", "question": "Is it true that the portal veins can sometimes appear dilated in post-contrast imaging?\n<image>"}
+{"question_id": 587, "image": "34805947_fig4.jpg", "question": "Are the portal veins in this image filled with contrast material?\n<image>"}
+{"question_id": 588, "image": "34805947_fig4.jpg", "question": "Could the patency of the portal veins indicate a failure of the venous intervention?\n<image>"}
+{"question_id": 589, "image": "34805947_fig4.jpg", "question": "Are there any signs of inflammation in the surrounding tissues of the portal veins?\n<image>"}
+{"question_id": 590, "image": "pmc_101913_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of abnormal growths or tumors in the cerebral vasculature?\n<image>"}
+{"question_id": 591, "image": "pmc_101913_0.jpg", "question": "The left internal carotid artery looks quite thin. Does that mean there is a blockage or a significant narrowing of the artery?\n<image>"}
+{"question_id": 592, "image": "pmc_101913_0.jpg", "question": "I noticed some bright spots in the image. Are those indicative of hemorrhagic events in the brain?\n<image>"}
+{"question_id": 593, "image": "pmc_101913_0.jpg", "question": "The arteries seem to be branching out quite a bit. Does that indicate a high risk of aneurysm formation?\n<image>"}
+{"question_id": 594, "image": "pmc_101913_0.jpg", "question": "Are there any signs of collateral circulation in the image that might suggest compensatory mechanisms due to reduced flow?\n<image>"}
+{"question_id": 595, "image": "pmc_101913_0.jpg", "question": "The greyscale used in the image makes it hard to differentiate between the arteries and surrounding tissues. Is that a common issue with MRA scans?\n<image>"}
+{"question_id": 596, "image": "pmc_424741_0.jpg", "question": "I see some bright yellow spots in the scans. Are those areas of severe damage to the heart?\n<image>"}
+{"question_id": 597, "image": "pmc_424741_0.jpg", "question": "What can you tell me about the red areas? Are they indicative of heart failure?\n<image>"}
+{"question_id": 598, "image": "pmc_424741_0.jpg", "question": "I noticed that the scans show a lot of overlapping colors. Does that mean the heart is experiencing multiple conditions at once?\n<image>"}
+{"question_id": 599, "image": "pmc_424741_0.jpg", "question": "Are the green areas showing signs of a heart attack?\n<image>"}
+{"question_id": 600, "image": "pmc_424741_0.jpg", "question": "Can you tell me if the blue areas are related to any specific heart disease?\n<image>"}
+{"question_id": 601, "image": "pmc_424741_0.jpg", "question": "Are the scans showing any signs of blood clots in the heart chambers?\n<image>"}
+{"question_id": 602, "image": "26904706_fig1-2324709615607916.jpg", "question": "In the CT scan, what is the red arrow pointing to? Is it indicating a tumor?\n<image>"}
+{"question_id": 603, "image": "26904706_fig1-2324709615607916.jpg", "question": "I see a yellow arrow. Is it pointing to a cystic structure?\n<image>"}
+{"question_id": 604, "image": "26904706_fig1-2324709615607916.jpg", "question": "The blue arrow seems to indicate a large lymph node. Is that correct?\n<image>"}
+{"question_id": 605, "image": "26904706_fig1-2324709615607916.jpg", "question": "Is the high-density fluid collection indicative of an infection?\n<image>"}
+{"question_id": 606, "image": "26904706_fig1-2324709615607916.jpg", "question": "The mixed attenuated mass looks like it has a vascular component. Is that possible?\n<image>"}
+{"question_id": 607, "image": "26904706_fig1-2324709615607916.jpg", "question": "Can the well-defined lesion at the pancreas junction be a sign of metastasis?\n<image>"}
+{"question_id": 608, "image": "31020181_yty105-F1.jpg", "question": "Is there a visible tumor in the heart area in the image?\n<image>"}
+{"question_id": 609, "image": "31020181_yty105-F1.jpg", "question": "I see some blue color in the pulmonary trunk; does that mean it is filled with oxygenated blood?\n<image>"}
+{"question_id": 610, "image": "31020181_yty105-F1.jpg", "question": "The image shows that the heart is on the left side, right?\n<image>"}
+{"question_id": 611, "image": "31020181_yty105-F1.jpg", "question": "Are the lungs in the image showing signs of infection?\n<image>"}
+{"question_id": 612, "image": "31020181_yty105-F1.jpg", "question": "Is there a significant amount of fluid in the retrosternal space?\n<image>"}
+{"question_id": 613, "image": "31020181_yty105-F1.jpg", "question": "Does the image indicate that the heart is functioning normally?\n<image>"}
+{"question_id": 614, "image": "pmc_617038_0.jpg", "question": "I see a bright area in the MRI scan. Does that indicate a tumor in the spine?\n<image>"}
+{"question_id": 615, "image": "pmc_617038_0.jpg", "question": "Are there any signs of bone fractures in the MRI image?\n<image>"}
+{"question_id": 616, "image": "pmc_617038_0.jpg", "question": "I noticed that the abnormal signal intensity is only affecting the lower part of the spine. Is that correct?\n<image>"}
+{"question_id": 617, "image": "pmc_617038_0.jpg", "question": "Is it possible that the inflammation shown in the MRI is due to a viral infection?\n<image>"}
+{"question_id": 618, "image": "pmc_617038_0.jpg", "question": "The arrows in the image point to a healthy spinal cord, right?\n<image>"}
+{"question_id": 619, "image": "32849946_F4.jpg", "question": "Can you explain why the sensitivity is shown as higher than the specificity in the graph?\n<image>"}
+{"question_id": 620, "image": "32849946_F4.jpg", "question": "Is it true that miR191 levels can only predict abnormalities in brain scans for patients over 50 years old?\n<image>"}
+{"question_id": 621, "image": "32849946_F4.jpg", "question": "Why does the graph show a decrease in sensitivity as the specificity increases?\n<image>"}
+{"question_id": 622, "image": "pmc_160647_0.jpg", "question": "I see two lines on the graph. Does that mean there are three treatments being compared?\n<image>"}
+{"question_id": 623, "image": "pmc_160647_0.jpg", "question": "The graph shows a significant increase in WOMAC scores for Glucosamine, right?\n<image>"}
+{"question_id": 624, "image": "pmc_160647_0.jpg", "question": "Are the error bars on the graph indicating that Glucosamine is more effective than Reparagen?\n<image>"}
+{"question_id": 625, "image": "pmc_160647_0.jpg", "question": "Is it true that the WOMAC score can only go up to 100 based on this graph?\n<image>"}
+{"question_id": 626, "image": "pmc_160647_0.jpg", "question": "Can we conclude that both treatments are equally effective since their lines are so close together?\n<image>"}
+{"question_id": 627, "image": "pmc_265637_0.jpg", "question": "I see a bright area in the image. Does that indicate the presence of a tumor in the brain?\n<image>"}
+{"question_id": 628, "image": "pmc_265637_0.jpg", "question": "Are the Z-spectra showing a significant increase in the CEST signal in the ischemic region compared to the normal region?\n<image>"}
+{"question_id": 629, "image": "pmc_265637_0.jpg", "question": "I noticed some areas that look like they are glowing. Does that mean there is inflammation in the brain?\n<image>"}
+{"question_id": 630, "image": "pmc_265637_0.jpg", "question": "Is it true that the T2-weighted image shows no differences between the ischemic and normal regions?\n<image>"}
+{"question_id": 631, "image": "pmc_265637_0.jpg", "question": "Can we conclude that the CEST effect is entirely absent in the ischemic region based on the image?\n<image>"}
+{"question_id": 632, "image": "26161039_Fig3.jpg", "question": "What unusual structures can be seen in the image?\n<image>"}
+{"question_id": 633, "image": "26161039_Fig3.jpg", "question": "Are the tumor cells in the image showing signs of differentiation?\n<image>"}
+{"question_id": 634, "image": "26161039_Fig3.jpg", "question": "I noticed some blue areas in the image. Do they represent areas of inflammation?\n<image>"}
+{"question_id": 635, "image": "26161039_Fig3.jpg", "question": "Is it common for tumors to have a uniform appearance in histological images?\n<image>"}
+{"question_id": 636, "image": "26161039_Fig3.jpg", "question": "Are the cells in the image actively dividing?\n<image>"}
+{"question_id": 637, "image": "pmc_425200_0.jpg", "question": "I see a large object in the image that looks like a foreign body in the gallbladder. Is that correct?\n<image>"}
+{"question_id": 638, "image": "pmc_425200_0.jpg", "question": "The common bile duct appears to be completely blocked, right? Does that mean there\u2019s no bile flow at all?\n<image>"}
+{"question_id": 639, "image": "pmc_425200_0.jpg", "question": "Is it possible that the gallbladder is functioning normally despite being distended?\n<image>"}
+{"question_id": 640, "image": "pmc_425200_0.jpg", "question": "I see some unusual connections between the bile ducts in the image. Are there any fistulas present?\n<image>"}
+{"question_id": 641, "image": "pmc_425200_0.jpg", "question": "The stone in the common bile duct looks like it\u2019s causing a lot of inflammation. Is that visible in the scan?\n<image>"}
+{"question_id": 642, "image": "pmc_329905_0.jpg", "question": "In the image, I see a bright area on one of the scans. Does that indicate a hemorrhage in the cervical region?\n<image>"}
+{"question_id": 643, "image": "pmc_329905_0.jpg", "question": "I heard that some tumors can regenerate. Is there any sign of tumor regeneration in the images?\n<image>"}
+{"question_id": 644, "image": "pmc_329905_0.jpg", "question": "The scans show a red box on the images\u2014what kind of treatment is being indicated by that box?\n<image>"}
+{"question_id": 645, "image": "pmc_329905_0.jpg", "question": "Can you tell me more about how the indicated diameters of the tumors relate to treatment options?\n<image>"}
+{"question_id": 646, "image": "pmc_329905_0.jpg", "question": "I see some normal tissue surrounding the tumor in the scans. Should that tissue be removed as well?\n<image>"}
+{"question_id": 647, "image": "pmc_329905_0.jpg", "question": "Is there a specific measurement threshold indicating benign versus malignant tumors in the scans?\n<image>"}
+{"question_id": 648, "image": "pmc_275352_0.jpg", "question": "I notice a bright red building in the images, which seems to have a tall antenna. What kind of services does that building offer?\n<image>"}
+{"question_id": 649, "image": "pmc_275352_0.jpg", "question": "In the 1993 image, the construction seems to be quite elaborate. Are the buildings made of wood or are they all concrete?\n<image>"}
+{"question_id": 650, "image": "pmc_275352_0.jpg", "question": "The area in the 2002 image appears really crowded. Is there a significant increase in the number of children\u2019s facilities in that year?\n<image>"}
+{"question_id": 651, "image": "pmc_275352_0.jpg", "question": "I saw a network of blue roads in the 1981 image. Are those roads meant to be emergency evacuation routes?\n<image>"}
+{"question_id": 652, "image": "pmc_275352_0.jpg", "question": "In the 1989 photograph, I noticed the green spaces are labeled as medicinal gardens. Do they specifically cultivate herbs for patient treatment?\n<image>"}
+{"question_id": 653, "image": "35547371_F3.jpg", "question": "In the image, I see a bright object near the MCA. Is that a blood clot?\n<image>"}
+{"question_id": 654, "image": "35547371_F3.jpg", "question": "I noticed that the experimental group has a larger MCA compared to the control group. Is that correct?\n<image>"}
+{"question_id": 655, "image": "35547371_F3.jpg", "question": "Does the image show any signs of inflammation in the brain tissue?\n<image>"}
+{"question_id": 656, "image": "35547371_F3.jpg", "question": "Is it possible that the absence of the MCA in the control group is due to a surgical error?\n<image>"}
+{"question_id": 657, "image": "35547371_F3.jpg", "question": "I see a shadowy area in the image. Could that be a sign of a hemorrhage?\n<image>"}
+{"question_id": 658, "image": "35547371_F3.jpg", "question": "Are the changes in the experimental group reversible, or are they permanent?\n<image>"}
+{"question_id": 659, "image": "pmc_197906_0.jpg", "question": "Are there any signs of malignancy in this image that might indicate a more aggressive condition?\n<image>"}
+{"question_id": 660, "image": "pmc_197906_0.jpg", "question": "I noticed some blue areas in the tissue. Are those lymphoid follicles?\n<image>"}
+{"question_id": 661, "image": "pmc_197906_0.jpg", "question": "Are there any areas in the image where there are clearly defined air pockets, indicating necrosis?\n<image>"}
+{"question_id": 662, "image": "pmc_197906_0.jpg", "question": "Do the inflammatory cells show any signs of atypical behavior, indicative of a hyperplastic reaction?\n<image>"}
+{"question_id": 663, "image": "pmc_197906_0.jpg", "question": "Are these vascular channels also surrounded by sarcomatous stroma, which usually indicates aggressive behavior?\n<image>"}
+{"question_id": 664, "image": "pmc_197906_0.jpg", "question": "Is it possible that there are signs of chronic inflammation evident in this histopathological section?\n<image>"}
+{"question_id": 665, "image": "pmc_321141_0.jpg", "question": "I see some bright red areas in the image. Are those indicative of bleeding within the lymph nodes?\n<image>"}
+{"question_id": 666, "image": "pmc_321141_0.jpg", "question": "I noticed some structures that look like small bubbles in the lymph nodes. Are these cysts forming due to the disease?\n<image>"}
+{"question_id": 667, "image": "pmc_321141_0.jpg", "question": "In the image, are the lymph nodes showing signs of infection due to the presence of pus?\n<image>"}
+{"question_id": 668, "image": "pmc_321141_0.jpg", "question": "The lymph nodes seem to have a lot of yellowish areas. Does this mean they are undergoing fatty degeneration?\n<image>"}
+{"question_id": 669, "image": "pmc_321141_0.jpg", "question": "Is it possible that the dense lymphoid cells in the image are a sign of a benign condition rather than malignancy?\n<image>"}
+{"question_id": 670, "image": "pmc_321141_0.jpg", "question": "Are the variations in color and texture of the lymph nodes a sign of different types of cancer present simultaneously?\n<image>"}
+{"question_id": 671, "image": "pmc_605776_0.jpg", "question": "I see a bright area near the liver in the first image. Does that indicate a tumor?\n<image>"}
+{"question_id": 672, "image": "pmc_605776_0.jpg", "question": "Are there any signs of fluid accumulation in the right thoracic cavity as well?\n<image>"}
+{"question_id": 673, "image": "pmc_605776_0.jpg", "question": "The hematoma looks very small in the second image. Is that correct?\n<image>"}
+{"question_id": 674, "image": "pmc_605776_0.jpg", "question": "I noticed that the liver is interacting with the hematoma in the first image. What does that mean?\n<image>"}
+{"question_id": 675, "image": "pmc_605776_0.jpg", "question": "Is it possible that the hematoma is a result of a recent surgical procedure?\n<image>"}
+{"question_id": 676, "image": "pmc_605776_0.jpg", "question": "The descending aorta looks very dilated in the second image. Is that a concern?\n<image>"}
+{"question_id": 677, "image": "26388912_F2.jpg", "question": "Is there a bright red area surrounding the mass in the image?\n<image>"}
+{"question_id": 678, "image": "26388912_F2.jpg", "question": "Does the mass have a spongy texture as seen in the image?\n<image>"}
+{"question_id": 679, "image": "26388912_F2.jpg", "question": "I see that the mass is pulsating in the image. Is that a normal finding?\n<image>"}
+{"question_id": 680, "image": "26388912_F2.jpg", "question": "The mass appears to be necrotic, doesn't it?\n<image>"}
+{"question_id": 681, "image": "26388912_F2.jpg", "question": "Is the mass located in the tail of the pancreas?\n<image>"}
+{"question_id": 682, "image": "26388912_F2.jpg", "question": "Does the mass have a smooth surface texture?\n<image>"}
+{"question_id": 683, "image": "34552660_fig2.jpg", "question": "I see some unusual shapes in the image. Are there any unusual artifacts present in the X-ray images?\n<image>"}
+{"question_id": 684, "image": "34552660_fig2.jpg", "question": "I noticed that some of the images seem to have a blue tint. Does that indicate a specific condition?\n<image>"}
+{"question_id": 685, "image": "34552660_fig2.jpg", "question": "Are there any images in the dataset that show signs of pneumonia?\n<image>"}
+{"question_id": 686, "image": "34552660_fig2.jpg", "question": "I heard that chest X-rays can sometimes show heart size. Is that visible in the images?\n<image>"}
+{"question_id": 687, "image": "34552660_fig2.jpg", "question": "Are there any images that show a comparison between healthy and diseased lungs?\n<image>"}
+{"question_id": 688, "image": "34552660_fig2.jpg", "question": "I noticed some images appear to have a shadowy area. Does that mean there is a tumor present?\n<image>"}
+{"question_id": 689, "image": "pmc_606754_0.jpg", "question": "I see a large blue structure in the image. Is that a type of blood vessel?\n<image>"}
+{"question_id": 690, "image": "pmc_606754_0.jpg", "question": "The cyst looks very irregular. Does that mean it is malignant?\n<image>"}
+{"question_id": 691, "image": "pmc_606754_0.jpg", "question": "I noticed some yellow areas in the image. Are those areas indicative of necrosis?\n<image>"}
+{"question_id": 692, "image": "pmc_606754_0.jpg", "question": "Is the neuroendocrine tumor in the image a type of germ cell tumor?\n<image>"}
+{"question_id": 693, "image": "pmc_606754_0.jpg", "question": "Are there any signs of inflammation surrounding the cyst in the image?\n<image>"}
+{"question_id": 694, "image": "pmc_606754_0.jpg", "question": "The staining seems to highlight some areas more than others. Does that mean those areas are more active?\n<image>"}
+{"question_id": 695, "image": "pmc_50146_0.jpg", "question": "Is there any indication of a tumor in the CT scan image?\n<image>"}
+{"question_id": 696, "image": "pmc_50146_0.jpg", "question": "I see what looks like a shadow in the region of the left eye; could that be a sign of a bleed?\n<image>"}
+{"question_id": 697, "image": "pmc_50146_0.jpg", "question": "Can you tell me about any foreign bodies visible in the image?\n<image>"}
+{"question_id": 698, "image": "pmc_50146_0.jpg", "question": "I thought I saw some fluid accumulation in the sinuses; is that a sign of infection?\n<image>"}
+{"question_id": 699, "image": "pmc_50146_0.jpg", "question": "Is it possible that the fracture affects the brain or causes neurological symptoms?\n<image>"}
+{"question_id": 700, "image": "pmc_50146_0.jpg", "question": "Does the symmetry of the facial bones indicate that there was no severe injury?\n<image>"}
+{"question_id": 701, "image": "pmc_171716_0.jpg", "question": "I see a large mass in the image. Is it true that this mass is pulsating and could be a vascular tumor?\n<image>"}
+{"question_id": 702, "image": "pmc_171716_0.jpg", "question": "I noticed that the mass seems to have a solid component. Is that correct?\n<image>"}
+{"question_id": 703, "image": "pmc_171716_0.jpg", "question": "Could this mass be causing compression on the right kidney, leading to potential kidney failure?\n<image>"}
+{"question_id": 704, "image": "pmc_171716_0.jpg", "question": "Is it possible that this cyst is actually a malignant tumor given its size?\n<image>"}
+{"question_id": 705, "image": "pmc_171716_0.jpg", "question": "I heard that cysts can sometimes turn into tumors. Is there a risk of this cyst becoming cancerous?\n<image>"}
+{"question_id": 706, "image": "pmc_171716_0.jpg", "question": "I see that the mass is located near the appendix. Does that mean it could be an appendiceal abscess?\n<image>"}
+{"question_id": 707, "image": "pmc_185104_0.jpg", "question": "I see a large cavity in the image. Is there a visible connection to the throat?\n<image>"}
+{"question_id": 708, "image": "pmc_185104_0.jpg", "question": "Are there any bony structures present in the CT scans?\n<image>"}
+{"question_id": 709, "image": "pmc_185104_0.jpg", "question": "I noticed some unusual growths in the cavity. Are those tumors?\n<image>"}
+{"question_id": 710, "image": "pmc_185104_0.jpg", "question": "Is the catheter in the image used for drainage purposes?\n<image>"}
+{"question_id": 711, "image": "pmc_185104_0.jpg", "question": "Can you tell me if this condition is common in adults?\n<image>"}
+{"question_id": 712, "image": "pmc_185104_0.jpg", "question": "Are there any signs of inflammation in the cavity shown in the image?\n<image>"}
+{"question_id": 713, "image": "pmc_55478_0.jpg", "question": "I see some bright red spots in the image. Are those blood vessels?\n<image>"}
+{"question_id": 714, "image": "pmc_55478_0.jpg", "question": "Is the pancreatic tissue in the image functioning normally, or is it damaged?\n<image>"}
+{"question_id": 715, "image": "pmc_55478_0.jpg", "question": "I noticed that the pancreatic tissue appears greenish instead of purple. Is that a sign of pathology?\n<image>"}
+{"question_id": 716, "image": "pmc_55478_0.jpg", "question": "Are there any signs of inflammation in the gallbladder tissue surrounding the pancreatic tissue?\n<image>"}
+{"question_id": 717, "image": "pmc_55478_0.jpg", "question": "Is it common to find ectopic pancreatic tissue in the gallbladder of healthy individuals?\n<image>"}
+{"question_id": 718, "image": "pmc_55478_0.jpg", "question": "I think I see some yellowish areas in the image. Could those be signs of fat deposition?\n<image>"}
+{"question_id": 719, "image": "20072677_F5.jpg", "question": "In the image, I see a bright blue area. Is that a sign of necrosis in the tissue?\n<image>"}
+{"question_id": 720, "image": "20072677_F5.jpg", "question": "I noticed some cells that look like they are dividing rapidly. Are those cells indicative of a benign condition?\n<image>"}
+{"question_id": 721, "image": "20072677_F5.jpg", "question": "Is it common to see both fibroadenoma and infiltrating duct carcinoma in the same histological section?\n<image>"}
+{"question_id": 722, "image": "20072677_F5.jpg", "question": "Are the cells in the fibroadenoma more likely to metastasize compared to those in the infiltrating duct carcinoma?\n<image>"}
+{"question_id": 723, "image": "20072677_F5.jpg", "question": "I see some yellowish areas in the image. Could those be fat necrosis?\n<image>"}
+{"question_id": 724, "image": "20072677_F5.jpg", "question": "Are the cells in the infiltrating duct carcinoma more organized than those in the fibroadenoma?\n<image>"}
+{"question_id": 725, "image": "pmc_266010_0.jpg", "question": "I see a bright blue object in the image. Is that a dental implant?\n<image>"}
+{"question_id": 726, "image": "pmc_266010_0.jpg", "question": "The lesion appears to have a smooth surface. Does that indicate it is benign?\n<image>"}
+{"question_id": 727, "image": "pmc_266010_0.jpg", "question": "The mass seems to be very dark in color. Does that mean it is necrotic?\n<image>"}
+{"question_id": 728, "image": "pmc_266010_0.jpg", "question": "I can see some teeth in the image. Are they affected by the lesion?\n<image>"}
+{"question_id": 729, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "In the image, are there any signs of fluid accumulation in the lungs?\n<image>"}
+{"question_id": 730, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "I see some bright spots; do those represent calcified nodules?\n<image>"}
+{"question_id": 731, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "Is it common for lung nodules to be associated with enlarged lymph nodes in the mediastinum?\n<image>"}
+{"question_id": 732, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "Are the nodules in the image likely to be benign?\n<image>"}
+{"question_id": 733, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "Do the arrows indicate the presence of a tumor in the lymph nodes?\n<image>"}
+{"question_id": 734, "image": "32714535_f1-mco-0-0-2059.jpg", "question": "Are the lung nodules visible in the image a result of an infection?\n<image>"}
+{"question_id": 735, "image": "31534837_fig-1.jpg", "question": "In the image, I see some larvae. Are there any adult mosquitoes present as well?\n<image>"}
+{"question_id": 736, "image": "31534837_fig-1.jpg", "question": "I noticed that the larvae appear to be swimming in a bright blue solution. Does this indicate that the pyriproxyfen is a blue dye?\n<image>"}
+{"question_id": 737, "image": "31534837_fig-1.jpg", "question": "Are the larvae shown in the image exhibiting signs of resistance to pyriproxyfen?\n<image>"}
+{"question_id": 738, "image": "31534837_fig-1.jpg", "question": "I see that the larvae are clustered together. Does this clustering indicate that they are more susceptible to the pesticide?\n<image>"}
+{"question_id": 739, "image": "31534837_fig-1.jpg", "question": "Are the larvae in the image showing any signs of recovery after exposure to pyriproxyfen?\n<image>"}
+{"question_id": 740, "image": "31534837_fig-1.jpg", "question": "Is it possible that the larvae are being affected by a different chemical in the solution?\n<image>"}
+{"question_id": 741, "image": "32378644_fig_001.jpg", "question": "I see some bright yellow spots on the nodules. Are those indicative of a specific type of infection?\n<image>"}
+{"question_id": 742, "image": "32378644_fig_001.jpg", "question": "The nodules seem to be causing the beak to deform. Is that a common symptom of this condition?\n<image>"}
+{"question_id": 743, "image": "32378644_fig_001.jpg", "question": "Are these nodules a sign of a benign condition, or could they be malignant?\n<image>"}
+{"question_id": 744, "image": "32378644_fig_001.jpg", "question": "I noticed that the nodules are symmetrical. Does that indicate a specific type of infection?\n<image>"}
+{"question_id": 745, "image": "32378644_fig_001.jpg", "question": "Are the nodules likely to resolve on their own without treatment?\n<image>"}
+{"question_id": 746, "image": "28316852_fig1.jpg", "question": "In the image, I see a bright green area. Does that indicate a healthy tissue surrounding the mass?\n<image>"}
+{"question_id": 747, "image": "28316852_fig1.jpg", "question": "I noticed that the mass has a smooth surface. Is that typical for ovarian tumors?\n<image>"}
+{"question_id": 748, "image": "28316852_fig1.jpg", "question": "Is the solid area indicated by the red arrow a sign of malignancy?\n<image>"}
+{"question_id": 749, "image": "28316852_fig1.jpg", "question": "Are there any signs of infection in the mass, as suggested by the yellow discoloration?\n<image>"}
+{"question_id": 750, "image": "28316852_fig1.jpg", "question": "The image shows a large cystic structure. Does that mean it is benign?\n<image>"}
+{"question_id": 751, "image": "28316852_fig1.jpg", "question": "I see a red arrow pointing to a fluid-filled area. Is that typical for ovarian masses?\n<image>"}
+{"question_id": 752, "image": "pmc_112141_0.jpg", "question": "I see some unusual structures in the MRI scan. Are there any signs of a foreign object in the psoas muscles?\n<image>"}
+{"question_id": 753, "image": "pmc_112141_0.jpg", "question": "The image shows some bright spots in the psoas muscles. Could these be indicative of muscle hypertrophy?\n<image>"}
+{"question_id": 754, "image": "pmc_112141_0.jpg", "question": "I noticed that the spinal canal appears to be compressed in this MRI. Is that a common finding in cases of psoas abscess?\n<image>"}
+{"question_id": 755, "image": "pmc_112141_0.jpg", "question": "Are the highlighted areas in the psoas muscles indicative of a benign condition, or could they suggest something more serious?\n<image>"}
+{"question_id": 756, "image": "pmc_112141_0.jpg", "question": "The MRI shows a clear distinction between the vertebral bodies and the surrounding soft tissue. Does this mean there is no inflammation present?\n<image>"}
+{"question_id": 757, "image": "pmc_112141_0.jpg", "question": "Are the areas highlighted in the psoas muscles indicative of a recent injury?\n<image>"}
+{"question_id": 758, "image": "pmc_362874_0.jpg", "question": "I see some bright spots in the muscle tissue image. Are those bright spots indicative of any foreign objects or contaminants?\n<image>"}
+{"question_id": 759, "image": "pmc_362874_0.jpg", "question": "In the CT scan of the abdomen, is the liver depicted as having a higher density than the spleen, suggesting any potential issues?\n<image>"}
+{"question_id": 760, "image": "pmc_362874_0.jpg", "question": "In the image of the Oil Red O staining, are the red-stained droplets indicative of muscle damage or injury?\n<image>"}
+{"question_id": 761, "image": "pmc_362874_0.jpg", "question": "I noticed that the MRI shows a lot of dark areas. Do these dark areas indicate healthy tissue?\n<image>"}
+{"question_id": 762, "image": "pmc_362874_0.jpg", "question": "Are the histochemical stains in Panels e and f showing signs of inflammation in the tissue?\n<image>"}
+{"question_id": 763, "image": "pmc_305716_0.jpg", "question": "I see some unusual shapes in the images. Are there any signs of foreign objects lodged in the esophagus in image A?\n<image>"}
+{"question_id": 764, "image": "pmc_305716_0.jpg", "question": "In image B, I noticed some bright spots. Do these represent areas of inflammation in the esophagus?\n<image>"}
+{"question_id": 765, "image": "pmc_305716_0.jpg", "question": "Is it possible that the narrowing in image A is due to a tumor rather than a stricture?\n<image>"}
+{"question_id": 766, "image": "pmc_305716_0.jpg", "question": "In image C, the esophagus looks completely normal. Does this mean there are no motility issues present?\n<image>"}
+{"question_id": 767, "image": "pmc_305716_0.jpg", "question": "Are the irregularities in image C indicative of a severe condition like esophageal cancer?\n<image>"}
+{"question_id": 768, "image": "pmc_305716_0.jpg", "question": "I noticed that the esophagus in image A appears to be wider at the top. Does this suggest a dilation of the esophagus?\n<image>"}
+{"question_id": 769, "image": "23715092_awt105-F2.jpg", "question": "In the image, I see a blue area that seems to represent some kind of abnormal growth. What does that indicate?\n<image>"}
+{"question_id": 770, "image": "23715092_awt105-F2.jpg", "question": "I noticed that the yellow line appears to be marking a tumor resection area. Is that correct?\n<image>"}
+{"question_id": 771, "image": "23715092_awt105-F2.jpg", "question": "Is it true that the greater activation seen post-surgery means the patients are experiencing more severe memory issues?\n<image>"}
+{"question_id": 772, "image": "23715092_awt105-F2.jpg", "question": "I see that the image shows a significant decrease in activation in the right hemisphere. Does that mean the right side is less involved in memory functions?\n<image>"}
+{"question_id": 773, "image": "23715092_awt105-F2.jpg", "question": "Could the increased activation in the left posterior medial temporal lobe be a sign of developing a new memory-related disorder?\n<image>"}
+{"question_id": 774, "image": "23715092_awt105-F2.jpg", "question": "I see some areas in the image that look like they are not activated at all. Does that mean those areas are permanently damaged?\n<image>"}
+{"question_id": 775, "image": "pmc_269309_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of fungal infection in the skin biopsies, like hyphae or spores?\n<image>"}
+{"question_id": 776, "image": "pmc_269309_0.jpg", "question": "The image shows a lot of inflammation. Does that mean the patient is experiencing a severe allergic reaction?\n<image>"}
+{"question_id": 777, "image": "pmc_269309_0.jpg", "question": "I noticed that the lesional skin after treatment looks completely normal. Does this mean the treatment was 100% effective?\n<image>"}
+{"question_id": 778, "image": "pmc_269309_0.jpg", "question": "Are the CD3+ cells in the lesional skin after treatment still actively involved in the inflammatory process?\n<image>"}
+{"question_id": 779, "image": "pmc_269309_0.jpg", "question": "I see that the keratin 16 expression is very high in the lesional skin. Does that mean the patient has a genetic predisposition to skin cancer?\n<image>"}
+{"question_id": 780, "image": "pmc_269309_0.jpg", "question": "Are the dendritic cells in the image indicative of a viral infection, given their increased presence in the lesional skin?\n<image>"}
+{"question_id": 781, "image": "32547969_F2.jpg", "question": "In the image, I see a bright object near the hip. Is that a metal implant used for stabilization?\n<image>"}
+{"question_id": 782, "image": "32547969_F2.jpg", "question": "I noticed some unusual shadows around the hip joint. Are those signs of infection?\n<image>"}
+{"question_id": 783, "image": "32547969_F2.jpg", "question": "Is the fracture in the hip joint a result of osteoporosis, given the appearance of the bone?\n<image>"}
+{"question_id": 784, "image": "32547969_F2.jpg", "question": "The image shows a completely healed fracture, right?\n<image>"}
+{"question_id": 785, "image": "32547969_F2.jpg", "question": "Are the surrounding tissues in the image swollen due to inflammation?\n<image>"}
+{"question_id": 786, "image": "32547969_F2.jpg", "question": "I see a bright line across the hip. Is that a sign of a previous surgical incision?\n<image>"}
+{"question_id": 787, "image": "pmc_362518_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of extra vertebrae present?\n<image>"}
+{"question_id": 788, "image": "pmc_362518_0.jpg", "question": "The lighter areas look like they might be indicating inflammation. Is that correct?\n<image>"}
+{"question_id": 789, "image": "pmc_362518_0.jpg", "question": "I noticed some dark spots between the vertebrae. Do those indicate a herniated disc?\n<image>"}
+{"question_id": 790, "image": "pmc_362518_0.jpg", "question": "Are the fused vertebrae a sign of a serious condition?\n<image>"}
+{"question_id": 791, "image": "pmc_362518_0.jpg", "question": "I think I see some nerves in the image. Are they visible in CT scans?\n<image>"}
+{"question_id": 792, "image": "pmc_362518_0.jpg", "question": "The image seems to show some unusual curvature of the spine. Is that a common finding?\n<image>"}
+{"question_id": 793, "image": "pmc_64966_0.jpg", "question": "Are there any structures in the scan that resemble twisting blood vessels, or do the major vessels appear normal?\n<image>"}
+{"question_id": 794, "image": "pmc_64966_0.jpg", "question": "The lung tissue looks quite dark overall, indicating that there is no issue present, correct?\n<image>"}
+{"question_id": 795, "image": "pmc_64966_0.jpg", "question": "I see hints of flying saucers in the CT scan; could those be signs of respiratory infections?\n<image>"}
+{"question_id": 796, "image": "pmc_64966_0.jpg", "question": "Are the lighter regions in the lung image actually indicative of healthy lung tissue since they are more visible compared to the darker areas?\n<image>"}
+{"question_id": 797, "image": "pmc_64966_0.jpg", "question": "The normal heart and vessels shown must indicate that the patient is not in distress despite the lung findings, isn't that right?\n<image>"}
+{"question_id": 798, "image": "pmc_64966_0.jpg", "question": "The dark patches in the lung area could simply mean the lungs are ventilated well enough, right?\n<image>"}
+{"question_id": 799, "image": "pmc_256151_0.jpg", "question": "I see the isodose curves in the image. Are there any areas where the radiation dose is being directed towards a nonexistent organ, like a \"radiation sponge\"?\n<image>"}
+{"question_id": 800, "image": "pmc_256151_0.jpg", "question": "I noticed the blue isodose curve. Does that indicate that the surrounding tissues are receiving a very high dose of radiation, like 70%?\n<image>"}
+{"question_id": 801, "image": "pmc_256151_0.jpg", "question": "In the image, are the isodose curves suggesting that the radiation is being delivered in a pulsating manner to enhance treatment effectiveness?\n<image>"}
+{"question_id": 802, "image": "pmc_256151_0.jpg", "question": "I see the red isodose curve. Does that mean the tissues in that area are being treated with a lower dose than the yellow area?\n<image>"}
+{"question_id": 803, "image": "pmc_256151_0.jpg", "question": "Are the isodose curves indicating that the radiation is being applied in a way that could potentially cause damage to the heart, which is located in the upper left quadrant of the image?\n<image>"}
+{"question_id": 804, "image": "pmc_256151_0.jpg", "question": "I noticed the green isodose curve. Does that mean the tissues in that area are receiving a dose that is ineffective for treatment, like only 10%?\n<image>"}
+{"question_id": 805, "image": "pmc_322047_0.jpg", "question": "I see some strange blue structures in the image. Are those related to the pancreas?\n<image>"}
+{"question_id": 806, "image": "pmc_322047_0.jpg", "question": "The pancreatic tissue looks enlarged, doesn't it?\n<image>"}
+{"question_id": 807, "image": "pmc_322047_0.jpg", "question": "Are the masses behind the pancreatic tail causing any compression on the liver?\n<image>"}
+{"question_id": 808, "image": "pmc_322047_0.jpg", "question": "I heard that soft tissue masses like these can often be benign. Is that true?\n<image>"}
+{"question_id": 809, "image": "pmc_322047_0.jpg", "question": "Could these masses be a sign of pancreatitis?\n<image>"}
+{"question_id": 810, "image": "pmc_322047_0.jpg", "question": "Are the surrounding organs, like the spleen, also affected by these masses?\n<image>"}
+{"question_id": 811, "image": "30280061_FIG2.jpg", "question": "What unusual object is that in the upper left corner of the X-ray? It looks like a shadow of a tree.\n<image>"}
+{"question_id": 812, "image": "30280061_FIG2.jpg", "question": "I noticed that the lungs appear to be filled with air. Is that a sign of pulmonary edema?\n<image>"}
+{"question_id": 813, "image": "30280061_FIG2.jpg", "question": "Why does the heart look so small in this X-ray? Is that normal?\n<image>"}
+{"question_id": 814, "image": "30280061_FIG2.jpg", "question": "Is there a visible infection in the lungs based on the X-ray?\n<image>"}
+{"question_id": 815, "image": "30280061_FIG2.jpg", "question": "Are the ribs in the X-ray unusually thick?\n<image>"}
+{"question_id": 816, "image": "30280061_FIG2.jpg", "question": "I see a bright spot in the center of the lungs. Does that indicate a tumor?\n<image>"}
+{"question_id": 817, "image": "29740390_F2.jpg", "question": "In the image, I see a bright spot in the cerebellum. Is that a sign of a tumor?\n<image>"}
+{"question_id": 818, "image": "29740390_F2.jpg", "question": "I noticed that the proband's MRI shows a large cyst in the cerebellum. Is that common?\n<image>"}
+{"question_id": 819, "image": "29740390_F2.jpg", "question": "Is it possible that the white matter hyperintensities are due to a recent stroke?\n<image>"}
+{"question_id": 820, "image": "29740390_F2.jpg", "question": "Are the findings in the image consistent with a diagnosis of multiple sclerosis?\n<image>"}
+{"question_id": 821, "image": "pmc_34284_0.jpg", "question": "I see a large green mass in the image. Is that a tumor or some kind of foreign object?\n<image>"}
+{"question_id": 822, "image": "pmc_34284_0.jpg", "question": "The scans show a clear separation between the cochlea and the internal carotid artery, right?\n<image>"}
+{"question_id": 823, "image": "pmc_34284_0.jpg", "question": "I noticed that the lesion appears to be solid and well-circumscribed. Does that mean it is benign?\n<image>"}
+{"question_id": 824, "image": "pmc_34284_0.jpg", "question": "Are the endoscopic images showing the removal of a cyst from the petrous apex?\n<image>"}
+{"question_id": 825, "image": "pmc_34284_0.jpg", "question": "The MRI scans indicate that the internal carotid artery is completely unaffected by the lesion, correct?\n<image>"}
+{"question_id": 826, "image": "pmc_34284_0.jpg", "question": "I can see a bright blue area in the image. Is that indicative of inflammation?\n<image>"}
+{"question_id": 827, "image": "26236276_F2.jpg", "question": "What do you see in the left image? Are there any signs of inflammation?\n<image>"}
+{"question_id": 828, "image": "26236276_F2.jpg", "question": "I noticed some blue structures in the right image. Are those myelin sheaths?\n<image>"}
+{"question_id": 829, "image": "26236276_F2.jpg", "question": "Is it possible that the lesion is caused by a viral infection, given the presence of reactive astrocytes?\n<image>"}
+{"question_id": 830, "image": "26236276_F2.jpg", "question": "Are the astrocytes in the left image actively dividing?\n<image>"}
+{"question_id": 831, "image": "26236276_F2.jpg", "question": "Can you tell me if the lesion is likely to be benign or malignant based on the images?\n<image>"}
+{"question_id": 832, "image": "26236276_F2.jpg", "question": "Are there any signs of necrosis in the tissue shown in the images?\n<image>"}
+{"question_id": 833, "image": "28098212_f4.jpg", "question": "What kind of unusual structures can be seen in the green area of the MRI?\n<image>"}
+{"question_id": 834, "image": "28098212_f4.jpg", "question": "Is the tumor in the image pulsating, indicating active blood flow?\n<image>"}
+{"question_id": 835, "image": "28098212_f4.jpg", "question": "The tumor appears to be smooth and well-defined in the image, right?\n<image>"}
+{"question_id": 836, "image": "28098212_f4.jpg", "question": "The green area seems to indicate a benign tumor, doesn't it?\n<image>"}
+{"question_id": 837, "image": "28098212_f4.jpg", "question": "Does the presence of the tumor suggest that the patient will require immediate surgery again?\n<image>"}
+{"question_id": 838, "image": "28098212_f4.jpg", "question": "The MRI shows that the tumor is completely encapsulated, correct?\n<image>"}
+{"question_id": 839, "image": "33007921_microorganisms-08-01509-f005.jpg", "question": "I noticed that the images show a lot of red staining. Does that mean there is a high level of inflammation?\n<image>"}
+{"question_id": 840, "image": "33007921_microorganisms-08-01509-f005.jpg", "question": "Are the B cells in the images larger than normal due to the disease?\n<image>"}
+{"question_id": 841, "image": "33007921_microorganisms-08-01509-f005.jpg", "question": "The images suggest that the disease only affects the colon. Is that correct?\n<image>"}
+{"question_id": 842, "image": "33007921_microorganisms-08-01509-f005.jpg", "question": "Can we conclude that all marmosets with lymphocytic enterocolitis will show the same histological changes?\n<image>"}
+{"question_id": 843, "image": "33007921_microorganisms-08-01509-f005.jpg", "question": "Are there any signs of bacterial infection visible in the images?\n<image>"}
+{"question_id": 844, "image": "pmc_451520_0.jpg", "question": "I see a bright blue object in the image. What purpose does that serve?\n<image>"}
+{"question_id": 845, "image": "pmc_451520_0.jpg", "question": "Are the tissues shown in the image covered in a peculiar yellow substance?\n<image>"}
+{"question_id": 846, "image": "pmc_451520_0.jpg", "question": "I noticed that the gastric tissues seem to be entirely fibrous. Is that usual in cases of gastric lesions?\n<image>"}
+{"question_id": 847, "image": "pmc_451520_0.jpg", "question": "Is it common to perform endoscopic submucosal dissection on metastasized gastric cancer?\n<image>"}
+{"question_id": 848, "image": "pmc_451520_0.jpg", "question": "I saw a bright red area that could be inflamed tissue. Is it typical for inflamed tissue to appear that way in endoscopic views?\n<image>"}
+{"question_id": 849, "image": "pmc_451520_0.jpg", "question": "I notice a surgical tool that appears to be a scalpel in the image. What's the role of such a tool in the procedure?\n<image>"}
+{"question_id": 850, "image": "pmc_216341_0.jpg", "question": "I see a bright yellow shape in row A. Does this suggest a tumor?\n<image>"}
+{"question_id": 851, "image": "pmc_216341_0.jpg", "question": "Are the highlighted regions in row C representing areas of inflammation within the brain?\n<image>"}
+{"question_id": 852, "image": "pmc_216341_0.jpg", "question": "Is it true that the slices in row B show larger sections of the brain than those in row C because of the yellow highlights?\n<image>"}
+{"question_id": 853, "image": "pmc_216341_0.jpg", "question": "I think I noticed several black lines across the images in row B that suggest spinal fluid presence. Is that correct?\n<image>"}
+{"question_id": 854, "image": "pmc_216341_0.jpg", "question": "Are the images labeled in row B indicative of a developing neurological disorder due to the highlighted regions?\n<image>"}
+{"question_id": 855, "image": "pmc_216341_0.jpg", "question": "I've noticed that all the images seem to have been taken at the same level despite showing different anatomical structures. How is this possible?\n<image>"}
+{"question_id": 856, "image": "23482863_F7.jpg", "question": "In the image, I see some unusual purple structures. Are those artificial implants used in the tumor?\n<image>"}
+{"question_id": 857, "image": "23482863_F7.jpg", "question": "I noticed some areas that look like they have a smooth surface. Are those areas indicative of necrosis in the tumor?\n<image>"}
+{"question_id": 858, "image": "23482863_F7.jpg", "question": "Is it common for tumors like this to have a high vascularity, as seen in the image?\n<image>"}
+{"question_id": 859, "image": "23482863_F7.jpg", "question": "Are the bony components in the tumor a sign of malignancy?\n<image>"}
+{"question_id": 860, "image": "23482863_F7.jpg", "question": "I see some dark spots in the image. Are those signs of inflammation in the tumor?\n<image>"}
+{"question_id": 861, "image": "23482863_F7.jpg", "question": "Are the cartilaginous areas in the tumor a result of previous surgical intervention?\n<image>"}
+{"question_id": 862, "image": "33318934_fig2.jpg", "question": "Are there any signs of inflammation in the cells shown in the image?\n<image>"}
+{"question_id": 863, "image": "33318934_fig2.jpg", "question": "I see some blue cells in the image. Are those the adipocytes?\n<image>"}
+{"question_id": 864, "image": "33318934_fig2.jpg", "question": "Is there a presence of necrotic tissue in the image?\n<image>"}
+{"question_id": 865, "image": "33318934_fig2.jpg", "question": "Are the adipocytes in the image actively dividing?\n<image>"}
+{"question_id": 866, "image": "33318934_fig2.jpg", "question": "Do the enlarged nuclei indicate a type of cancer in the adipocytes?\n<image>"}
+{"question_id": 867, "image": "pmc_602624_0.jpg", "question": "I see some strange fibers in the image. Are those fibers actually part of a fictional muscle that connects to the brain?\n<image>"}
+{"question_id": 868, "image": "pmc_602624_0.jpg", "question": "I noticed that the dura mater appears to be a bright blue color in the image. Is that a common color for this structure in real life?\n<image>"}
+{"question_id": 869, "image": "pmc_602624_0.jpg", "question": "Is it true that the myodural bridge is primarily responsible for transmitting electrical signals from the brain to the spinal cord?\n<image>"}
+{"question_id": 870, "image": "pmc_602624_0.jpg", "question": "Are there any visible blood vessels in the image that indicate a connection between the brain and the spinal cord?\n<image>"}
+{"question_id": 871, "image": "pmc_602624_0.jpg", "question": "I heard that the rectus capitis posterior minor muscle is involved in the movement of the jaw. Is that correct?\n<image>"}
+{"question_id": 872, "image": "pmc_602624_0.jpg", "question": "Can you tell me if the inner layer of the spinal dura mater is actually a separate structure from the outer layer?\n<image>"}
+{"question_id": 873, "image": "pmc_429052_0.jpg", "question": "I noticed that the MRI image shows a bright spot near the pituitary gland. Is that a sign of hemorrhage in the brain?\n<image>"}
+{"question_id": 874, "image": "pmc_429052_0.jpg", "question": "Can you tell me if there\u2019s any swelling around the mass in the pituitary gland area?\n<image>"}
+{"question_id": 875, "image": "pmc_429052_0.jpg", "question": "Is there any sign of enhancement in the mass after contrast administration in the MRI?\n<image>"}
+{"question_id": 876, "image": "pmc_429052_0.jpg", "question": "Are there any visible arterial lesions in the image around the pituitary gland that could indicate arterial disease?\n<image>"}
+{"question_id": 877, "image": "pmc_429052_0.jpg", "question": "The mass appears to be infiltrative; does that suggest a malignant nature?\n<image>"}
+{"question_id": 878, "image": "pmc_82707_0.jpg", "question": "I can see that there are bright spots in the lower parts of the scans, does that indicate there is fluid accumulation in the eye?\n<image>"}
+{"question_id": 879, "image": "pmc_82707_0.jpg", "question": "In the images, do you notice any signs of bleeding or hemorrhage, particularly in the left eye scans?\n<image>"}
+{"question_id": 880, "image": "pmc_82707_0.jpg", "question": "Is the area visible in panel E indicative of a new type of vascular growth associated with retinal diseases?\n<image>"}
+{"question_id": 881, "image": "pmc_82707_0.jpg", "question": "Do the larger vessels in panel C indicate that the person has hypertension or some other related condition?\n<image>"}
+{"question_id": 882, "image": "pmc_82707_0.jpg", "question": "I'm concerned that the patterns observed across the scans suggest there's an inflammatory process occurring within the retina. What can you say about these patterns?\n<image>"}
+{"question_id": 883, "image": "pmc_82707_0.jpg", "question": "I saw what looked like a cluster of cells in panel D, possibly indicating a tumor. Is that a concern?\n<image>"}
+{"question_id": 884, "image": "pmc_167857_0.jpg", "question": "I see a bright spot in the CT scan. Does that indicate a tumor?\n<image>"}
+{"question_id": 885, "image": "pmc_167857_0.jpg", "question": "The EEG shows a lot of alpha waves. Does that mean the brain is functioning well?\n<image>"}
+{"question_id": 886, "image": "pmc_167857_0.jpg", "question": "Are the TCD readings showing increased blood flow on the affected side?\n<image>"}
+{"question_id": 887, "image": "pmc_167857_0.jpg", "question": "The image shows a clear recovery in case c, right?\n<image>"}
+{"question_id": 888, "image": "pmc_167857_0.jpg", "question": "Is it common for patients with brain injuries to have high beta wave activity?\n<image>"}
+{"question_id": 889, "image": "pmc_167857_0.jpg", "question": "I noticed that the CT scan in case b has a small area of swelling. Does that mean the injury is mild?\n<image>"}
+{"question_id": 890, "image": "29862109_fig2.jpg", "question": "I see a large irregular mass in the image. Is that the opacity you mentioned?\n<image>"}
+{"question_id": 891, "image": "29862109_fig2.jpg", "question": "The opacity seems to be located in the left lung, right?\n<image>"}
+{"question_id": 892, "image": "29862109_fig2.jpg", "question": "Could this opacity be a sign of pneumonia since it looks cloudy?\n<image>"}
+{"question_id": 893, "image": "29862109_fig2.jpg", "question": "Is it possible that the opacity is a result of a previous infection?\n<image>"}
+{"question_id": 894, "image": "29862109_fig2.jpg", "question": "I noticed that the opacity is moving in the image. Does that indicate it\u2019s fluid?\n<image>"}
+{"question_id": 895, "image": "29862109_fig2.jpg", "question": "The opacity appears to be very large. Does that mean it\u2019s more serious?\n<image>"}
+{"question_id": 902, "image": "35106241_FIG4.jpg", "question": "What does the blue arrow point to in the image? Is it indicating a tumor?\n<image>"}
+{"question_id": 903, "image": "35106241_FIG4.jpg", "question": "I see a green arrow in the image. What does it signify?\n<image>"}
+{"question_id": 904, "image": "35106241_FIG4.jpg", "question": "The yellow arrow seems to be pointing to a cyst. Is that correct?\n<image>"}
+{"question_id": 905, "image": "35106241_FIG4.jpg", "question": "Can you tell me if the thickening at the hepatic flexure is due to a benign condition?\n<image>"}
+{"question_id": 906, "image": "35106241_FIG4.jpg", "question": "Is the thickening at the splenic flexure a sign of infection?\n<image>"}
+{"question_id": 907, "image": "35106241_FIG4.jpg", "question": "Are the blue and yellow arrows indicating the same condition in both locations?\n<image>"}
+{"question_id": 908, "image": "pmc_66658_0.jpg", "question": "Is there a spongy area around the lesion in the left basal ganglia that indicates swelling?\n<image>"}
+{"question_id": 909, "image": "pmc_66658_0.jpg", "question": "I heard that lesions like this can sometimes indicate a breakdown of the blood-brain barrier; is that what is happening here?\n<image>"}
+{"question_id": 910, "image": "pmc_66658_0.jpg", "question": "Why is the midline of the brain shifted due to this lesion?\n<image>"}
+{"question_id": 911, "image": "pmc_66658_0.jpg", "question": "It looks like the sulci in the image are widened, isn\u2019t that a sign of atrophy?\n<image>"}
+{"question_id": 912, "image": "pmc_66658_0.jpg", "question": "Is there a sign of previous hemorrhage with the hyperintense region seen in the imaging?\n<image>"}
+{"question_id": 913, "image": "pmc_66658_0.jpg", "question": "I read that lesions like this can definitely be diagnosed through just one MRI scan.\n<image>"}
+{"question_id": 914, "image": "35204504_diagnostics-12-00414-f003.jpg", "question": "I see some unusual colors in the image. Are there any areas that represent a healthy heart?\n<image>"}
+{"question_id": 915, "image": "35204504_diagnostics-12-00414-f003.jpg", "question": "Are the pixel values in the image showing a new type of heart disease?\n<image>"}
+{"question_id": 916, "image": "35204504_diagnostics-12-00414-f003.jpg", "question": "Is it possible that the background area is actually a representation of a tumor?\n<image>"}
+{"question_id": 917, "image": "35204504_diagnostics-12-00414-f003.jpg", "question": "I heard that the normal myocardium can sometimes appear as a pixel value of 0. Is that true?\n<image>"}
+{"question_id": 918, "image": "pmc_241820_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of foreign objects in the abdominal region?\n<image>"}
+{"question_id": 919, "image": "pmc_241820_0.jpg", "question": "The nodules look quite small. Are they actually larger than 3 cm?\n<image>"}
+{"question_id": 920, "image": "pmc_241820_0.jpg", "question": "I noticed that the adrenal glands seem to be functioning normally despite the nodules. Is that a common finding in such cases?\n<image>"}
+{"question_id": 921, "image": "pmc_241820_0.jpg", "question": "Are the nodules in the adrenal glands connected to each other in any way?\n<image>"}
+{"question_id": 922, "image": "pmc_241820_0.jpg", "question": "I read that adrenal nodules can sometimes be mistaken for tumors. Is that true in this case?\n<image>"}
+{"question_id": 923, "image": "pmc_241820_0.jpg", "question": "Are the adrenal glands in this image showing signs of inflammation?\n<image>"}
+{"question_id": 924, "image": "26516452_f8-epj-07-1412.jpg", "question": "Is there a presence of any unusual structures in the pancreas, like cysts or tumors?\n<image>"}
+{"question_id": 925, "image": "26516452_f8-epj-07-1412.jpg", "question": "I noticed some bright spots in the image. Are those indicative of fat deposits in the pancreas?\n<image>"}
+{"question_id": 926, "image": "26516452_f8-epj-07-1412.jpg", "question": "Does the image suggest that the pancreas is functioning normally?\n<image>"}
+{"question_id": 927, "image": "26516452_f8-epj-07-1412.jpg", "question": "Are the secretive canals supposed to be visible in a healthy pancreas?\n<image>"}
+{"question_id": 928, "image": "26516452_f8-epj-07-1412.jpg", "question": "Is there any evidence of inflammation in the pancreas based on the image?\n<image>"}
+{"question_id": 929, "image": "26516452_f8-epj-07-1412.jpg", "question": "Can we conclude that the hemorrhage is due to a specific disease based on this image?\n<image>"}
+{"question_id": 930, "image": "23166552_F4.jpg", "question": "Looking at the chest X-ray, can you tell me if there are any signs of a foreign object in the lungs?\n<image>"}
+{"question_id": 931, "image": "23166552_F4.jpg", "question": "I noticed some dark spots on the X-ray. Are those signs of new infections developing?\n<image>"}
+{"question_id": 932, "image": "23166552_F4.jpg", "question": "Is it true that the patient was on mechanical ventilation for the entire month after treatment?\n<image>"}
+{"question_id": 933, "image": "23166552_F4.jpg", "question": "Can you see any signs of fluid accumulation in the pleural space in this X-ray?\n<image>"}
+{"question_id": 934, "image": "23166552_F4.jpg", "question": "Are the lungs completely clear now, or is there still some residual infection visible?\n<image>"}
+{"question_id": 935, "image": "23166552_F4.jpg", "question": "Does the X-ray indicate that the patient will need further surgical intervention?\n<image>"}
+{"question_id": 936, "image": "33266050_micromachines-11-01064-f006.jpg", "question": "What kind of unusual reactions did the IDE chips cause in the rabbits after implantation?\n<image>"}
+{"question_id": 937, "image": "33266050_micromachines-11-01064-f006.jpg", "question": "Were there any signs of necrosis in the tissue surrounding the IDE chips?\n<image>"}
+{"question_id": 938, "image": "33266050_micromachines-11-01064-f006.jpg", "question": "Did the IDE chips interact with the rabbit's immune system in any way?\n<image>"}
+{"question_id": 939, "image": "33266050_micromachines-11-01064-f006.jpg", "question": "Are the IDE chips designed to dissolve over time after implantation?\n<image>"}
+{"question_id": 940, "image": "34485260_F7.jpg", "question": "In the image, are there any indications of blood flow in the femoral artery?\n<image>"}
+{"question_id": 941, "image": "34485260_F7.jpg", "question": "I noticed some bright spots in the image. Do they represent areas of high pressure in the arteries?\n<image>"}
+{"question_id": 942, "image": "34485260_F7.jpg", "question": "Are the pressure waveforms in the vertebral artery showing signs of turbulence?\n<image>"}
+{"question_id": 943, "image": "34485260_F7.jpg", "question": "Can we see the effects of atherosclerosis in the flow patterns of the arteries shown?\n<image>"}
+{"question_id": 944, "image": "34485260_F7.jpg", "question": "Are the waveforms in the internal carotid artery completely flat, indicating no blood flow?\n<image>"}
+{"question_id": 945, "image": "pmc_218730_0.jpg", "question": "I see a collar in the image, but can you tell me about the crystal ball that\u2019s supposedly used to monitor the patient's airway status?\n<image>"}
+{"question_id": 946, "image": "pmc_218730_0.jpg", "question": "What can you tell me about how the collar is used to compress the patient's neck for effective airway management?\n<image>"}
+{"question_id": 947, "image": "pmc_218730_0.jpg", "question": "I noticed the patient\u2019s head in the image appears to be tilted forward. Does that mean the jaw thrust is ineffective in such a position?\n<image>"}
+{"question_id": 948, "image": "pmc_218730_0.jpg", "question": "I see that the collar is tight around the neck. Does this mean it is potentially harmful as a medical device?\n<image>"}
+{"question_id": 949, "image": "pmc_218730_0.jpg", "question": "Can you explain if the device actually allows visual access to the airway while applying the jaw thrust?\n<image>"}
+{"question_id": 950, "image": "pmc_218730_0.jpg", "question": "Since the patient appears to be in a deep state of sedation, can you share if the collar functions similarly to a CPAP machine for breathing support?\n<image>"}
+{"question_id": 951, "image": "pmc_846_0.jpg", "question": "I see some bright spots in the image. Are those areas of inflammation in the brain?\n<image>"}
+{"question_id": 952, "image": "pmc_846_0.jpg", "question": "Is there a visible connection between the tumor and the brain's surface in the image?\n<image>"}
+{"question_id": 953, "image": "pmc_846_0.jpg", "question": "I noticed a large, dark area in the image. Is that a cyst?\n<image>"}
+{"question_id": 954, "image": "pmc_846_0.jpg", "question": "Are the enlarged ventricles a sign of a stroke?\n<image>"}
+{"question_id": 955, "image": "pmc_846_0.jpg", "question": "Can you see any signs of hemorrhage in the image?\n<image>"}
+{"question_id": 956, "image": "pmc_846_0.jpg", "question": "Is the tumor likely to be benign based on its appearance in the image?\n<image>"}
+{"question_id": 957, "image": "pmc_438022_0.jpg", "question": "Are there any green spots in the image indicating another type of genetic marker?\n<image>"}
+{"question_id": 958, "image": "pmc_438022_0.jpg", "question": "The image shows some faint blue areas; do these represent areas of active gene expression?\n<image>"}
+{"question_id": 959, "image": "pmc_438022_0.jpg", "question": "It looks like the red fluorescent signals are uniformly distributed throughout the cells; does that mean the genes are equally expressed?\n<image>"}
+{"question_id": 960, "image": "pmc_438022_0.jpg", "question": "Can I conclude from the image that the genetic markers highlighted are responsible for some cellular functions?\n<image>"}
+{"question_id": 961, "image": "pmc_438022_0.jpg", "question": "I see multiple areas marked with white arrows; does this mean these signals are significantly mutated regions?\n<image>"}
+{"question_id": 962, "image": "pmc_438022_0.jpg", "question": "Could the dark background indicate any abnormalities in the DNA sequences being analyzed?\n<image>"}
+{"question_id": 963, "image": "pmc_331946_0.jpg", "question": "I see some bright spots in image (a). Are those bright areas actually signs of a tumor in the brain?\n<image>"}
+{"question_id": 964, "image": "pmc_331946_0.jpg", "question": "In image (b), I noticed that the brain structures look very distorted. Does this mean there is significant damage to the brain?\n<image>"}
+{"question_id": 965, "image": "pmc_331946_0.jpg", "question": "Are the hyperintense signals in image (a) caused by inflammation from an ear infection?\n<image>"}
+{"question_id": 966, "image": "pmc_331946_0.jpg", "question": "I heard that the bright spots in image (a) can also indicate normal tissue regeneration. Is that true?\n<image>"}
+{"question_id": 967, "image": "pmc_331946_0.jpg", "question": "In image (b), are the brain structures shown in a T1-weighted sequence?\n<image>"}
+{"question_id": 968, "image": "pmc_331946_0.jpg", "question": "Can the absence of abnormalities in image (b) rule out any ear-related issues?\n<image>"}
+{"question_id": 969, "image": "35587499_pone.0267781.g002.jpg", "question": "I see a lot of arrows in the image. Do they indicate the movement of patients through the cascade of care?\n<image>"}
+{"question_id": 970, "image": "35587499_pone.0267781.g002.jpg", "question": "Are there any steps in the cascade that involve a blood test instead of a skin test?\n<image>"}
+{"question_id": 971, "image": "35587499_pone.0267781.g002.jpg", "question": "It looks like the compliance for the chest X-ray is very low. Does that mean most patients skip this step?\n<image>"}
+{"question_id": 972, "image": "35587499_pone.0267781.g002.jpg", "question": "I noticed that the treatment completion rate is quite high. Does that mean the treatment is very effective?\n<image>"}
+{"question_id": 973, "image": "35587499_pone.0267781.g002.jpg", "question": "Are there any patients who are evaluated but do not receive treatment at all?\n<image>"}
+{"question_id": 974, "image": "35587499_pone.0267781.g002.jpg", "question": "Is it common for patients to have a follow-up appointment after the chest X-ray?\n<image>"}
+{"question_id": 975, "image": "28758088_F1.jpg", "question": "I see some unusual shapes in the image. Are there any signs of a tumor in the brain?\n<image>"}
+{"question_id": 976, "image": "28758088_F1.jpg", "question": "The image seems to show some bright spots. Could those be areas of infection?\n<image>"}
+{"question_id": 977, "image": "28758088_F1.jpg", "question": "I noticed that the left side of the brain looks more swollen. Does that mean there is more damage on that side?\n<image>"}
+{"question_id": 978, "image": "28758088_F1.jpg", "question": "Are the changes in the brain reversible, or is this damage permanent?\n<image>"}
+{"question_id": 979, "image": "28758088_F1.jpg", "question": "Is there any evidence of blood clots in the image?\n<image>"}
+{"question_id": 980, "image": "28758088_F1.jpg", "question": "I heard that external ventricular drainage can cause further complications. Is that true?\n<image>"}
+{"question_id": 987, "image": "pmc_231010_0.jpg", "question": "I've noticed some unusual blue boxes around sequences in the image. What do they represent?\n<image>"}
+{"question_id": 988, "image": "pmc_231010_0.jpg", "question": "Are the red boxes around the sequences only important for the Aguacate virus, or do they affect every virus shown?\n<image>"}
+{"question_id": 989, "image": "pmc_231010_0.jpg", "question": "Does the image suggest that the pink highlighting indicates proteins that are less relevant in the study of viral replication?\n<image>"}
+{"question_id": 990, "image": "pmc_231010_0.jpg", "question": "I read that the endonuclease domain spans from residue 50 to 150 based on the image. Is this consistent with what's shown?\n<image>"}
+{"question_id": 991, "image": "pmc_231010_0.jpg", "question": "Are there any viral proteins in the image that are not studied for their role in catalyzing reactions?\n<image>"}
+{"question_id": 992, "image": "pmc_231010_0.jpg", "question": "Are the conserved regions in the motifs strictly only related to metal binding and have no other functions?\n<image>"}
+{"question_id": 993, "image": "pmc_501616_0.jpg", "question": "I see two images here. Is there a third image showing a different angle of the humerus?\n<image>"}
+{"question_id": 994, "image": "pmc_501616_0.jpg", "question": "The X-ray looks like it shows a healthy humerus without any issues. Is that correct?\n<image>"}
+{"question_id": 995, "image": "pmc_501616_0.jpg", "question": "In the MRI, is there evidence of a soft tissue injury surrounding the humerus?\n<image>"}
+{"question_id": 996, "image": "pmc_501616_0.jpg", "question": "Can we see any signs of infection in the humerus from these images?\n<image>"}
+{"question_id": 997, "image": "pmc_501616_0.jpg", "question": "Is the MRI scan showing a complete break of the humerus?\n<image>"}
+{"question_id": 998, "image": "pmc_501616_0.jpg", "question": "Are there any signs of bone healing visible in the X-ray image?\n<image>"}
+{"question_id": 999, "image": "pmc_311046_0.jpg", "question": "I see a lot of cells in the image. Are there any green cells present in the tonsil tissue, and what might their role be?\n<image>"}
+{"question_id": 1000, "image": "pmc_311046_0.jpg", "question": "The dark zone seems to have a lot of activity. Are the cells there actually inactive, or is there a different reason for their appearance?\n<image>"}
+{"question_id": 1001, "image": "pmc_311046_0.jpg", "question": "I noticed that the light zone has a few cells. Does this mean that the light zone is less important for immune responses compared to the dark zone?\n<image>"}
+{"question_id": 1002, "image": "pmc_311046_0.jpg", "question": "Are the cells in the mantle zone completely inactive, or do they have some function?\n<image>"}
+{"question_id": 1003, "image": "pmc_311046_0.jpg", "question": "I see that the background is lightly stained. Does this mean that the tissue is unhealthy or damaged?\n<image>"}
+{"question_id": 1004, "image": "pmc_311046_0.jpg", "question": "Are the cells in the dark zone primarily T cells, or do they include other types of cells as well?\n<image>"}
+{"question_id": 1005, "image": "32587428_f11.jpg", "question": "I see some arrows in the image. Are they indicating the presence of a blood vessel?\n<image>"}
+{"question_id": 1006, "image": "32587428_f11.jpg", "question": "Is the tumor shown in the image a benign growth?\n<image>"}
+{"question_id": 1007, "image": "32587428_f11.jpg", "question": "Are there any signs of inflammation around the tumor in the image?\n<image>"}
+{"question_id": 1008, "image": "32587428_f11.jpg", "question": "I noticed some unusual structures near the tumor. Are those lymph nodes?\n<image>"}
+{"question_id": 1009, "image": "32587428_f11.jpg", "question": "Is the organ of Zuckerkandl involved in the digestive system?\n<image>"}
+{"question_id": 1010, "image": "32587428_f11.jpg", "question": "Can you tell me if the tumor is located in the left or right organ of Zuckerkandl?\n<image>"}
+{"question_id": 1011, "image": "pmc_373377_0.jpg", "question": "Why does the heart in the peak image appear to have a glowing effect around it? Is that a sign of something unusual?\n<image>"}
+{"question_id": 1012, "image": "pmc_373377_0.jpg", "question": "I noticed that the left ventricle seems to be larger in the peak image. Does this mean the heart is failing?\n<image>"}
+{"question_id": 1013, "image": "pmc_373377_0.jpg", "question": "Is it true that the baseline image shows signs of a heart attack because of the uniform texture?\n<image>"}
+{"question_id": 1014, "image": "pmc_373377_0.jpg", "question": "Why does the peak image show a decrease in the heart's contractility? Is that a common finding?\n<image>"}
+{"question_id": 1015, "image": "pmc_373377_0.jpg", "question": "I see some unusual colors in the peak image. Does that mean there are clots forming in the heart?\n<image>"}
+{"question_id": 1016, "image": "pmc_373377_0.jpg", "question": "Can the baseline image show signs of heart enlargement due to stress from daily activities?\n<image>"}
+{"question_id": 1017, "image": "pmc_14884_0.jpg", "question": "I see three images here. In the first one, are there any red fluorescent proteins present that might indicate a different cellular process?\n<image>"}
+{"question_id": 1018, "image": "pmc_14884_0.jpg", "question": "The second image, labeled GFP/WT, looks like the cells are more elongated. Is that correct, or are they actually rounded like in the first image?\n<image>"}
+{"question_id": 1019, "image": "pmc_14884_0.jpg", "question": "In the GFP/E499V image, I noticed that the cells seem to be interacting with each other more than in the other images. Is that a sign of increased cellular communication?\n<image>"}
+{"question_id": 1020, "image": "pmc_14884_0.jpg", "question": "The GFP image shows a lot of cells, but the GFP/WT image has fewer. Does that mean the wild-type protein is toxic to the cells?\n<image>"}
+{"question_id": 1021, "image": "pmc_14884_0.jpg", "question": "In the GFP/E499V image, are the cells showing signs of apoptosis due to the high concentration of fluorescence at the membrane?\n<image>"}
+{"question_id": 1022, "image": "pmc_14884_0.jpg", "question": "The GFP/WT image has a very bright fluorescence. Does that mean the cells are more metabolically active than those in the GFP image?\n<image>"}
+{"question_id": 1023, "image": "pmc_203742_0.jpg", "question": "I see that in row A, the bacteria are glowing bright green. Does this mean they are all alive and actively metabolizing?\n<image>"}
+{"question_id": 1024, "image": "pmc_203742_0.jpg", "question": "In row B, I noticed some bacteria appear to be forming clusters. Does this mean they are more virulent than those in row C?\n<image>"}
+{"question_id": 1025, "image": "pmc_203742_0.jpg", "question": "I noticed that the bacteria in row C are all rod-shaped. Does this mean they are all the same species?\n<image>"}
+{"question_id": 1026, "image": "pmc_203742_0.jpg", "question": "In row A, I see some bacteria that look like they are glowing brighter than others. Does this indicate that they are more resistant to antibiotics?\n<image>"}
+{"question_id": 1027, "image": "pmc_203742_0.jpg", "question": "I noticed that the bacteria in row A are all evenly distributed, while in row B, they seem to be more clustered. Does this mean that the treatment in row B was less effective?\n<image>"}
+{"question_id": 1028, "image": "pmc_203742_0.jpg", "question": "In row C, the bacteria appear to be shorter than those in row B. Does this mean they are less pathogenic?\n<image>"}
+{"question_id": 1029, "image": "20298612_F1.jpg", "question": "I see a large blue area in the image. Is that a sign of a tumor?\n<image>"}
+{"question_id": 1030, "image": "20298612_F1.jpg", "question": "The lesion appears to have a rough texture. Does that mean it is benign?\n<image>"}
+{"question_id": 1031, "image": "20298612_F1.jpg", "question": "I noticed that the lesion is surrounded by a thick layer of muscle. What does that indicate?\n<image>"}
+{"question_id": 1032, "image": "20298612_F1.jpg", "question": "Does the presence of this lesion mean that the patient has a high risk of stomach cancer?\n<image>"}
+{"question_id": 1033, "image": "20298612_F1.jpg", "question": "Is the lesion likely to heal on its own without treatment?\n<image>"}
+{"question_id": 1034, "image": "20298612_F1.jpg", "question": "Can the lesion be treated with over-the-counter medications?\n<image>"}
+{"question_id": 1035, "image": "29109875_fig1.jpg", "question": "I see some unusual bright spots in the image. Are those signs of infection?\n<image>"}
+{"question_id": 1036, "image": "29109875_fig1.jpg", "question": "Are the large masses in the image actually filled with fluid?\n<image>"}
+{"question_id": 1037, "image": "29109875_fig1.jpg", "question": "I noticed some green areas in the scan. Do they indicate healthy tissue?\n<image>"}
+{"question_id": 1038, "image": "29109875_fig1.jpg", "question": "Are the nodules interacting with the surrounding organs in a way that suggests they are benign?\n<image>"}
+{"question_id": 1039, "image": "29109875_fig1.jpg", "question": "Is it possible that the masses are just a result of inflammation rather than cancer?\n<image>"}
+{"question_id": 1040, "image": "29109875_fig1.jpg", "question": "Are the nodules actually a type of benign cyst?\n<image>"}
+{"question_id": 1041, "image": "pmc_279635_0.jpg", "question": "I see two wounds in the images. Is there a third wound that is not visible in the images?\n<image>"}
+{"question_id": 1042, "image": "pmc_279635_0.jpg", "question": "In Image A, is there a dental tool that appears to be a scalpel used to cut the tissue?\n<image>"}
+{"question_id": 1043, "image": "pmc_279635_0.jpg", "question": "The images show a lot of pus around the wounds, indicating a severe infection, right?\n<image>"}
+{"question_id": 1044, "image": "pmc_279635_0.jpg", "question": "In Image B, does the wound appear to be healing well since it looks dry and clean?\n<image>"}
+{"question_id": 1045, "image": "pmc_279635_0.jpg", "question": "Are the images showing a healthy oral cavity with no signs of trauma or injury?\n<image>"}
+{"question_id": 1046, "image": "pmc_279635_0.jpg", "question": "Is there a visible foreign object lodged in the wound in Image A?\n<image>"}
+{"question_id": 1047, "image": "34079679_FIG3.jpg", "question": "In the image, I see some bright green cells. Are those cells indicative of a benign tumor?\n<image>"}
+{"question_id": 1048, "image": "34079679_FIG3.jpg", "question": "I noticed some cells that appear to be dividing rapidly. Does this mean the tumor is well differentiated?\n<image>"}
+{"question_id": 1049, "image": "34079679_FIG3.jpg", "question": "Are there any blue cells in the image that indicate the presence of a viral infection?\n<image>"}
+{"question_id": 1050, "image": "34079679_FIG3.jpg", "question": "I see some cells that look like they have a lot of mucus. Does that mean the tumor is well differentiated?\n<image>"}
+{"question_id": 1051, "image": "34079679_FIG3.jpg", "question": "Are the tumor cells in the image negative for all markers, including CK7 and TTF-1?\n<image>"}
+{"question_id": 1052, "image": "34079679_FIG3.jpg", "question": "Is it true that the tumor is primarily composed of squamous cells based on the image?\n<image>"}
+{"question_id": 1053, "image": "pmc_364376_0.jpg", "question": "I see a strange object near the left hip. Is that a foreign body?\n<image>"}
+{"question_id": 1054, "image": "pmc_364376_0.jpg", "question": "The right hip looks like it has a significant fracture. Is that correct?\n<image>"}
+{"question_id": 1055, "image": "pmc_364376_0.jpg", "question": "I noticed some unusual swelling around the left hip. Is that a sign of infection?\n<image>"}
+{"question_id": 1056, "image": "pmc_364376_0.jpg", "question": "Is the femoral stem in the left hip showing signs of loosening?\n<image>"}
+{"question_id": 1057, "image": "pmc_364376_0.jpg", "question": "The pelvis looks deformed in the image. Is that a concern?\n<image>"}
+{"question_id": 1058, "image": "pmc_364376_0.jpg", "question": "I think I see signs of heterotopic ossification around the left hip. Is that possible?\n<image>"}
+{"question_id": 1059, "image": "pmc_535622_0.jpg", "question": "I see a bright ring around a dark center in the image. Does that mean there are new blood vessels forming in the retina?\n<image>"}
+{"question_id": 1060, "image": "pmc_535622_0.jpg", "question": "The dark area in the center looks like it has a smooth surface. Is it possible that this is a tumor?\n<image>"}
+{"question_id": 1061, "image": "pmc_535622_0.jpg", "question": "I noticed that the ring has a uniform brightness all around. Does this mean the retinal function is equally affected throughout?\n<image>"}
+{"question_id": 1062, "image": "pmc_535622_0.jpg", "question": "The arrows point to the inner and outer borders of the ring. Does this mean the inner area is healthy while the outer area is diseased?\n<image>"}
+{"question_id": 1063, "image": "pmc_535622_0.jpg", "question": "The image shows a clear scale bar. Does this mean that the retinal changes are reversible?\n<image>"}
+{"question_id": 1064, "image": "pmc_535622_0.jpg", "question": "I see that the surrounding tissue has a non-uniform pattern. Does this mean the patient has a systemic disease affecting the retina?\n<image>"}
+{"question_id": 1065, "image": "pmc_376665_0.jpg", "question": "I see some unusual green spots in the image. Are these indicative of a fungal infection?\n<image>"}
+{"question_id": 1066, "image": "pmc_376665_0.jpg", "question": "The pigmentation on the right eye looks much darker than the left. Is that a sign of a more serious condition?\n<image>"}
+{"question_id": 1067, "image": "pmc_376665_0.jpg", "question": "I noticed that the lower eyelid skin appears to be completely normal. Does this mean there is no underlying issue?\n<image>"}
+{"question_id": 1068, "image": "pmc_376665_0.jpg", "question": "Is the bilateral conjunctival pigmentation a common sign of a viral infection?\n<image>"}
+{"question_id": 1069, "image": "pmc_376665_0.jpg", "question": "The image shows a significant amount of fluid accumulation in the eyes. Is this a sign of dehydration?\n<image>"}
+{"question_id": 1070, "image": "pmc_376665_0.jpg", "question": "The pigmentation in the image seems to be a result of prolonged sun exposure. Is that a common cause of such pigmentation?\n<image>"}
+{"question_id": 1071, "image": "pmc_459932_0.jpg", "question": "I see some unusual shapes in the image. Are there any foreign objects present in the chest X-ray?\n<image>"}
+{"question_id": 1072, "image": "pmc_459932_0.jpg", "question": "The heart looks quite enlarged in this image. Is that a sign of heart disease?\n<image>"}
+{"question_id": 1073, "image": "pmc_459932_0.jpg", "question": "The hazy opacities in the lungs must mean there is fluid accumulation, right?\n<image>"}
+{"question_id": 1074, "image": "pmc_459932_0.jpg", "question": "Is it common for patients to have a tracheostomy site visible in chest X-rays after decannulation?\n<image>"}
+{"question_id": 1075, "image": "pmc_459932_0.jpg", "question": "I can see some dark spots in the lungs. Are those signs of infection?\n<image>"}
+{"question_id": 1076, "image": "pmc_257648_0.jpg", "question": "I see some unusual structures in the image. Are there any signs of nerve tissue involvement in the neoplasm?\n<image>"}
+{"question_id": 1077, "image": "pmc_257648_0.jpg", "question": "I noticed some bright red areas. Do those represent areas of inflammation in the tumor?\n<image>"}
+{"question_id": 1078, "image": "pmc_257648_0.jpg", "question": "Are the spindle cells in the image actually derived from muscle tissue?\n<image>"}
+{"question_id": 1079, "image": "pmc_257648_0.jpg", "question": "I see some blue staining in the image. Does that indicate the presence of lymphatic tissue?\n<image>"}
+{"question_id": 1080, "image": "pmc_257648_0.jpg", "question": "Are there any signs of necrosis in the tumor based on the image?\n<image>"}
+{"question_id": 1081, "image": "pmc_257648_0.jpg", "question": "Is it possible that the neoplasm is benign based on the features seen in the image?\n<image>"}
+{"question_id": 1082, "image": "pmc_285837_0.jpg", "question": "I see some bright green spots in the image. Are those areas of healthy brain tissue?\n<image>"}
+{"question_id": 1083, "image": "pmc_285837_0.jpg", "question": "The image shows a uniform distribution of staining across the entire tissue sample, right?\n<image>"}
+{"question_id": 1084, "image": "pmc_285837_0.jpg", "question": "I noticed that the tumor cells are all perfectly round. Is that typical for glioblastoma?\n<image>"}
+{"question_id": 1085, "image": "pmc_285837_0.jpg", "question": "The presence of viral markers in the tumor indicates that it is a viral infection, correct?\n<image>"}
+{"question_id": 1086, "image": "pmc_285837_0.jpg", "question": "The darker areas in the image are likely areas of necrosis, aren't they?\n<image>"}
+{"question_id": 1087, "image": "pmc_285837_0.jpg", "question": "Are the irregular cell clusters in the image a sign of benign tumor growth?\n<image>"}
+{"question_id": 1088, "image": "pmc_256996_0.jpg", "question": "I see a large irregular mass in the center of the image. Is this some sort of tumor?\n<image>"}
+{"question_id": 1089, "image": "pmc_256996_0.jpg", "question": "The cerebellum looks shrunken, doesn't it? It seems smaller than normal.\n<image>"}
+{"question_id": 1090, "image": "pmc_256996_0.jpg", "question": "I heard that the linear increase in T2 signal might indicate an acute infection. Is that true?\n<image>"}
+{"question_id": 1091, "image": "pmc_256996_0.jpg", "question": "Why does it matter that the image shows good brain tissue preservation? Aren't all MRI scans able to show that?\n<image>"}
+{"question_id": 1092, "image": "pmc_256996_0.jpg", "question": "Can this MRI help diagnose a type of aneurysm from the way the ventricles look?\n<image>"}
+{"question_id": 1093, "image": "pmc_256996_0.jpg", "question": "There seems to be a glowing effect in the left hemisphere of the brain. What does that indicate?\n<image>"}
+{"question_id": 1094, "image": "pmc_256996_0.jpg", "question": "I thought T2 hyperintensities only appear in the frontal lobe; is that a misconception?\n<image>"}
+{"question_id": 1095, "image": "33395825_fig0005.jpg", "question": "In the image, is there a visible connection between the gallbladder and the pancreas?\n<image>"}
+{"question_id": 1096, "image": "33395825_fig0005.jpg", "question": "I see some bright spots in the gallbladder area. Are those calcifications?\n<image>"}
+{"question_id": 1097, "image": "33395825_fig0005.jpg", "question": "Does the image suggest that the gallbladder is completely filled with fluid?\n<image>"}
+{"question_id": 1098, "image": "33395825_fig0005.jpg", "question": "Are the arrows indicating that the gallbladder is pushing against the liver and causing damage?\n<image>"}
+{"question_id": 1099, "image": "33395825_fig0005.jpg", "question": "Is it possible that the gallbladder mass is a benign condition since it has an indistinct border?\n<image>"}
+{"question_id": 1100, "image": "33395825_fig0005.jpg", "question": "Are there any signs of infection in the gallbladder based on the image?\n<image>"}
+{"question_id": 1101, "image": "32792606_Fig2.jpg", "question": "What unusual elements can be found in the nomogram, such as any fictional predictors?\n<image>"}
+{"question_id": 1102, "image": "32792606_Fig2.jpg", "question": "I see a predictor labeled \"HIVI.\" Does this mean that HIV infection is not a significant factor in predicting MDR-TB?\n<image>"}
+{"question_id": 1103, "image": "32792606_Fig2.jpg", "question": "Are the anti-TB medications listed in the nomogram ineffective in treating MDR-TB?\n<image>"}
+{"question_id": 1104, "image": "32792606_Fig2.jpg", "question": "Is it true that the nomogram can predict the risk of MDR-TB only for patients who have never been treated for TB before?\n<image>"}
+{"question_id": 1105, "image": "32792606_Fig2.jpg", "question": "Can the nomogram be used to determine the exact number of cases of MDR-TB in a population?\n<image>"}
+{"question_id": 1106, "image": "32792606_Fig2.jpg", "question": "I noticed that the nomogram includes a factor for \"duration of positive sputum culture.\" Does this mean that longer durations are always indicative of MDR-TB?\n<image>"}
+{"question_id": 1107, "image": "31728625_Fig1.jpg", "question": "Are there any nerve cells present in the tumors shown in the image?\n<image>"}
+{"question_id": 1108, "image": "31728625_Fig1.jpg", "question": "I see some bright red areas in the image. Do those indicate areas of inflammation?\n<image>"}
+{"question_id": 1109, "image": "31728625_Fig1.jpg", "question": "Are the giant cell tumors primarily composed of muscle cells?\n<image>"}
+{"question_id": 1110, "image": "31728625_Fig1.jpg", "question": "The image shows that the tumors are benign, right?\n<image>"}
+{"question_id": 1111, "image": "31728625_Fig1.jpg", "question": "Are the mutations in the tumors caused by environmental factors?\n<image>"}
+{"question_id": 1112, "image": "31728625_Fig1.jpg", "question": "Can we see the mutations in the image without any staining techniques?\n<image>"}
+{"question_id": 1113, "image": "pmc_513123_0.jpg", "question": "Is there any evidence of an additional spleen on the ultrasound image?\n<image>"}
+{"question_id": 1114, "image": "pmc_513123_0.jpg", "question": "What is the indication of the increased brightness seen in the liver area in this ultrasound?\n<image>"}
+{"question_id": 1115, "image": "pmc_513123_0.jpg", "question": "I can see a large fluid collection in the abdominal cavity, is that a sign of ascites?\n<image>"}
+{"question_id": 1116, "image": "pmc_513123_0.jpg", "question": "What does the darker region at the bottom of the image indicate regarding kidney health in this case?\n<image>"}
+{"question_id": 1117, "image": "pmc_513123_0.jpg", "question": "It appears that the ultrasound shows some abnormal shadows in the liver area, does that suggest any issues?\n<image>"}
+{"question_id": 1118, "image": "pmc_513123_0.jpg", "question": "Is the right kidney darker because it\u2019s inflamed?\n<image>"}
+{"question_id": 1119, "image": "pmc_354316_0.jpg", "question": "I see some unusual colors in the image. Are those colors indicating the presence of a foreign object in the skull?\n<image>"}
+{"question_id": 1120, "image": "pmc_354316_0.jpg", "question": "It looks like there are some intact bones in the orbital region. Is that correct?\n<image>"}
+{"question_id": 1121, "image": "pmc_354316_0.jpg", "question": "I heard that CT scans can sometimes show soft tissue damage. Is that visible in this image?\n<image>"}
+{"question_id": 1122, "image": "pmc_354316_0.jpg", "question": "Are the fragmented bones in the image indicative of a recent injury?\n<image>"}
+{"question_id": 1123, "image": "pmc_354316_0.jpg", "question": "I noticed some swelling around the eye area in the image. Does that mean there is inflammation present?\n<image>"}
+{"question_id": 1124, "image": "pmc_354316_0.jpg", "question": "Is it possible that the damage in the skull is reversible based on what we see in the image?\n<image>"}
+{"question_id": 1125, "image": "23013845_F2.jpg", "question": "I see some unusual shapes in the X-ray. Are those shapes actually tumors in the lung?\n<image>"}
+{"question_id": 1126, "image": "23013845_F2.jpg", "question": "The X-ray looks quite dark in some areas. Does that mean there is fluid accumulation in the lungs?\n<image>"}
+{"question_id": 1127, "image": "23013845_F2.jpg", "question": "I noticed that the left lung looks smaller than the right lung. Is that a sign of a serious condition?\n<image>"}
+{"question_id": 1128, "image": "23013845_F2.jpg", "question": "Are the pseudocystic changes a sign that the patient is improving?\n<image>"}
+{"question_id": 1129, "image": "23013845_F2.jpg", "question": "Is it common to see these types of changes in adults with lung disease?\n<image>"}
+{"question_id": 1130, "image": "23013845_F2.jpg", "question": "Can these findings be treated with medication alone?\n<image>"}
+{"question_id": 1131, "image": "pmc_542940_0.jpg", "question": "I see a strange object in the image that looks like a balloon. Is there any significance to that?\n<image>"}
+{"question_id": 1132, "image": "pmc_542940_0.jpg", "question": "The biliopancreatic limb looks very thin. Does that indicate a problem with nutrient absorption?\n<image>"}
+{"question_id": 1133, "image": "pmc_542940_0.jpg", "question": "Is the contrast material in the intestines indicative of a perforation?\n<image>"}
+{"question_id": 1134, "image": "pmc_542940_0.jpg", "question": "The duodenal diverticulum looks like it\u2019s causing a lot of pressure on the surrounding organs. Is that a common occurrence?\n<image>"}
+{"question_id": 1135, "image": "pmc_35270_0.jpg", "question": "I see some bright spots in the image. Are those areas of infection in the joint?\n<image>"}
+{"question_id": 1136, "image": "pmc_35270_0.jpg", "question": "I noticed a large mass in the image. Is that a tumor affecting the wrist joint?\n<image>"}
+{"question_id": 1137, "image": "pmc_35270_0.jpg", "question": "The image shows a clear separation between the fat and serum. Does that mean the patient has a chronic condition?\n<image>"}
+{"question_id": 1138, "image": "pmc_35270_0.jpg", "question": "Are the red cells in the image indicative of a bleeding disorder?\n<image>"}
+{"question_id": 1139, "image": "pmc_35270_0.jpg", "question": "I see a bright area that looks like a cyst. Is there a cyst in the wrist joint?\n<image>"}
+{"question_id": 1140, "image": "pmc_35270_0.jpg", "question": "The image shows a thickened joint capsule. Does that mean the patient has arthritis?\n<image>"}
