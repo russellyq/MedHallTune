@@ -11,21 +11,15 @@
 
 ## Release
 - Automatic evaluation platform is available at [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval).
-- Dataset is available at [**OpenCompass**](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
-- Evaluation data is now available at [**HuggingFace**](https://huggingface.co/datasets/russellyq/MedHallTune).
-- MedHallTune is now available on [**arXiv**](https://arxiv.org/abs/2502.20780).
-
-## Release
-- Automatic evaluation platform is available at [MedHallTune-Eval](https://huggingface.co/spaces/russellyq/MedHallTune-Eval).
-- Dataset is available at [**OpenCompass**](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
-- Evaluation data is available at [**HuggingFace**](https://huggingface.co/datasets/russellyq/MedHallTune).
-- MedHallTune is available on [**arXiv**](https://arxiv.org/abs/2502.20780).
+- Leaderboard is available at [**OpenCompass**](https://hub.opencompass.org.cn/dataset-detail/MedHallTune).
+- Dataset is available at [**HuggingFace**](https://huggingface.co/datasets/russellyq/MedHallTune).
+- Paper is available on [**arXiv**](https://arxiv.org/abs/2502.20780).
 
 ## Usage
 
 1. Download the image data from [MedHallTune](https://huggingface.co/datasets/russellyq/MedHallTune).
 
-2. The validation split annotations are provided under `/results_save_dir/`.
+2. The validation split annotations are provided under `/results_save_dir/` in this Github Page.
 
 3. Run **inference with your own model** to generate a prediction file in **JSONL format**.
 
